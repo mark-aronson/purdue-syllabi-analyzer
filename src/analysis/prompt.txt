@@ -1,0 +1,31 @@
+You are an expert academic analyst. You will be given the contents of a university course syllabus from Purdue University.
+
+Extract the following information and return it as JSON:
+
+{
+  "department": "department code (e.g. CS, MA, ECE)",
+  "course_number": "course number (e.g. 18000, 25100)",
+  "course_title": "full course title",
+  "credits": number of credit hours,
+  "instructor": "instructor name",
+  "semester": "semester and year (e.g. Fall 2024)",
+  "campus": "campus name (e.g. West Lafayette)",
+  "description": "brief course description",
+  "learning_outcomes": ["list of learning outcomes"],
+  "textbooks": ["list of required textbooks/resources"],
+  "grading_breakdown": {"component": percentage},
+  "assignment_types": ["list of assignment types (e.g. homework, exams, projects)"],
+  "exam_count": number of exams,
+  "has_final_exam": true/false,
+  "has_group_work": true/false,
+  "has_attendance_policy": true/false,
+  "attendance_mandatory": true/false,
+  "late_policy": "summary of late work policy or null",
+  "office_hours": "office hours description or null",
+  "prerequisites": ["list of prerequisites"],
+  "tools_and_platforms": ["list of software/platforms used (e.g. Brightspace, Gradescope, MATLAB)"],
+  "academic_integrity_policy": "summary or null"
+}
+
+If a field cannot be determined from the syllabus, set it to null.
+Return ONLY valid JSON, no other text.

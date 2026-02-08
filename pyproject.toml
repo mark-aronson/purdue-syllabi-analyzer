@@ -1,0 +1,12 @@
+[project]
+name = "purdue-syllabi-analyzer"
+version = "0.1.0"
+description = "Analyze Purdue University course syllabi using Claude and visualize with Streamlit"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic",
+    "python-docx",
+    "streamlit",
+    "pandas",
+]

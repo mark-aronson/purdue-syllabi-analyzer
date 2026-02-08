@@ -1,0 +1,16 @@
+# ignore virtual environment
+.venv/
+
+# Syllabi PDFs (too large for git)
+syllabi/**/*.pdf
+syllabi/**/*.docx
+
+# Analysis results (regenerable)
+data/results/*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
