@@ -3572,5 +3572,107 @@
       }
     },
     "_source_file": "POL\\POL43801_Spring2026_RWY79Y.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": null,
+      "course_title": "United States Foreign Policy Making",
+      "department": "Political Science",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course remains within the discipline of political science, drawing on theories, frameworks, and case studies from within that field. There is no evidence of intentional integration of perspectives from other distinct disciplines (e.g., economics, engineering, natural sciences) that are necessary to the learning outcomes."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students analyze case studies and apply decision-making frameworks, the syllabus does not indicate that students formulate original research questions, conduct independent investigations, or produce original findings that extend beyond established knowledge in the field."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The course examines U.S. foreign policy and global relationships, but there is no evidence of sustained engagement with external communities, organizations, or structured reflection on the ethical, social, or cultural dimensions of such engagement. The war game simulation is classroom-based, not community-engaged."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The war game simulation requires students to 'work together to solve a pressing foreign policy issue,' involving decision-making with ethical and strategic consequences. The two-page reflection requires students to 'provide personal feedback and reflect on the outcome,' demonstrating intentional practice and reflection on decision-making processes central to leadership development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical frameworks for foreign policy decision-making, including unitary state, cognitive, organizational process, and bureaucratic politics perspectives, and applies these to complex case studies such as the Iran nuclear standoff and Bin Laden assassination."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through the three-part war game simulation that spans multiple weeks (Weeks 12-14), requiring application of course material to a pressing foreign policy problem, culminating in a written reflection."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The war game simulation explicitly involves collaborative intellectual work as 'the class will work together to solve a pressing foreign policy issue.' The framework writing assignments and final exam also require significant independent analytical work applying course frameworks."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments, including the war game simulation and framework writing assignments, appear to be instructor-defined. There is no evidence that students define or shape their own research questions or project topics."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The war game simulation involves students making decisions about 'a pressing foreign policy issue' with strategic and ethical implications. The reflection component indicates students must consider the 'outcome' of their decisions, suggesting intellectual consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The final exam involves extended analytical commitment, as students must prepare for 3-5 essay questions distributed in advance and respond to essay questions requiring synthesis of course material. The framework writing assignments also require sustained application of decision-making frameworks to course content."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The war game simulation with write-up (15% of grade) and the final exam (20% of grade) each constitute major intellectual deliverables. Together, these represent 35% of the course grade and require substantial analytical work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. Assignments are discrete rather than cumulative in a portfolio format."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The war game simulation and written assignments are classroom-based and do not appear to have public-facing or applied outcomes beyond the academic context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes sustained assessment through framework writing assignments (10%), two module exams (30%), war game simulation and write-up (15%), and a final exam (20%). Together, 75% of the grade requires critical analysis and application of decision-making frameworks to foreign policy scenarios."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course 'builds on the foundations of U.S. foreign policy' and engages with advanced theoretical frameworks and case applications, suggesting it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides a 'comprehensive overview,' it moves beyond broad coverage to focused application of decision-making frameworks through case studies and simulation, requiring advanced analysis rather than survey-level introduction."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training; it emphasizes theoretical frameworks, analytical application, and critical decision-making in foreign policy contexts."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: the war game simulation with write-up (15%), framework writing assignments (10%), module exams (30%), and final exam (20%)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the leadership development pillar through its war game simulation requiring consequential decision-making and reflection. It satisfies all three rigor criteria (advanced content in decision-making frameworks, sustained inquiry through the multi-week simulation, and collaborative work). It meets student agency requirements through consequential decision-making and extended analytical commitment. It demonstrates learning through major projects (simulation and final exam) and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "POL\\POL43900_Spring2026_HGQZX1.pdf"
   }
 ]
