@@ -1,31 +1,95 @@
 You are an expert academic analyst. You will be given the contents of a university course syllabus from Purdue University.
 
+For every criterion below, provide a "score" (0 or 1) AND a "rationale" (1-2 sentences citing specific evidence from the syllabus that justifies the score). If scoring 0, the rationale should explain what evidence is missing or why what is present is insufficient.
+
+Score each pillar as 1 or 0 based on the following criteria. A pillar receives 1 ONLY if the syllabus provides clear evidence that the course meets the criterion. If the evidence is absent or ambiguous, score 0.
+
+- interdisciplinary_academics: 1 if the course intentionally integrates perspectives, methods, or ways of knowing from two or more traditionally distinct fields (e.g., liberal arts, sciences, agriculture, engineering) in ways that are necessary to the learning outcomes, not merely additive.
+- undergraduate_research: 1 if the course engages students in inquiry, investigation, or knowledge creation that extends beyond established answers, including formulation of questions, analysis of evidence, or production of original or applied findings.
+- community_and_global_engagement: 1 if the course connects academic learning to real-world contexts through sustained engagement with communities, organizations, or global issues, and includes structured reflection on the ethical, social, or cultural dimensions of that engagement.
+- leadership_development: 1 if the course develops students' capacity to make decisions, take responsibility, or influence outcomes in academic, professional, or civic contexts through intentional practice, reflection, and analysis of leadership or ethical frameworks.
+
+Score each rigor criterion as 1 or 0. At least one must be present for the course to meet Honors teaching and learning expectations.
+
+- advanced_content: 1 if the course includes advanced theoretical, analytical, or methodological content.
+- sustained_inquiry: 1 if the course involves sustained inquiry, design, or problem-solving across the term.
+- independent_or_collaborative_work: 1 if the course requires significant independent or collaborative intellectual work.
+
+Score each student agency and responsibility criterion as 1 or 0. At least one must be present for the course to meet Honors teaching and learning expectations.
+
+- student_defined_projects: 1 if the course includes student-defined or student-shaped projects or questions.
+- consequential_decision_making: 1 if the course involves decision-making with intellectual or ethical consequences.
+- extended_analytical_commitment: 1 if the work requires extended analytical commitment and iterative review/response.
+
+Score each demonstrable evidence of learning criterion as 1 or 0. At least one must be present to show clear evidence of advanced learning.
+
+- major_project: 1 if the course includes a major paper, project, design, or performance that constitutes a significant portion of the course grade.
+- portfolio_or_capstone: 1 if the course includes a portfolio or capstone-style artifact integrating work across the term.
+- public_facing_outcome: 1 if the course includes a public-facing or applied outcome requiring academic judgment.
+- sustained_assessment: 1 if the course has a sustained assessment structure in which a majority of graded work requires critical analysis, synthesis, or original contribution.
+
+Score each exclusion criterion as 1 or 0. If ANY exclusion is scored 1, the course is NOT eligible.
+
+- lower_division_introductory: 1 if the course is a lower-division course designed to introduce foundational concepts within a discipline.
+- broad_introductory_coverage: 1 if the course is a broad introductory course focused on coverage rather than advanced analysis or application.
+- skills_only_or_tool_training: 1 if the course is a skills-only or tool-training course.
+- lacks_major_deliverable: 1 if the course lacks a major intellectual deliverable.
+- already_counted: 1 if the course is already counted through another Honors credit mechanism.
+
+Based on the full analysis, provide a review decision. The value must be exactly one of: "approved", "not_approved", or "deferred".
+
+- approved: The course meets at least one pillar, satisfies rigor, student agency, and demonstrable evidence requirements, and triggers no exclusions.
+- not_approved: The course fails one or more required sections or triggers an exclusion.
+- deferred: The syllabus lacks sufficient information to make a definitive determination.
+
 Extract the following information and return it as JSON:
 
 {
-  "department": "department code (e.g. CS, MA, ECE)",
-  "course_number": "course number (e.g. 18000, 25100)",
-  "course_title": "full course title",
-  "credits": number of credit hours,
-  "instructor": "instructor name",
-  "semester": "semester and year (e.g. Fall 2024)",
-  "campus": "campus name (e.g. West Lafayette)",
-  "description": "brief course description",
-  "learning_outcomes": ["list of learning outcomes"],
-  "textbooks": ["list of required textbooks/resources"],
-  "grading_breakdown": {"component": percentage},
-  "assignment_types": ["list of assignment types (e.g. homework, exams, projects)"],
-  "exam_count": number of exams,
-  "has_final_exam": true/false,
-  "has_group_work": true/false,
-  "has_attendance_policy": true/false,
-  "attendance_mandatory": true/false,
-  "late_policy": "summary of late work policy or null",
-  "office_hours": "office hours description or null",
-  "prerequisites": ["list of prerequisites"],
-  "tools_and_platforms": ["list of software/platforms used (e.g. Brightspace, Gradescope, MATLAB)"],
-  "academic_integrity_policy": "summary or null"
+  "course_information": {
+    "course_number": "course number (e.g. COM 114, ABE 201)",
+    "course_title": "full course title",
+    "department": "department code (e.g. CS, MA, ECE)",
+    "college": "college (e.g. Science, Engineering)",
+    "review_date": "date of the review (in mm/dd/yyyy format)"
+  },
+  "course_analysis": {
+    "pillars": {
+      "interdisciplinary_academics": {"score": 0 or 1, "rationale": "..."},
+      "undergraduate_research": {"score": 0 or 1, "rationale": "..."},
+      "community_and_global_engagement": {"score": 0 or 1, "rationale": "..."},
+      "leadership_development": {"score": 0 or 1, "rationale": "..."}
+    },
+    "rigor": {
+      "advanced_content": {"score": 0 or 1, "rationale": "..."},
+      "sustained_inquiry": {"score": 0 or 1, "rationale": "..."},
+      "independent_or_collaborative_work": {"score": 0 or 1, "rationale": "..."}
+    },
+    "student_agency_and_responsibility": {
+      "student_defined_projects": {"score": 0 or 1, "rationale": "..."},
+      "consequential_decision_making": {"score": 0 or 1, "rationale": "..."},
+      "extended_analytical_commitment": {"score": 0 or 1, "rationale": "..."}
+    },
+    "demonstrable_evidence_of_learning": {
+      "major_project": {"score": 0 or 1, "rationale": "..."},
+      "portfolio_or_capstone": {"score": 0 or 1, "rationale": "..."},
+      "public_facing_outcome": {"score": 0 or 1, "rationale": "..."},
+      "sustained_assessment": {"score": 0 or 1, "rationale": "..."}
+    },
+    "exclusions": {
+      "lower_division_introductory": {"score": 0 or 1, "rationale": "..."},
+      "broad_introductory_coverage": {"score": 0 or 1, "rationale": "..."},
+      "skills_only_or_tool_training": {"score": 0 or 1, "rationale": "..."},
+      "lacks_major_deliverable": {"score": 0 or 1, "rationale": "..."},
+      "already_counted": {"score": 0 or 1, "rationale": "..."}
+    },
+    "review_decision": {
+      "decision": "approved" or "not_approved" or "deferred",
+      "rationale": "..."
+    }
+  }
+
 }
+
 
 If a field cannot be determined from the syllabus, set it to null.
 Return ONLY valid JSON, no other text.

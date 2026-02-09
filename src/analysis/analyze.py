@@ -8,6 +8,8 @@ from pathlib import Path
 
 import docx
 
+from .models import SyllabusReview
+
 PROMPT_PATH = Path(__file__).parent / "prompt.txt"
 SYLLABI_DIR = Path(__file__).parents[2] / "syllabi"
 RESULTS_DIR = Path(__file__).parents[2] / "data" / "results"
@@ -68,8 +70,8 @@ def _build_message_content(file_path: Path) -> list[dict]:
         raise ValueError(f"Unsupported file type: {suffix}")
 
 
-def analyze_syllabus(client: anthropic.Anthropic, file_path: Path) -> dict:
-    """Send a single syllabus (PDF or DOCX) to Claude for analysis and return parsed JSON."""
+def analyze_syllabus(client: anthropic.Anthropic, file_path: Path) -> SyllabusReview:
+    """Send a single syllabus (PDF or DOCX) to Claude for analysis and return a validated SyllabusReview."""
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
         max_tokens=4096,
@@ -82,7 +84,8 @@ def analyze_syllabus(client: anthropic.Anthropic, file_path: Path) -> dict:
         ],
     )
 
-    return json.loads(message.content[0].text)
+    raw = json.loads(message.content[0].text)
+    return SyllabusReview.model_validate(raw)
 
 
 def analyze_department(client: anthropic.Anthropic, department: str) -> list[dict]:
@@ -103,7 +106,8 @@ def analyze_department(client: anthropic.Anthropic, department: str) -> list[dic
     for file_path in files:
         print(f"  Analyzing {file_path.name}...")
         try:
-            result = analyze_syllabus(client, file_path)
+            review = analyze_syllabus(client, file_path)
+            result = review.model_dump()
             result["_source_file"] = str(file_path.relative_to(SYLLABI_DIR))
             results.append(result)
         except Exception as e:
