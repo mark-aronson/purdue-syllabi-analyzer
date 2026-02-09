@@ -8,88 +8,169 @@ import streamlit as st
 
 RESULTS_DIR = Path(__file__).parents[2] / "data" / "results"
 
+RUBRIC_SECTIONS = {
+    "pillars": "Pillars",
+    "rigor": "Rigor",
+    "student_agency_and_responsibility": "Student Agency & Responsibility",
+    "demonstrable_evidence_of_learning": "Demonstrable Evidence of Learning",
+    "exclusions": "Exclusions",
+}
 
-@st.cache_data
-def load_results() -> pd.DataFrame:
-    """Load all department JSON result files into a single DataFrame."""
-    records = []
-    for json_path in sorted(RESULTS_DIR.glob("*.json")):
-        with open(json_path, encoding="utf-8") as f:
-            data = json.load(f)
-            for record in data:
-                if "_error" not in record:
-                    records.append(record)
-    return pd.DataFrame(records)
+
+def load_department(dept_file: Path) -> list[dict]:
+    """Load a single department JSON results file."""
+    with open(dept_file, encoding="utf-8") as f:
+        return [r for r in json.load(f) if "_error" not in r]
+
+
+def get_departments() -> dict[str, Path]:
+    """Return a mapping of department name -> json file path."""
+    return {
+        p.stem: p
+        for p in sorted(RESULTS_DIR.glob("*.json"))
+    }
+
+
+def render_decision_badge(decision: str):
+    """Render a colored badge for the review decision."""
+    colors = {
+        "approved": "green",
+        "not_approved": "red",
+        "deferred": "orange",
+    }
+    labels = {
+        "approved": "Approved",
+        "not_approved": "Not Approved",
+        "deferred": "Deferred",
+    }
+    color = colors.get(decision, "gray")
+    label = labels.get(decision, decision)
+    st.markdown(f":{color}[**{label}**]")
+
+
+def render_section_summary(section_key: str, section_data: dict):
+    """Render a rubric section as a table of criteria with scores and expandable rationales."""
+    section_label = RUBRIC_SECTIONS[section_key]
+    scores = {k: v["score"] for k, v in section_data.items()}
+    total = sum(scores.values())
+    count = len(scores)
+
+    if section_key == "exclusions":
+        header = f"{section_label} ({total} flagged)"
+    else:
+        header = f"{section_label} ({total}/{count})"
+
+    with st.expander(header, expanded=False):
+        for criterion_key, criterion_data in section_data.items():
+            score = criterion_data["score"]
+            rationale = criterion_data["rationale"]
+            label = criterion_key.replace("_", " ").title()
+
+            if section_key == "exclusions":
+                icon = "🚩" if score == 1 else "✅"
+            else:
+                icon = "✅" if score == 1 else "❌"
+
+            st.markdown(f"{icon} **{label}**")
+            st.caption(rationale)
 
 
 def main():
     st.set_page_config(page_title="Purdue Syllabi Analyzer", layout="wide")
     st.title("Purdue Syllabi Analyzer")
 
-    df = load_results()
+    departments = get_departments()
 
-    if df.empty:
+    if not departments:
         st.warning("No analysis results found. Run the analysis first: `python -m src.analysis.analyze`")
         return
 
-    # Sidebar filters
-    st.sidebar.header("Filters")
-    departments = sorted(df["department"].dropna().unique())
-    selected_depts = st.sidebar.multiselect("Department", departments, default=departments)
-    df_filtered = df[df["department"].isin(selected_depts)]
+    # Sidebar: department selector
+    st.sidebar.header("Navigation")
+    selected_dept = st.sidebar.selectbox("Department", list(departments.keys()))
 
-    # Overview metrics
-    st.header("Overview")
+    results = load_department(departments[selected_dept])
+
+    if not results:
+        st.info(f"No valid results for {selected_dept}.")
+        return
+
+    # Department summary
+    st.header(f"{selected_dept} Department Summary")
+
+    decisions = [r["course_analysis"]["review_decision"]["decision"] for r in results]
+    approved = decisions.count("approved")
+    not_approved = decisions.count("not_approved")
+    deferred = decisions.count("deferred")
+
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Total Syllabi", len(df_filtered))
-    col2.metric("Departments", df_filtered["department"].nunique())
-    col3.metric("Avg Credits", round(df_filtered["credits"].dropna().mean(), 1) if not df_filtered["credits"].dropna().empty else "N/A")
-    col4.metric("Unique Instructors", df_filtered["instructor"].nunique())
+    col1.metric("Total Courses", len(results))
+    col2.metric("Approved", approved)
+    col3.metric("Not Approved", not_approved)
+    col4.metric("Deferred", deferred)
 
-    # Department breakdown
-    st.header("Courses by Department")
-    dept_counts = df_filtered["department"].value_counts().sort_index()
-    st.bar_chart(dept_counts)
+    # Build course list used by both the table and the sidebar selector
+    course_labels = [
+        r["course_information"].get("course_number") or r.get("_source_file", "Unknown")
+        for r in results
+    ]
 
-    # Grading patterns
-    st.header("Common Assessment Types")
-    if "assignment_types" in df_filtered.columns:
-        all_types = []
-        for types in df_filtered["assignment_types"].dropna():
-            if isinstance(types, list):
-                all_types.extend(t.lower().strip() for t in types)
-        if all_types:
-            type_counts = pd.Series(all_types).value_counts().head(15)
-            st.bar_chart(type_counts)
+    # Summary table (clickable)
+    summary_df = pd.DataFrame([
+        {
+            "Course": course_labels[i],
+            "Title": r["course_information"].get("course_title") or "",
+            "Decision": r["course_analysis"]["review_decision"]["decision"].replace("_", " ").title(),
+        }
+        for i, r in enumerate(results)
+    ])
 
-    # Tools and platforms
-    st.header("Tools & Platforms")
-    if "tools_and_platforms" in df_filtered.columns:
-        all_tools = []
-        for tools in df_filtered["tools_and_platforms"].dropna():
-            if isinstance(tools, list):
-                all_tools.extend(t.strip() for t in tools)
-        if all_tools:
-            tool_counts = pd.Series(all_tools).value_counts().head(15)
-            st.bar_chart(tool_counts)
+    event = st.dataframe(
+        summary_df,
+        use_container_width=True,
+        hide_index=True,
+        on_select="rerun",
+        selection_mode="single-row",
+    )
 
-    # Policy summary
-    st.header("Policy Summary")
+    # If a table row was clicked, update the sidebar selectbox value before it renders
+    selected_rows = event.selection.rows if event.selection.rows else []
+    if selected_rows:
+        st.session_state["course_select"] = course_labels[selected_rows[0]]
+
+    # Initialize if not set
+    if "course_select" not in st.session_state:
+        st.session_state["course_select"] = course_labels[0]
+
+    # Sidebar: course selector (synced with table via session state)
+    selected_course = st.sidebar.selectbox(
+        "Course", course_labels, key="course_select"
+    )
+
+    course_data = results[course_labels.index(selected_course)]
+
+    # Course detail view
+    st.divider()
+    info = course_data["course_information"]
+    analysis = course_data["course_analysis"]
+
+    st.header(f"{info.get('course_number', 'Unknown')} — {info.get('course_title', '')}")
+
+    # Course info
     col1, col2, col3 = st.columns(3)
-    if "has_final_exam" in df_filtered.columns:
-        final_pct = df_filtered["has_final_exam"].dropna().mean() * 100
-        col1.metric("% with Final Exam", f"{final_pct:.0f}%")
-    if "has_group_work" in df_filtered.columns:
-        group_pct = df_filtered["has_group_work"].dropna().mean() * 100
-        col2.metric("% with Group Work", f"{group_pct:.0f}%")
-    if "attendance_mandatory" in df_filtered.columns:
-        attend_pct = df_filtered["attendance_mandatory"].dropna().mean() * 100
-        col3.metric("% Mandatory Attendance", f"{attend_pct:.0f}%")
+    col1.markdown(f"**Department:** {info.get('department', 'N/A')}")
+    col2.markdown(f"**College:** {info.get('college', 'N/A')}")
+    col3.markdown(f"**Review Date:** {info.get('review_date') or 'N/A'}")
 
-    # Raw data table
-    st.header("Raw Data")
-    display_cols = [c for c in ["department", "course_number", "course_title", "credits", "instructor", "semester", "has_final_exam", "has_group_work"] if c in df_filtered.columns]
-    st.dataframe(df_filtered[display_cols], use_container_width=True)
+    # Decision
+    st.subheader("Review Decision")
+    render_decision_badge(analysis["review_decision"]["decision"])
+    st.caption(analysis["review_decision"]["rationale"])
+
+    # Rubric sections
+    st.subheader("Rubric Criteria")
+    for section_key in RUBRIC_SECTIONS:
+        render_section_summary(section_key, analysis[section_key])
 
 
 if __name__ == "__main__":

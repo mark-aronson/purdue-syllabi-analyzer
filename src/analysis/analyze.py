@@ -7,6 +7,9 @@ import sys
 from pathlib import Path
 
 import docx
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from .models import SyllabusReview
 
@@ -84,8 +87,18 @@ def analyze_syllabus(client: anthropic.Anthropic, file_path: Path) -> SyllabusRe
         ],
     )
 
-    raw = json.loads(message.content[0].text)
+    text = message.content[0].text.strip()
+    # Strip markdown code fences if present
+    if text.startswith("```"):
+        text = text.split("\n", 1)[1]  # remove opening ```json line
+        text = text.rsplit("```", 1)[0]  # remove closing ```
+    raw = json.loads(text)
     return SyllabusReview.model_validate(raw)
+
+
+def _save_results(results: list[dict], output_path: Path) -> None:
+    """Write the current results list to disk."""
+    output_path.write_text(json.dumps(results, indent=2), encoding="utf-8")
 
 
 def analyze_department(client: anthropic.Anthropic, department: str) -> list[dict]:
@@ -102,17 +115,32 @@ def analyze_department(client: anthropic.Anthropic, department: str) -> list[dic
         print(f"No supported files found in {dept_dir}")
         return []
 
-    results = []
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    output_path = RESULTS_DIR / f"{department}.json"
+
+    # Load any existing results to support resuming
+    if output_path.exists():
+        results = json.loads(output_path.read_text(encoding="utf-8"))
+        done = {r["_source_file"] for r in results}
+    else:
+        results = []
+        done = set()
+
     for file_path in files:
+        rel = str(file_path.relative_to(SYLLABI_DIR))
+        if rel in done:
+            print(f"  Skipping {file_path.name} (already analyzed)")
+            continue
         print(f"  Analyzing {file_path.name}...")
         try:
             review = analyze_syllabus(client, file_path)
             result = review.model_dump()
-            result["_source_file"] = str(file_path.relative_to(SYLLABI_DIR))
+            result["_source_file"] = rel
             results.append(result)
         except Exception as e:
             print(f"  ERROR processing {file_path.name}: {e}")
-            results.append({"_source_file": str(file_path.relative_to(SYLLABI_DIR)), "_error": str(e)})
+            results.append({"_source_file": rel, "_error": str(e)})
+        _save_results(results, output_path)
 
     return results
 
@@ -130,16 +158,10 @@ def analyze_all(departments: list[str] | None = None):
         print("No department directories found in syllabi/")
         return
 
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-
     for dept in departments:
         print(f"Processing department: {dept}")
         results = analyze_department(client, dept)
-
-        if results:
-            output_path = RESULTS_DIR / f"{dept}.json"
-            output_path.write_text(json.dumps(results, indent=2), encoding="utf-8")
-            print(f"  Saved {len(results)} results to {output_path}")
+        print(f"  {len(results)} total results for {dept}")
 
 
 if __name__ == "__main__":
