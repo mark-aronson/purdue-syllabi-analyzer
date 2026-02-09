@@ -5,8 +5,10 @@
 syllabi/**/*.pdf
 syllabi/**/*.docx
 
-# Analysis results (regenerable)
-data/results/*.json
+# Rubric (internal document)
+rubric/
+
+# Analysis results are committed for the Streamlit Cloud dashboard
 
 # Python
 __pycache__/
