@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:sswis.mypurdue.purdue.edu)",
       "WebSearch",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "WebFetch(domain:catalog.purdue.edu)"
     ]
   }
 }

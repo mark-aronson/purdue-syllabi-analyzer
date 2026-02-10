@@ -3,6 +3,7 @@
 import anthropic
 import base64
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -16,6 +17,7 @@ from .models import SyllabusReview
 PROMPT_PATH = Path(__file__).parent / "prompt.txt"
 SYLLABI_DIR = Path(__file__).parents[2] / "syllabi"
 RESULTS_DIR = Path(__file__).parents[2] / "data" / "results"
+PROGRAMS_FILE = Path(__file__).parents[2] / "data" / "programs.json"
 
 
 def load_system_prompt() -> str:
@@ -23,6 +25,15 @@ def load_system_prompt() -> str:
 
 
 SUPPORTED_EXTENSIONS = {".pdf", ".docx"}
+
+
+_DEPT_RE = re.compile(r"^([A-Z]+)\d")
+
+
+def _extract_department(filename: str) -> str | None:
+    """Extract the department code from a syllabus filename (e.g. 'POL10100_Spring2026_X.pdf' -> 'POL')."""
+    m = _DEPT_RE.match(filename)
+    return m.group(1) if m else None
 
 
 def _extract_docx_text(docx_path: Path) -> str:
@@ -101,23 +112,8 @@ def _save_results(results: list[dict], output_path: Path) -> None:
     output_path.write_text(json.dumps(results, indent=2), encoding="utf-8")
 
 
-def analyze_department(client: anthropic.Anthropic, department: str) -> list[dict]:
-    """Analyze all syllabi (PDF and DOCX) in a department subdirectory."""
-    dept_dir = SYLLABI_DIR / department
-    if not dept_dir.is_dir():
-        print(f"Department directory not found: {dept_dir}")
-        return []
-
-    files = sorted(
-        f for f in dept_dir.iterdir() if f.suffix.lower() in SUPPORTED_EXTENSIONS
-    )
-    if not files:
-        print(f"No supported files found in {dept_dir}")
-        return []
-
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = RESULTS_DIR / f"{department}.json"
-
+def _analyze_files(client: anthropic.Anthropic, files: list[Path], output_path: Path) -> list[dict]:
+    """Analyze a list of syllabi files, saving results incrementally to output_path."""
     # Load any existing results to support resuming
     if output_path.exists():
         results = json.loads(output_path.read_text(encoding="utf-8"))
@@ -127,7 +123,7 @@ def analyze_department(client: anthropic.Anthropic, department: str) -> list[dic
         done = set()
 
     for file_path in files:
-        rel = str(file_path.relative_to(SYLLABI_DIR))
+        rel = file_path.name
         if rel in done:
             print(f"  Skipping {file_path.name} (already analyzed)")
             continue
@@ -145,17 +141,96 @@ def analyze_department(client: anthropic.Anthropic, department: str) -> list[dic
     return results
 
 
+def analyze_department(client: anthropic.Anthropic, department: str) -> list[dict]:
+    """Analyze all syllabi (PDF and DOCX) for a department in the flat syllabi directory."""
+    files = sorted(
+        f
+        for f in SYLLABI_DIR.iterdir()
+        if f.suffix.lower() in SUPPORTED_EXTENSIONS
+        and _extract_department(f.name) == department
+    )
+    if not files:
+        print(f"No supported files found for department {department}")
+        return []
+
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    return _analyze_files(client, files, RESULTS_DIR / f"{department}.json")
+
+
+def analyze_program(program_name: str):
+    """Analyze all syllabi for courses in a program defined in programs.json.
+
+    Results are saved to per-department result files so the dashboard can display them.
+    """
+    if not PROGRAMS_FILE.exists():
+        print(f"Programs file not found: {PROGRAMS_FILE}")
+        return
+
+    programs = json.loads(PROGRAMS_FILE.read_text(encoding="utf-8"))
+    if program_name not in programs:
+        print(f"Program not found: {program_name}")
+        print(f"Available programs: {', '.join(programs.keys())}")
+        return
+
+    # Convert course codes like "POL 10100" to filename prefixes like "POL10100"
+    course_prefixes = {c.replace(" ", "").upper() for c in programs[program_name]}
+
+    # Find matching syllabi files
+    all_files = sorted(
+        f
+        for f in SYLLABI_DIR.iterdir()
+        if f.suffix.lower() in SUPPORTED_EXTENSIONS
+    )
+
+    # Match files whose name starts with a course prefix (before the first underscore)
+    matching_files: list[Path] = []
+    for f in all_files:
+        # Extract course code from filename (e.g. "POL10100" from "POL10100_Spring2026_X.pdf")
+        code = f.stem.split("_")[0].upper()
+        if code in course_prefixes:
+            matching_files.append(f)
+
+    if not matching_files:
+        print(f"No syllabi files found for program '{program_name}'")
+        print(f"  Looking for files matching {len(course_prefixes)} course codes")
+        return
+
+    # Group files by department and analyze into per-department result files
+    dept_files: dict[str, list[Path]] = {}
+    for f in matching_files:
+        dept = _extract_department(f.name)
+        if dept:
+            dept_files.setdefault(dept, []).append(f)
+
+    client = anthropic.Anthropic()
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
+    total = 0
+    for dept, files in sorted(dept_files.items()):
+        print(f"Processing {dept} ({len(files)} files for {program_name})")
+        results = _analyze_files(client, files, RESULTS_DIR / f"{dept}.json")
+        total += len(results)
+        print(f"  {len(results)} total results for {dept}")
+
+    print(f"\nDone. {total} total results across {len(dept_files)} departments for '{program_name}'")
+
+
 def analyze_all(departments: list[str] | None = None):
     """Analyze syllabi for all (or specified) departments and save results."""
     client = anthropic.Anthropic()
 
     if departments is None:
         departments = sorted(
-            d.name for d in SYLLABI_DIR.iterdir() if d.is_dir() and d.name != ".gitkeep"
+            {
+                _extract_department(f.name)
+                for f in SYLLABI_DIR.iterdir()
+                if f.suffix.lower() in SUPPORTED_EXTENSIONS
+                and _extract_department(f.name)
+            }
         )
 
     if not departments:
-        print("No department directories found in syllabi/")
+        print("No syllabi files found in syllabi/")
         return
 
     for dept in departments:

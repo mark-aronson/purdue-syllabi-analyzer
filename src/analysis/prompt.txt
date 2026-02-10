@@ -50,7 +50,7 @@ Extract the following information and return it as JSON:
 
 {
   "course_information": {
-    "course_number": "course number (e.g. COM 114, ABE 201)",
+    "course_number": "course number (if the course number is three digits, add trailing zeros e.g. COM 114 -> COM 11400, ABE 201 -> ABE 20100)",
     "course_title": "full course title",
     "department": "department code (e.g. CS, MA, ECE)",
     "college": "college (e.g. Science, Engineering)",
