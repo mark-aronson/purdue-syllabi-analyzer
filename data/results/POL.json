@@ -3674,5 +3674,209 @@
       }
     },
     "_source_file": "POL\\POL43900_Spring2026_HGQZX1.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 450",
+      "course_title": "Game Theory & Strategy in Political Science",
+      "department": "POL",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates game theory (a mathematical/analytical method) with political science applications. The course description states it will 'apply these basic game theoretic tools to important problems in political science' and outcomes include applying 'game theoretic concepts to explain actions and outcomes in important contemporary and historical cases in political science, policy, and politics.'"
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The final project requires students to either 'select a real world event or situation, represent it using a game theoretic model, and discuss implications' or 'propose a research design that makes use of behavioral game theory,' both of which involve original inquiry and knowledge creation beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention sustained engagement with communities, organizations, or global issues, nor does it include structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional development of leadership capacity, decision-making responsibility, or analysis of leadership frameworks. The course focuses on analytical problem-solving within game theory."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical concepts including 'strategic rationality, best responses, normal and strategic form games, backward induction, and games of incomplete information,' which represent advanced analytical and methodological content in game theory."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The final project (15% of grade) requires sustained inquiry as students must select real-world events, model them using game theory, and discuss implications, or develop a research design\u2014work that extends across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The final project requires significant independent intellectual work involving selection of cases, application of game theoretic modeling, and analysis of implications or research design development."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The final project explicitly allows students to 'select a real world event or situation' and choose between two different project types (modeling approach or research design), demonstrating student-shaped projects and questions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential intellectual decisions in the final project, including which real-world situation to model, how to represent it game theoretically, and what implications to draw\u2014choices that affect the quality and validity of their analysis."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The final project requires extended analytical commitment as students must model real-world situations using game theory and discuss implications, requiring sustained application of course concepts and iterative development of their analysis."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final project (15% of grade) constitutes a significant deliverable requiring students to apply game theoretic modeling to real-world situations or develop a research design, demonstrating integration of course concepts."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term; the final project is a standalone assignment."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The final project does not appear to have a public-facing component; it is submitted for grading without mention of public presentation or applied outcomes requiring external judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes sustained assessment through weekly quizzes (30%), in-class assignments and participation (15%), a midterm exam (30%), and a final project (15%), with the majority requiring application and analysis of game theoretic concepts rather than mere recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "POL 450 is a 400-level course, indicating upper-division status, and the content involves advanced game theoretic concepts rather than foundational introductions."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course 'introduces students to the basics of game theory,' it is a 400-level course focused on advanced analysis and application rather than broad coverage, as evidenced by the requirement to 'derive equilibria' and apply concepts to specific political science problems."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course goes beyond skills training by requiring students to apply game theory to explain political phenomena and develop original analyses through the final project."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a final project (15%) requiring original application of game theory to real-world situations or research design development, constituting a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (interdisciplinary academics and undergraduate research), satisfies all three rigor criteria (advanced content, sustained inquiry, and independent work), meets all three student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), and demonstrates learning through both a major project and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "POL\\POL45000_Spring2026_0UGF9L.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 46000",
+      "course_title": "Judicial Politics",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": "12/18/2024"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on American judicial politics within the political science discipline. While it examines social, economic, and political pressures on courts, it does not integrate distinct disciplinary perspectives or methods from fields outside political science in ways necessary to the learning outcomes."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course includes a 'short creative paper' on judicial review, but the syllabus provides no evidence that students engage in inquiry extending beyond established answers, formulate original research questions, or produce original findings. The paper appears to be an analytical exercise rather than research producing new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no references to community partnerships, engagement with organizations, real-world contexts beyond classroom case analysis, or structured reflection on ethical, social, or cultural dimensions of engagement with external communities."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include intentional practice in decision-making, taking responsibility, or influencing outcomes. While students analyze judicial power and decision-making, there is no evidence of developing students' own capacity for leadership through reflection or analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is upper-level (46000) with prerequisite American Government knowledge, examines advanced theoretical frameworks (attitudinal model, judicial supremacy, constitutional authority), and analyzes complex Supreme Court cases and their political contexts through sophisticated scholarly readings."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the 16-week term, progressing from institutional foundations through agenda-setting, decision-making, judicial review across multiple domains (rights, equality), and institutional competition, culminating in analysis of judicial dialogue and constitutional authority."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students must complete a judicial review paper independently (10% of grade), engage with complex readings throughout the term, and demonstrate synthesis of material on exams (70% combined). The work requires significant independent intellectual engagement with course material."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus describes a 'short creative paper' on judicial review due November 18, but provides no evidence that students define their own questions, shape project parameters, or have choice in topic selection. The assignment appears pre-structured by the instructor."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students analyze judicial decision-making in the course content, there is no evidence that students themselves engage in decision-making with intellectual or ethical consequences. Participation is attendance-based (iClicker) rather than involving consequential choices."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through sustained engagement with complex theoretical frameworks across 16 weeks, synthesizing material for two major examinations (70% of grade) and a paper, demonstrating iterative development of understanding of judicial politics."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The judicial review paper constitutes only 10% of the course grade and is described as 'short,' which does not meet the threshold for a major paper, project, or deliverable constituting a significant portion of the grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of a portfolio or capstone-style artifact that integrates work across the term. Assessment consists of discrete exams, a paper, and participation rather than cumulative integration."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All course deliverables (exams, paper) are submitted to the instructor via Brightspace or in-class. There is no evidence of public-facing or applied outcomes requiring academic judgment presented to audiences beyond the instructor."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (80%: two exams at 30% and 40%, plus a 10% paper) requires critical analysis and synthesis of complex judicial politics concepts, theoretical frameworks, and Supreme Court cases, demonstrating sustained analytical assessment throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is an upper-level (46000) undergraduate course with prerequisites (POL 10100 or POLS Y1030), not a lower-division introductory course. It builds on foundational knowledge of American government."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple aspects of judicial politics (trial courts, appellate courts, Supreme Court), it focuses on advanced analysis of judicial power, decision-making models, and institutional competition rather than broad introductory coverage. The readings include specialized scholarly works."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is substantive and analytical, examining judicial politics through theoretical frameworks and case analysis. While it develops analytical skills including 'quantitative assessment of the judiciary,' this is embedded in broader conceptual learning, not pure tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: a midterm exam (30%), final exam (40%), and a judicial review paper (10%). The exams constitute substantial intellectual work requiring synthesis and analysis of course material."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets rigor requirements (advanced content, sustained inquiry, independent work) and demonstrates sustained assessment of learning, it does not meet any of the four Honors College pillars. The course is a traditional upper-level political science course examining judicial politics without interdisciplinary integration, undergraduate research, community engagement, or leadership development. Without meeting at least one pillar, the course cannot be approved for Honors credit."
+      }
+    },
+    "_source_file": "POL\\POL46000_Fall2025_40Y3KF.pdf"
   }
 ]

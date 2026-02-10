@@ -6,7 +6,9 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-RESULTS_DIR = Path(__file__).parents[2] / "data" / "results"
+DATA_DIR = Path(__file__).parents[2] / "data"
+RESULTS_DIR = DATA_DIR / "results"
+PROGRAMS_FILE = DATA_DIR / "programs.json"
 
 RUBRIC_SECTIONS = {
     "pillars": "Pillars",
@@ -29,6 +31,32 @@ def get_departments() -> dict[str, Path]:
         p.stem: p
         for p in sorted(RESULTS_DIR.glob("*.json"))
     }
+
+
+def load_all_courses() -> list[dict]:
+    """Load all courses from every department results file."""
+    all_courses = []
+    for dept_file in RESULTS_DIR.glob("*.json"):
+        all_courses.extend(load_department(dept_file))
+    return all_courses
+
+
+def get_programs() -> dict[str, list[str]]:
+    """Return a mapping of program name -> list of course numbers."""
+    if not PROGRAMS_FILE.exists():
+        return {}
+    with open(PROGRAMS_FILE, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_program_courses(program_courses: list[str], all_courses: list[dict]) -> list[dict]:
+    """Filter all courses to those matching a program's course list."""
+    # Normalize course numbers for matching (strip spaces, uppercase)
+    normalized = {c.replace(" ", "").upper() for c in program_courses}
+    return [
+        c for c in all_courses
+        if (c["course_information"].get("course_number") or "").replace(" ", "").upper() in normalized
+    ]
 
 
 def render_decision_badge(decision: str):
@@ -85,18 +113,46 @@ def main():
         st.warning("No analysis results found. Run the analysis first: `python -m src.analysis.analyze`")
         return
 
-    # Sidebar: department selector
+    programs = get_programs()
+
+    # Sidebar: navigation
     st.sidebar.header("Navigation")
-    selected_dept = st.sidebar.selectbox("Department", list(departments.keys()))
 
-    results = load_department(departments[selected_dept])
+    view_options = ["Department"]
+    if programs:
+        view_options.append("Program")
+    view_mode = st.sidebar.radio("View by", view_options)
 
-    if not results:
-        st.info(f"No valid results for {selected_dept}.")
-        return
+    if view_mode == "Program":
+        selected_program = st.sidebar.selectbox("Program", list(programs.keys()))
+        all_courses = load_all_courses()
+        results = load_program_courses(programs[selected_program], all_courses)
 
-    # Department summary
-    st.header(f"{selected_dept} Department Summary")
+        if not results:
+            st.info(f"No matching results for **{selected_program}**. Check that the course numbers in `data/programs.json` match analyzed courses.")
+            return
+
+        summary_title = f"{selected_program}"
+        missing = [
+            c for c in programs[selected_program]
+            if c.replace(" ", "").upper() not in {
+                (r["course_information"].get("course_number") or "").replace(" ", "").upper()
+                for r in results
+            }
+        ]
+    else:
+        selected_dept = st.sidebar.selectbox("Department", list(departments.keys()))
+        results = load_department(departments[selected_dept])
+
+        if not results:
+            st.info(f"No valid results for {selected_dept}.")
+            return
+
+        summary_title = f"{selected_dept} Department"
+        missing = None
+
+    # Summary
+    st.header(f"{summary_title} Summary")
 
     decisions = [r["course_analysis"]["review_decision"]["decision"] for r in results]
     approved = decisions.count("approved")
@@ -108,6 +164,9 @@ def main():
     col2.metric("Approved", approved)
     col3.metric("Not Approved", not_approved)
     col4.metric("Deferred", deferred)
+
+    if missing:
+        st.warning(f"Courses not yet analyzed: {', '.join(missing)}")
 
     # Build course list used by both the table and the sidebar selector
     course_labels = [
@@ -127,7 +186,7 @@ def main():
 
     event = st.dataframe(
         summary_df,
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
         on_select="rerun",
         selection_mode="single-row",
