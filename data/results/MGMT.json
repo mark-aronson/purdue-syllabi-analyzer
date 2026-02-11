@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "MGMT 33500",
+      "course_title": "Strategic Business Writing",
+      "department": "MGMT",
+      "college": "Business",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on business communication within the Daniels School of Business, specifically on writing, speaking, and interaction skills in business settings. There is no evidence of integration across distinct high-level knowledge domains; the course remains within the Business domain."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While the course involves writing assignments and critical thinking, there is no evidence of students formulating research questions, analyzing original evidence, or producing findings that extend beyond established answers. The assignments focus on professional business writing formats rather than inquiry or knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any engagement with communities, organizations, or global issues. There is no evidence of real-world contexts beyond the classroom or structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to make decisions and influence outcomes in professional contexts through communication. Learning outcomes explicitly include 'Critical Thinking and Problem Solving,' 'Building Connection and Trust,' and 'Communication Ethics,' with intentional practice through multiple writing assignments and team presentations that require responsibility and ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced content on strategic business communication principles including Audience Analysis, Emotional Intelligence, Critical Thinking and Problem Solving, Building Connection and Trust, and Communication Ethics. Students learn to 'ethically and effectively employ AI tools' and demonstrate 'proficiency in producing a range of standard business writing formats,' indicating theoretical and analytical sophistication."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained work across the 16-week semester through multiple writing assignments building in complexity (Build the Foundations, Strategic Business Insights with two parts, Performance Evaluation, Team Executive Summary & Report), culminating in a team presentation. This demonstrates sustained inquiry and problem-solving throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both independent work (individual writing assignments worth 30% of the grade) and collaborative work (Assignment #4: Team Executive Summary & Report and Team Slide Deck & Presentation worth 15% of the grade), demonstrating significant independent and collaborative intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence that students define or shape their own projects or questions. All assignments appear to be instructor-defined with specific parameters outlined in the grading structure."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The course involves decision-making with ethical consequences, particularly in the assignment on Communication Ethics and the requirement to 'ethically and effectively employ AI tools.' Students must make consequential decisions about audience analysis, building connection and trust, and ethical communication practices in their business writing."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through multiple drafts and iterations evident in the multi-part Assignment #2 (Strategic Business Insights with Part A2-1 due 2/16 and Part A2-2 due 3/27), as well as 7 In-Class Writing Days for practice and feedback. The emphasis on 'self-assessment and peer feedback' indicates iterative review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Assignment #4 (Team Executive Summary & Report and Team Slide Deck & Presentation) constitutes 15% of the overall grade and represents a major team project. Additionally, the Performance Evaluation assignment (10%) and Strategic Business Insights assignments (15% total) together constitute significant portions of the course grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. The assignments are discrete deliverables rather than an integrated portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The Team Slide Deck & Presentation (Assignment #4) constitutes a public-facing outcome requiring academic judgment, as students present to the class. This requires both preparation of professional business communication artifacts and oral presentation skills."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment with a majority of graded work requiring critical analysis and original contribution: writing assignments (45%), exams (30%), learning checks (10%), and participation including in-class writing (15%). The writing assignments explicitly require students to demonstrate critical thinking, audience analysis, and ethical communication."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "MGMT 33500 is a 300-level course, which is upper-division. It is not designed to introduce foundational concepts but rather to develop proficiency in strategic business writing at an advanced level."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on broad introductory coverage. It is specifically designed for 'Daniels School of Business undergraduate students' to develop advanced skills in strategic business writing with emphasis on application and analysis rather than survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes skills development, it goes beyond tool-training to include theoretical frameworks (Audience Analysis, Emotional Intelligence, Critical Thinking, Communication Ethics) and requires critical analysis and ethical decision-making. The course integrates conceptual understanding with practical application."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: Assignment #4 (Team Executive Summary & Report and Presentation) worth 15%, Assignment #2 (Strategic Business Insights) worth 15%, Assignment #3 (Performance Evaluation) worth 10%, and two exams worth 15% each."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets one pillar (leadership_development), satisfies all three rigor criteria (advanced_content, sustained_inquiry, independent_or_collaborative_work), satisfies two of three student agency criteria (consequential_decision_making, extended_analytical_commitment), satisfies three of four demonstrable evidence criteria (major_project, public_facing_outcome, sustained_assessment), and triggers no exclusions. The course meets all requirements for Honors credit approval."
+      }
+    },
+    "_source_file": "MGMT33500_Spring2026_X9RS4C.pdf"
+  }
+]

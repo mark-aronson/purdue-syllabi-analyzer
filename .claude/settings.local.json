@@ -4,7 +4,11 @@
       "WebFetch(domain:sswis.mypurdue.purdue.edu)",
       "WebSearch",
       "Bash(uv run:*)",
-      "WebFetch(domain:catalog.purdue.edu)"
+      "WebFetch(domain:catalog.purdue.edu)",
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(del \"C:\\\\Users\\\\aronsonm\\\\Documents\\\\GitHub\\\\purdue-syllabi-analyzer\\\\data\\\\results\\\\Cornerstone_Certificate_missing.json\")",
+      "Bash(del \"C:\\\\Users\\\\aronsonm\\\\Documents\\\\GitHub\\\\purdue-syllabi-analyzer\\\\data\\\\results\\\\Entrepreneurship_Certificate_missing.json\")"
     ]
   }
 }

@@ -1,0 +1,206 @@
+[
+  {
+    "course_information": {
+      "course_number": "GER22300",
+      "course_title": "Scientific German",
+      "department": "GER",
+      "college": "Liberal Arts",
+      "review_date": "12/20/2024"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates Humanities (language learning and German culture) with Natural and Exact Sciences and Engineering, using 'authentic materials with a focus on science and engineering' and requiring students to discuss 'more abstract topics related to science and engineering such as inventions and their global impact.' Projects include presentations on German inventions and scientific articles, demonstrating integration across high-level domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students analyze scientific articles and present on German inventions, the syllabus does not indicate that students formulate original research questions, conduct investigations, or produce original findings beyond established knowledge. The focus is on language acquisition through existing materials rather than knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The course discusses global impact of inventions, but there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of real-world engagement beyond classroom discussion."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice, reflection, or analysis of leadership frameworks. While students work in groups and make presentations, there is no evidence of developing capacity to make consequential decisions or influence outcomes through leadership development activities."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers intermediate-level German with advanced theoretical content integrating scientific and engineering discourse. Students engage with authentic scientific materials, discuss abstract topics related to science and engineering, and analyze scientific articles, demonstrating advanced content beyond basic language instruction."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through four major projects (Aufsatz, presentation on German invention, VR Project, presentation on scientific article) that require ongoing analysis and engagement with scientific German materials throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through daily homework (approximately one hour per night), four major projects requiring independent research and preparation, and collaborative work in groups as emphasized in the participation criteria."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students select their own topics for projects, including choosing which German invention to present and which scientific article to analyze and present, demonstrating student-shaped project components."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about which scientific topics, inventions, and articles to analyze and present, with projects constituting 20% of the course grade, making these choices intellectually significant to their learning outcomes."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The four projects spread throughout the semester require extended analytical commitment as students must analyze scientific materials in German, prepare presentations, and engage with complex technical content across multiple weeks."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes four substantial projects (Aufsatz, German invention presentation, VR Project, scientific article presentation) collectively worth 20% of the grade, with tests worth 25%, demonstrating major intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate a portfolio or capstone-style artifact that integrates work across the term. Projects are discrete assignments rather than cumulative integration."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students complete presentations (German invention presentation and scientific article presentation) that are public-facing within the classroom context and require academic judgment in selecting, analyzing, and presenting scientific content in German."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (projects 20%, tests 25%, quizzes 15%, homework 20%) requires critical analysis and synthesis of scientific German materials, with sustained assessment throughout the semester beyond basic language exercises."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "GER 223 is a 200-level course that serves as an alternative to GER 202, designed for students who have completed GER 201. It is part of the intermediate sequence focused on foundational language development rather than advanced analysis."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course is intermediate-level, it focuses on specialized application of German to scientific and engineering contexts with in-depth analysis of authentic materials, rather than broad coverage of introductory concepts."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course goes beyond language skills training by integrating scientific content, requiring analysis of inventions and their global impact, and involving substantive intellectual engagement with scientific materials in German."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes four major projects and three tests that serve as substantial intellectual deliverables requiring analysis and synthesis of scientific content in German."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course demonstrates interdisciplinary integration between Humanities and Sciences, meets rigor requirements, and shows strong student agency and demonstrable learning outcomes, it is excluded because it is a lower-division (200-level) intermediate language course designed for students following GER 201. As part of the intermediate language sequence, it focuses on foundational language skill development rather than advanced analysis, triggering the lower_division_introductory exclusion criterion."
+      }
+    },
+    "_source_file": "GER22300_Spring2026_3OHYWO.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "GER 32300",
+      "course_title": "German Level VI: German for Science and Engineering",
+      "department": "GER",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (German language and culture) with Engineering and Technology and Natural Sciences. Students study German vocabulary, grammar, and cultural competence specifically within science and engineering contexts. Topics include climate change, artificial intelligence, medical subjects, automotive engineering, and aerospace\u2014requiring students to bridge linguistic/cultural frameworks with technical content. Learning outcome #4 explicitly addresses gaining 'cultural knowledge and competence in the German business world, specifically the world of science and engineering.'"
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students must select their own science/technology articles or videos for presentations, formulate discussion questions, and produce written papers evaluating these sources. The requirement to 'offer an evaluation of the content' and develop discussion questions demonstrates inquiry beyond established answers. Papers are revised based on instructor feedback, indicating iterative knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses 'topics in intercultural communication' throughout the semester and requires students to 'gain cultural knowledge and competence in the German business world.' Topics include German university science programs, German inventions/inventors, and job applications in German contexts. Students engage with authentic German media and cultural practices, with structured reflection through presentations and papers that require cultural analysis."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of intentional leadership development. While students work in groups and give presentations, there is no indication of decision-making with responsibility for outcomes, no leadership frameworks or theories, and no structured reflection on leadership capacities or ethical decision-making in leadership contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is Level VI German (300-level), described as preparing students for 'subsequent 300- or 400-level course work' with 'advanced work on the development of German speaking, listening, reading fluency, and writing abilities.' Students engage with specialized technical vocabulary, scientific article styles, and advanced grammar\u2014indicating content beyond introductory levels."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry throughout the semester: students read and analyze multiple scientific/technical texts, give two presentations on self-selected topics, write papers tied to presentation topics, and revise these papers based on feedback. The iterative writing process ('revise these writing assignments based on feedback from your instructor to improve your grade for the rewrite') demonstrates sustained intellectual work."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students complete significant independent work (selecting articles/videos, preparing presentations with vocabulary lists and discussion questions, writing and revising papers) and collaborative work (group activities are mentioned in participation criteria, and discussion boards are part of participation). Papers constitute 25% of the grade, presentations 20%, indicating substantial independent intellectual effort."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students select their own articles or videos for presentations ('These articles or videos need to be related to topics in science and technology'), allowing them to shape their projects within the course framework. This gives students agency in defining their specific focus areas within the broader science/engineering theme."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential intellectual decisions: selecting appropriate sources, determining key vocabulary for peer understanding, formulating effective discussion questions, and evaluating content. The requirement to 'offer an evaluation of the content' requires analytical judgment with intellectual consequences for the quality of class discussion and learning."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work: reading and discussing technical articles throughout the semester, preparing two presentations with evaluative components, writing papers, and revising those papers based on feedback. The revision requirement explicitly demonstrates iterative analytical work with instructor response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Papers constitute 25% of the course grade (the largest single component), and presentations constitute 20%. Together these major deliverables represent 45% of the grade. Papers require revision based on feedback, indicating substantive intellectual work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. While students complete multiple assignments, there is no indication these are compiled into an integrated final portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Presentations are delivered to the class and include preparing vocabulary lists and discussion questions for peers, constituting a public-facing outcome requiring academic judgment. Students must synthesize technical content, evaluate it, and facilitate peer learning."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: homework (20%) involves vocabulary building and reading comprehension requiring analytical engagement; quizzes (20%) assess understanding of readings, vocabulary, and grammar; presentations (20%) require evaluation and synthesis; and papers (25%) require critical analysis and revision. Together, 85% of the grade involves analytical or synthesis work beyond basic recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course described as Level VI German, explicitly designed to prepare students for subsequent 300- or 400-level coursework. It assumes prerequisite language competency and focuses on specialized, advanced content rather than introducing foundational concepts."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on broad coverage but rather on specialized application of German language skills to science and engineering contexts. It emphasizes depth in technical vocabulary and genre-specific competencies (reading scientific articles, writing abstracts and summaries) rather than breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops language skills, it goes beyond tool training by requiring critical analysis, cultural competence, evaluation of sources, and synthesis of technical content. Students must analyze intercultural communication issues and evaluate scientific content, not merely practice language mechanics."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: two presentations (20% of grade) and papers requiring revision (25% of grade). These constitute substantial intellectual work demonstrating advanced learning."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three pillars (interdisciplinary academics, undergraduate research, and community/global engagement), satisfies all rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), demonstrates clear evidence of learning through major projects and sustained assessment, and triggers no exclusions. The integration of German language/culture with science and engineering content, combined with student-selected research topics and sustained analytical work, meets Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "GER32300_Spring2026_M6UUWV.pdf"
+  }
+]

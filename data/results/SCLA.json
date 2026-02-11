@@ -1,0 +1,206 @@
+[
+  {
+    "course_information": {
+      "course_number": "SCLA 10100",
+      "course_title": "Transformative Texts: Critical Thinking & Communication I: Antiquity to Modernity",
+      "department": "SCLA",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on humanities content (great texts, historical context, human perspectives) with no evidence of integration across high-level domains. The Cornerstone program description mentions 'seeing unity across disciplines,' but the syllabus provides no evidence of actual cross-domain integration in course design, methods, or outcomes."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The Final Research Project (30%) involves conducting research and locating sources, but the syllabus provides no evidence that students formulate original research questions, engage in inquiry beyond established answers, or produce original findings. The focus is on analyzing existing texts and demonstrating information literacy skills, not on generating new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "There is no evidence of sustained engagement with communities, organizations, or global issues. The course examines texts in their historical context and considers contemporary perspectives, but this is analytical rather than involving direct community engagement or structured reflection on real-world applications."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of intentional leadership development, decision-making practice, or analysis of leadership frameworks. While the course develops critical thinking and communication skills, these are not framed in terms of leadership capacity or responsibility."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "This is a 100-level course focused on foundational skills in written communication and information literacy. The learning outcomes emphasize basic competencies (clarity, coherence, understanding rhetorical situations) rather than advanced theoretical, analytical, or methodological content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The Final Research Project (30% of grade) combined with weekly assignments (20%) and short responses (20%) demonstrates sustained inquiry across the term. Students engage with transformative texts throughout the semester, building toward a major research project."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires 5,000-11,000 words of polished writing (or 12,000-18,000 including drafts), indicating significant independent intellectual work. The Final Research Project (30%) and presentations (10%) suggest substantial independent effort."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence that students define their own projects or research questions. All assignments appear to be instructor-defined, with the Final Research Project described only in terms of required skills and deliverables."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students engage with texts about 'the use and abuse of power' and ethical issues, there is no evidence that the course involves decision-making with intellectual or ethical consequences. The work is analytical rather than decisional."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The requirement to produce 5,000-11,000 words of polished writing (12,000-18,000 including drafts) combined with the emphasis on 'composing and revising texts' demonstrates extended analytical commitment and iterative review/response processes."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Research Project constitutes 30% of the course grade, representing a major paper or project that is a significant portion of the overall assessment."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. The Final Research Project is described as a research project, not as a synthesis of prior work."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "Presentations constitute 10% of the grade, but there is no evidence these are public-facing or applied outcomes requiring academic judgment. They appear to be classroom presentations rather than external-facing work."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (Final Research Project 30%, Short Responses 20%, Weekly Assignments 20%, Presentations 10%) totaling 80% requires critical analysis, synthesis, and original contribution rather than recall or procedural application."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "This is SCLA 101, a 100-level course explicitly designed to fulfill University Core Curriculum requirements in Written Communication and Information Literacy. The learning outcomes focus on foundational competencies in writing, research, and information literacy."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers texts from 'Antiquity to Modernity,' the emphasis is on critical analysis and engagement rather than broad coverage. The course focuses on developing specific skills through sustained engagement with transformative texts."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course develops writing and research skills but does so through substantive engagement with transformative texts and critical thinking, not as isolated tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The Final Research Project (30% of grade) serves as a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course triggers the lower_division_introductory exclusion as a 100-level course designed to introduce foundational concepts in written communication and information literacy. While it meets rigor requirements (sustained_inquiry, independent_work), student agency requirements (extended_analytical_commitment), and demonstrable evidence requirements (major_project, sustained_assessment), and no pillar is required for a foundational course, the exclusion criterion disqualifies it from Honors credit eligibility."
+      }
+    },
+    "_source_file": "SCLA10100_Spring2026_FAH1LD.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SCLA 10200",
+      "course_title": "Transformative Texts: Critical Thinking & Communication II: Modern World",
+      "department": "SCLA",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (literature, philosophy, and arts) with Communication (oral presentation theory and practice). The syllabus demonstrates integration across high-level domains: it examines literary, philosophical, and artistic texts while simultaneously developing oral communication competencies. The course explores how 'literature, film, and philosophy challenge and expand our understanding of agency, identity, and interdependence' and requires students to apply communication theory to analyze these humanistic texts. This represents genuine cross-domain integration (Humanities + Communication/Social Sciences) rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students engage in textual analysis and interpretation, the syllabus does not demonstrate inquiry that extends beyond established answers. The course involves analyzing canonical texts and applying known communication strategies rather than formulating original research questions, collecting primary evidence, or producing original findings that contribute new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not describe sustained engagement with communities, organizations, or real-world contexts beyond the classroom. While the course explores diverse cultural traditions (including Chinese texts like Journey to the West and Taoist philosophy), this represents exposure to global perspectives rather than structured engagement with actual communities or global issues."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership capacity through the 'Leading Communication' assignment, where students 'facilitate discussion among classmates' by preparing lesson plans, guiding discussion, and responding to 'impromptu turns in the conversation.' This requires students to take responsibility for their peers' learning and make consequential decisions about how to structure and guide intellectual discourse. The Walden Manifesto assignment also asks students to 'articulate your personal philosophy' on values and resistance to modern pressures, developing reflective leadership capacity."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical and analytical content, including existential philosophy (Kafka, Beckett, absurdism), complex literary analysis (Frankenstein, Walden, Our Town), and sophisticated communication theory. Students must 'distinguish and apply appropriate informative, persuasive, explanatory, interrogatory, and argumentative strategies' and analyze how texts reflect 'human ambition, morality, and identity' across multiple philosophical traditions."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across three major thematic units (Human vs. World, Human vs. Superhuman, Human vs. Objects/Nature), each requiring extended analysis of multiple texts and culminating in progressively complex oral presentations. Students engage in weekly reading responses requiring continuous critical engagement and build toward a final manifesto that synthesizes ideas across the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work (individual speeches, weekly reading responses totaling 20% of grade, independent manifesto project) and collaborative work (group superhuman product pitch requiring 20-25 minute collaborative presentation and critical engagement with at least two course texts). The 'Leading Communication' assignment also requires collaborative facilitation of class discussion."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The Walden Manifesto assignment allows students to define their own philosophical stance: 'you will articulate your personal philosophy on simplicity, technology, nature, selfhood, or resistance to modern pressures' and create a 3-minute creative project 'that embodies or enacts your manifesto's core ideas.' Students choose the form (artwork, creative writing, short film) and content of both the manifesto and creative project. Additionally, students select which reading response prompts to address each week."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The 'Leading Communication' assignment requires students to make consequential pedagogical decisions as they 'facilitate discussion among classmates,' prepare lesson plans, and 'react to impromptu turns in the conversation.' These decisions directly affect their peers' learning experience. The group superhuman product pitch also requires consequential ethical reasoning about 'ethical questions, or dilemmas found in at least two course texts.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through four major speeches (building from 3 minutes to 8-10 minutes), weekly reading responses (8 required across the semester), and sustained engagement with complex texts across three thematic units. Students must synthesize ideas across multiple texts in the group presentation and manifesto project, demonstrating iterative development of analytical skills."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Speech (Walden Manifesto Presentation & Creative Project) constitutes 20% of the course grade and requires students to synthesize philosophical ideas, articulate an original position, and create an accompanying artistic work. The Group Superhuman Product Pitch (15% of grade) also serves as a major collaborative project requiring critical engagement with multiple course texts."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the course includes multiple speeches and written assignments, it does not require a portfolio or capstone-style artifact that explicitly integrates work across the term. The final manifesto project, though substantial, does not integrate earlier assignments in a portfolio format."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While speeches are presented to classmates, the syllabus does not describe public-facing outcomes beyond the classroom audience. The optional submission to the Cornerstone Review for publication is extra credit, not a required component."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (75 of 100 points) requires critical analysis and synthesis: 4 oral presentations requiring analysis and synthesis of course texts (65 points), reading responses requiring interpretation and application (20 points), leading communication requiring pedagogical analysis (5 points), and peer feedback requiring evaluative judgment (part of participation). Only 10 points are allocated to basic participation/attendance."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "SCLA 102 is a 100-level course (course number 10200) designed to fulfill a Core Curriculum requirement (Oral Communication) and part of the foundational Cornerstone certificate program. The course description emphasizes that it 'fulfills the Oral Communication requirement in the University's Core Curriculum,' indicating it is a lower-division course designed to introduce foundational communication competencies within a humanities framework."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course is lower-division, it is not focused on broad coverage but rather on sustained thematic inquiry across three focused units. The course requires deep engagement with specific texts rather than surveying a broad field, and emphasizes advanced analysis of philosophical and literary themes."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "Although the course develops oral communication skills, it is not skills-only training. The course integrates communication skills with substantive engagement with literary and philosophical texts, requiring critical analysis of themes, ethical questions, and cultural perspectives. Communication skills are developed through intellectual engagement with transformative texts."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: four oral presentations (totaling 65% of grade), weekly reading responses (20%), and a final manifesto project with creative component (20% of final grade). These constitute substantial intellectual deliverables requiring sustained analytical work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism. The H-Ready designation indicates it is eligible for Honors credit through the H-Ready program, but this does not constitute prior counting."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course demonstrates interdisciplinary integration (Humanities + Communication) and leadership development through the facilitation assignment, it fails the exclusion criterion for lower-division introductory courses. SCLA 102 (10200) is explicitly designed as a lower-division course fulfilling Core Curriculum requirements and part of the foundational Cornerstone certificate program. The course number and description clearly identify it as an introductory-level course designed to introduce foundational concepts in communication within a humanities framework. Although the course includes substantive intellectual work and meets rigor, student agency, and demonstrable evidence requirements, the lower-division introductory exclusion disqualifies it from Honors course approval under the specified criteria."
+      }
+    },
+    "_source_file": "SCLA10200_Spring2026_FCYSDN.pdf"
+  }
+]

@@ -3878,5 +3878,1331 @@
       }
     },
     "_source_file": "POL\\POL46000_Fall2025_40Y3KF.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 22200",
+      "course_title": "Women, Politics, And Public Policy",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course is cross-listed as POL 222/WGSS 281, integrating Political Science (Social Sciences domain) with Women's, Gender, and Sexuality Studies (Humanities domain). The course description demonstrates integration by examining 'the ways in which gender intersects with race and class to influence politics and public policy,' combining political science frameworks with gender studies perspectives on structural oppression and intersectionality."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any inquiry, investigation, or knowledge creation extending beyond established answers. Assessments consist of discussion posts, quizzes, and exams that test understanding of existing course materials rather than engaging students in formulating original research questions or producing novel findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world political and social issues affecting women, there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions of external engagement. The course is asynchronous online with no community-based learning components."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice in decision-making, taking responsibility, or influencing outcomes in academic, professional, or civic contexts. There is no evidence of reflection on leadership or ethical frameworks through structured activities or assignments."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content, examining intersectionality theory, feminist political theory, and structural analysis of gender, race, and class. Learning outcomes require students to 'analyze the challenges in designing and implementing effective policy solutions to gender-related problems,' demonstrating analytical depth beyond introductory coverage."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course does not involve sustained inquiry, design, or problem-solving across the term. Assessments are primarily consumption-based (reading, watching videos) followed by quizzes and exams testing comprehension rather than iterative investigation or extended analysis."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "While the course requires weekly discussion posts, these are brief (a few sentences to a paragraph) and do not constitute significant independent or collaborative intellectual work. There are no major papers, projects, or sustained analytical assignments requiring extended independent effort."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence of student-defined or student-shaped projects or questions. All assignments appear to be instructor-defined with predetermined prompts and formats."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course does not involve decision-making with intellectual or ethical consequences. Assessments focus on demonstrating comprehension of course materials rather than making consequential choices about inquiry, analysis, or application."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The course does not require extended analytical commitment or iterative review/response. Discussion posts are brief weekly exercises, and exams are multiple-choice assessments that do not involve iterative development or sustained analytical engagement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. The final exam, while weighted at 26% of the grade, is a multiple-choice cumulative assessment rather than a major intellectual deliverable requiring synthesis or original contribution."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact integrating work across the term. Assessments are discrete quizzes, exams, and discussion posts rather than cumulative integrative work."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The course does not include a public-facing or applied outcome requiring academic judgment. All work is submitted privately via Brightspace for instructor/TA evaluation."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of multiple-choice quizzes and exams (71% of grade) rather than critical analysis, synthesis, or original contribution. Discussion posts (14% of grade) are brief and focused on demonstrating understanding rather than sustained analytical work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "POL 222 is a 200-level course designed to introduce women's participation in politics. The catalog description states it is 'an introduction to women's participation in politics' and WGSS 281 'examines in depth particular topics from the introductory course in Women's Studies,' indicating this builds on foundational content but is itself positioned as lower-division coverage."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course provides 'an overview of women as political actors: citizens, activists, candidates, and officeholders' and covers history, contemporary activities, and various policy domains. The breadth of topics and assessment structure (quizzes and multiple-choice exams) suggest coverage-oriented rather than advanced analytical focus."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused solely on skills or tool training. It addresses substantive content on gender, politics, and public policy through conceptual and theoretical frameworks."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a major intellectual deliverable. Assessments consist primarily of multiple-choice quizzes and exams and brief discussion posts. There is no major paper, project, or sustained analytical work requiring synthesis or original contribution."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course is not approved because it meets one pillar (interdisciplinary_academics) but triggers three exclusions: it is a lower-division introductory course (POL 222 at 200-level), focused on broad introductory coverage of women in politics, and lacks a major intellectual deliverable. Additionally, the course does not meet the student agency and responsibility criteria (all scored 0) and does not provide demonstrable evidence of learning through major projects or sustained assessment. The assessment structure relies primarily on multiple-choice quizzes and exams testing comprehension rather than advancing critical analysis or original contribution expected of Honors courses."
+      }
+    },
+    "_source_file": "POL22200_Spring2026_HTBZPJ.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 22300",
+      "course_title": "Introduction to Environmental Policy",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates political science (Social Sciences domain) with political ecology (which draws from both Natural Sciences and Social Sciences), combining theoretical frameworks from both disciplines. The course description states it provides 'an introduction to environmental politics and policy from the perspectives of political science and political ecology,' and examines 'theoretical, methodological, and practical approaches' from both mainstream and critical perspectives, indicating genuine cross-domain integration in addressing environmental problems."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students conduct an Environmental Policy Research Project that involves formulating research questions (research proposal), collecting and analyzing evidence (annotated bibliography), and producing original findings (policy brief). The project description states students will 'conduct a policy research project on a problem or issue for environmental politics' that includes identifying a relevant problem, describing its importance, and outlining a research strategy, demonstrating engagement in inquiry and knowledge creation beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses environmental justice and global issues conceptually, there is no evidence of sustained engagement with actual communities, organizations, or structured reflection on ethical/social dimensions through direct engagement. The policy brief is described as addressing 'a policy-relevant audience' but does not require interaction with real-world communities or organizations."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include explicit components for developing leadership capacity through intentional practice, reflection on leadership frameworks, or opportunities for students to make decisions, take responsibility, or influence outcomes in academic, professional, or civic contexts. While students make analytical decisions in their research, this does not constitute leadership development as defined."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical content including mainstream and critical approaches to environmental politics and policy, political ecology frameworks, and complex issues like climate change, environmental justice, and natural resource management. Learning outcomes require students to 'critique different views on several crucial debates' and 'apply different approaches to analyzing and solving public policy problems,' indicating analysis beyond introductory level."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The Environmental Policy Research Project represents sustained inquiry across the term, beginning with a research proposal, progressing through an annotated bibliography, draft submission, peer review, and culminating in a final policy brief. This multi-stage process conducted 'throughout the course of the semester' demonstrates sustained intellectual engagement with a problem."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The Environmental Policy Research Project requires significant independent intellectual work, including formulating research questions, conducting literature review, and producing an original policy brief. Additionally, the peer review component involves collaborative work where students 'give and receive peer feedback,' combining both independent and collaborative elements."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students define their own research questions and topics for the Environmental Policy Research Project. The research proposal requires students to identify 'a relevant problem/issue for environmental politics' of their choosing, describe its importance, and outline their own research strategy, demonstrating significant student agency in shaping the project."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in selecting their research topic, determining what sources to include, and crafting policy recommendations in their policy brief for 'a policy-relevant audience.' These decisions have intellectual consequences for the quality and coherence of their analysis and recommendations."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The multi-stage Environmental Policy Research Project requires extended analytical commitment with iterative review through multiple deliverables: research proposal, annotated bibliography, draft policy brief, peer feedback incorporation, and final policy brief. This structure necessitates sustained analysis and revision across the semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Environmental Policy Research Project constitutes 30% of the course grade (research proposal 5%, annotated bibliography 5%, policy brief draft 5%, peer feedback 5%, final policy brief 10%), representing a substantial portion of assessment and requiring significant intellectual work culminating in an original policy brief."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The Environmental Policy Research Project functions as a capstone-style artifact that integrates multiple components (research proposal, annotated bibliography, draft, peer review, final brief) across the term, demonstrating accumulated knowledge and skills in environmental policy analysis."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The final policy brief explicitly addresses 'a policy-relevant audience' and is limited to 1200 words plus references, following the policy brief genre which is designed for public/professional audiences. This requires academic judgment in synthesizing research for non-academic stakeholders."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course features sustained assessment through five quizzes (20%), two essay-based exams requiring ~750-word responses (50%), and the multi-component research project (30%). The majority of graded work requires critical analysis, with exams requiring essay responses and the research project demanding synthesis and original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is numbered POL 223, which is a 200-level course, and is explicitly titled 'Introduction to Environmental Policy.' It is designed to 'provide an introduction to environmental politics and policy' and covers foundational concepts in the field, indicating it is a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course description emphasizes breadth of coverage, stating it will 'explore important concepts, issues, problems, and questions' and 'critically examine a series of key problems and issues' including pollution, resource management, climate change, energy, and environmental justice. The structure of 'two halves, consisting of five main units' suggests survey-style breadth rather than depth in specialized topics."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training; it emphasizes critical thinking about environmental politics and policy, requiring analytical essays, research, and policy analysis rather than technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable in the form of the Environmental Policy Research Project, culminating in a policy brief that constitutes 30% of the grade and involves multiple stages of development across the semester."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course demonstrates interdisciplinarity and undergraduate research (meeting two pillars), satisfies all rigor criteria, all student agency criteria, and all demonstrable evidence of learning criteria, it triggers two critical exclusions: it is explicitly a lower-division introductory course (POL 223) and features broad introductory coverage designed to survey the field rather than provide advanced analysis. These exclusions disqualify the course from Honors approval despite its otherwise strong academic design."
+      }
+    },
+    "_source_file": "POL22300_Spring2026_T6E1Y5.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 22800",
+      "course_title": "Data Science and Public Policy: AI and Politics",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates knowledge from Social Sciences (political science, public policy) and Engineering/Technology (data science, AI, machine learning). The course description states it offers 'an interdisciplinary lens' to examine AI and big data's impact on governance, and learning outcomes require students to 'define and apply key concepts from data science and AI to assess their relevance for public policy design.' This demonstrates genuine integration across high-level domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in original inquiry through policy briefs that require formulating questions, analyzing evidence, and producing original findings. The learning outcomes specify students will 'develop, write, and deliver a policy brief that presents evidence-based, actionable recommendations for addressing a data- or AI-related policy challenge,' indicating knowledge creation beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course connects to real-world contexts through examination of global issues (digital sovereignty, international AI governance) and includes ethical reflection. Topics include 'surveillance capitalism,' 'platform governance,' and case studies examining stakeholder perspectives. The course explores 'ethical, legal, and political implications' and includes 'stakeholder simulations' and analysis of 'competing interests and constraints in policy decision-making.'"
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership capacity through policy brief assignments requiring students to make consequential recommendations on AI governance issues. Students must 'develop, write, and deliver a policy brief that presents evidence-based, actionable recommendations' and engage in 'stakeholder simulations, policy design challenges, case-based debates, role-play exercises' that require decision-making and ethical analysis."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical and analytical content on AI ethics, algorithmic bias, policy design frameworks, and international governance structures. Topics include 'ethics of algorithmic decision-making,' 'platform governance,' 'surveillance capitalism,' and 'digital sovereignty,' requiring sophisticated understanding of both technical and political concepts."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through multiple policy briefs developed across the term, with dedicated class time for 'developing research, writing, and communication strategies.' The course structure shows iterative development through preparation time, presentations, peer feedback, and final submissions."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through policy briefs (20%) and research presentations (20%), plus collaborative work through group projects (20%) that include 'stakeholder simulations, policy design challenges, case-based debates, role-play exercises.' Peer feedback (10%) further demonstrates collaborative intellectual engagement."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Policy brief assignments allow students to select and shape their own policy questions within the AI and politics domain. The syllabus indicates students will write briefs 'on prompts related to the course' with significant latitude for individual focus and approach, requiring students to develop their own 'evidence-based, actionable recommendations.'"
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make decisions with intellectual and ethical consequences through policy briefs that require actionable recommendations on real AI governance challenges. The course explicitly addresses 'ethical implications' and requires students to 'engage with diverse stakeholder perspectives to understand competing interests and constraints in policy decision-making.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Policy briefs require extended analytical commitment with iterative development shown through preparation periods, presentations, peer feedback roundtables, and final submissions. The peer feedback component (10%) and multiple presentation cycles demonstrate ongoing review and response throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Two policy briefs (20% total) and two research presentations (20% total) constitute major projects representing 40% of the course grade. Each brief is 1-5 pages with citations and presentations, demonstrating substantial intellectual work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the course includes multiple assignments, there is no explicit portfolio or capstone artifact that integrates work across the entire term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Research presentations are public-facing outcomes requiring students to 'clearly convey the core issue, stakeholders, and recommendations' to classroom audiences, with peer feedback indicating genuine public accountability for the quality of academic work."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (70% - policy briefs, presentations, midterm exam, peer feedback) requires critical analysis, synthesis, or original contribution. The midterm (20%) emphasizes 'reasoning over memorization' with 'open-ended analytical questions,' and policy briefs require evidence-based recommendations."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "POL 228 is a 200-level course that appears to be a lower-division course introducing foundational concepts in data science and public policy. The course description explicitly states it 'provides foundational tools' and is 'open to students across all disciplines and years,' indicating an introductory level."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple topics, it focuses specifically on AI and politics with sustained analytical engagement rather than broad survey coverage. The four-module structure and policy brief requirements demonstrate depth over breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only training; it involves critical analysis of ethical, legal, and political implications of AI, not just technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: two policy briefs, two research presentations, and a midterm exam, all requiring substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets all four pillars and demonstrates strong rigor, student agency, and evidence of learning, it triggers the lower_division_introductory exclusion. POL 228 is a 200-level course explicitly described as providing 'foundational tools' and offering 'a critical introduction' that is 'open to students across all disciplines and years.' Despite its sophisticated content and assignments, its positioning as an introductory lower-division course makes it ineligible for Honors credit under the stated exclusion criteria."
+      }
+    },
+    "_source_file": "POL22800_Spring2026_DEN62L.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 23100",
+      "course_title": "Introduction to US Foreign Policy",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course is squarely within the social sciences domain (Political Science), covering US foreign policy through historical and political science frameworks. While it mentions technology, world health, and space at the end, there is no evidence of integration with other high-level domains (Engineering, Natural Sciences, Humanities, Business) in terms of shared questions, combined methods, or joint theoretical frameworks."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "Students write Issue Briefs and Policy Briefs analyzing historical foreign policy cases, but these are informative summaries and evaluations of established historical issues, not inquiry that extends beyond established answers or produces original findings. The assignments ask students to apply existing concepts to past cases rather than formulate new questions or generate new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global issues and US foreign policy contexts, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement. The Statecraft simulation is a sandbox exercise among students, not engagement with real-world communities."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The Statecraft simulation assigns students leadership roles in fictional countries where they enact foreign policy, respond to world events, and make decisions with consequences within the simulation environment. Students practice decision-making, take responsibility for their country's actions, and reflect weekly on their choices, demonstrating intentional practice and reflection on leadership in a foreign policy context."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is explicitly introductory (POL 231: Introduction to US Foreign Policy) and designed to provide background and foundational concepts. The syllabus describes covering 'concepts, history, and case studies' and establishing 'a general vocabulary and theoretical framework,' which indicates foundational rather than advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained analytical work across the term: two written foreign policy analyses (Issue Brief and Policy Brief) analyzing historical cases, a six-week Statecraft simulation requiring ongoing decision-making and weekly reflections, and continuous assessment through quizzes and exams. This represents sustained engagement with problem-solving and application of concepts throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students complete significant independent work including two written foreign policy briefs (180 points total) and participate in a six-week collaborative Statecraft simulation (100 points) where they work with other students in leadership roles. The flexible milestone structure also requires substantial self-management and independent organization of work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "Students choose which historical foreign policy issues to analyze for their briefs and select their simulation schedule timing (early, middle, or late), but the assignments themselves are structured and prescribed. Students do not define their own research questions, project scope, or analytical approach beyond selecting from provided options."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "In the Statecraft simulation, students make foreign policy decisions as leaders of fictional countries, and these decisions have consequences within the simulation environment that affect their country's trajectory and interactions with other students' countries. Students must respond to the results of their choices and those of others over six weeks."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Students engage in extended analytical work through two major policy briefs that require summarizing issues, identifying national interests, and evaluating policy options. The six-week Statecraft simulation with weekly reflections connecting to class concepts also represents extended analytical commitment with iterative engagement throughout the simulation period."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes two written Foreign Policy Analysis assignments (Issue Brief worth 80 points and Policy Brief worth 100 points) totaling 180 points out of 1000, which together constitute 18% of the course grade. These briefs require analysis of historical foreign policy issues, identification of national interests, and evaluation of policy options."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. The assignments are discrete pieces completed at different milestones without evidence of integration or synthesis across the semester's work."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All course deliverables (briefs, simulation reflections, exams) are submitted to the instructor for grading. There is no indication that any work is shared publicly, presented to external audiences, or produces outcomes beyond the classroom."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "While the course has continuous assessment (quizzes, concept matching, exams, briefs, simulation), the majority of graded work by points is quizzes (300 points), concept matching (100 points), and exams (300 points) totaling 700 of 1000 points. These primarily assess retention and comprehension rather than critical analysis or original contribution. Only the briefs (180 points, 18%) and simulation reflections (portion of 100 points) require sustained analytical work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is explicitly a lower-division introductory course (POL 231) designed to provide foundational background, theoretical tools, vocabulary, and concepts for understanding US foreign policy. The syllabus states it is 'designed to give you the background and theoretic tools you need to understand and evaluate US foreign policy' and covers foundational concepts."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course provides broad survey coverage of US foreign policy from the founding era through contemporary issues, covering multiple historical periods, regions (Middle East, Asia, Europe, Americas, Africa), and topics. The structure emphasizes breadth of historical coverage and establishment of general vocabulary rather than deep analysis of specific issues."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course. It covers substantive content about US foreign policy history, concepts, and analysis rather than focusing solely on skills development or technical training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: two written Foreign Policy Analysis assignments (Issue Brief and Policy Brief) totaling 180 points and a six-week Statecraft simulation worth 100 points. These constitute significant intellectual work beyond routine assessments."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course meets one pillar (leadership_development through the Statecraft simulation), satisfies rigor requirements (sustained_inquiry and independent_or_collaborative_work), meets student agency criteria (consequential_decision_making and extended_analytical_commitment), and demonstrates learning through a major_project. However, the course triggers two critical exclusions: it is explicitly a lower_division_introductory course (POL 231) and follows a broad_introductory_coverage model surveying US foreign policy across centuries. These exclusions disqualify the course from Honors credit despite meeting other requirements."
+      }
+    },
+    "_source_file": "POL23100_Spring2026_2T3V8L.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 23500",
+      "course_title": "International Relations Between Rich and Poor Nations",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates International Political Economy (IPE), combining perspectives from Social Sciences (political science) and Business and Economics (economic models, trade, finance). The syllabus states students will study 'ideas, theories, ideologies, norms, and economic models' and use these as 'analytical tools' to understand gaps between nations. The course content includes 'cost-benefit analysis, game theory' alongside political theories, demonstrating integration across high-level domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While the course involves application of IPE theories to analyze real-world issues and evaluation of policies, the syllabus does not describe students formulating original research questions, conducting investigations, or producing original findings that extend beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The course examines global issues theoretically and expects students to be 'conversant with major worldwide occurrences,' but there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions of direct engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice, reflection, or analysis of leadership or ethical frameworks, nor does it develop students' capacity to make decisions, take responsibility, or influence outcomes through structured leadership development activities."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced analytical content such as IPE theories (liberalism, mercantilism, structuralism), analytical tools including cost-benefit analysis and game theory, and evaluation of IMF and World Bank policy impacts. These represent advanced theoretical and methodological content appropriate for upper-division coursework."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across seven modules throughout the term, with students progressively applying IPE theories to analyze real-world issues and evaluating impact of global economic policies. The modular structure with learning exercises, exams, and optional bonus essays demonstrates sustained analytical work."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The asynchronous online format requires significant independent work as students progress through modules, complete readings, watch videos, and demonstrate understanding through exams. Students must self-manage their learning across the semester with flexible scheduling around cut-off dates."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While bonus essay opportunities are mentioned, the syllabus does not indicate that students define their own projects or questions. The core assessments are module exams with predetermined content and a final exam drawn from previous exams."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about their learning schedule within flexible parameters, deciding when to complete modules (within cut-off dates), whether to pursue bonus opportunities, and how to engage with optional 'original research' mentioned for extra credit assignments. These decisions have direct grade consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment across seven modules throughout the semester, with students applying, evaluating, and understanding IPE concepts progressively. Module exams (90 minutes each) and optional bonus essays require sustained analytical work and synthesis of material over time."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While bonus essays are mentioned, they are optional and details are not provided. The primary assessments are module exams and a cumulative final exam, which do not constitute a major paper, project, design, or performance as a significant portion of the course grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact integrating work across the term. The final exam is cumulative but draws from previous exams rather than integrating new synthesis."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes requiring academic judgment. Assessments appear to be internal to the course (exams and optional essays)."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The graded work includes seven module exams (90% of grade) requiring application, evaluation, and understanding of IPE concepts, plus a comprehensive final exam (10%). The sustained assessment structure with exams including 'brief text entry questions' alongside multiple choice suggests a majority of graded work requires analysis and synthesis."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The syllabus explicitly states 'This course is an introductory survey to the field of International Political Economy (IPE)' and the course number (23500) indicates a 200-level course, which is lower-division and designed to introduce foundational concepts."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "As stated, this is 'an introductory survey' covering IPE theories, frameworks, case studies, and analytical tools. The breadth of topics (trade, finance, development, debt, environment, IMF, World Bank) suggests coverage-oriented rather than advanced analysis focus typical of introductory courses."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While analytical tools are taught, the course goes beyond skills-only training by requiring application of theories to real-world issues and evaluation of policy impacts, demonstrating substantive content beyond tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes sustained assessment through seven module exams and a final exam, along with optional bonus essays. While not a single major project, the sustained assessment structure constitutes significant intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "Despite meeting one pillar (interdisciplinary_academics) and satisfying rigor, student agency, and demonstrable evidence requirements, the course triggers two critical exclusions: it is explicitly described as 'an introductory survey to the field of International Political Economy' and is a 200-level lower-division course designed to introduce foundational concepts with broad coverage. These exclusions disqualify the course from Honors credit approval."
+      }
+    },
+    "_source_file": "POL23500_Spring2026_V372ZK.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 23700",
+      "course_title": "Modern Weapons and International Relations",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course demonstrates cross-domain interdisciplinarity by integrating knowledge from Social Sciences (international relations, political science) with Engineering and Technology (military technology, weapons systems) and History (Humanities). The course examines how technological changes in weapons systems interact with social and political consequences, addressing questions that cannot be answered from a single domain perspective. For example, the syllabus explores 'the immediate impact on the conduct and nature of war as well as the broader social and political implications of military change,' demonstrating integration of engineering/technology analysis with political and historical frameworks."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of students engaging in inquiry, investigation, or knowledge creation that extends beyond established answers. The course focuses on learning about historical military revolutions and current debates, with assessment through exams that test comprehension of material rather than original research or investigation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global issues related to warfare and international relations, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions through direct engagement. The course is lecture-based with readings and exams."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of developing students' capacity to make decisions, take responsibility, or influence outcomes through intentional practice, reflection, and analysis of leadership frameworks. The course focuses on analytical understanding of military technology and international relations rather than leadership development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical and analytical content, as evidenced by learning objectives such as 'Explain the elements and requirements of nuclear deterrence (and debates about the requirements)' and the examination of complex topics like the Revolution in Military Affairs, strategic bombing theory, and nuclear strategy. The course analyzes sophisticated debates about the role of technology in warfare at a level beyond introductory treatment."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through examination of multiple military revolutions from historical (gunpowder revolution 1400s-1500s, industrial revolution) to contemporary (RMA) perspectives. Students trace the evolution of military technology and its social/political implications throughout the semester, addressing complex questions like 'what does the American experience in Iraq since 2003 indicate about the role of technology in changing the character of warfare?'"
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of significant independent or collaborative intellectual work. Assessment consists solely of three non-cumulative exams with short answers and essays, without mention of projects, papers, or collaborative assignments that would require sustained independent work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not mention student-defined or student-shaped projects or questions. All topics and questions are predetermined by the instructor."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus of decision-making with intellectual or ethical consequences. Students respond to exam questions on predetermined topics but do not make consequential decisions about their work."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "While exams include essays requiring analysis, there is no evidence of extended analytical commitment requiring iterative review and response. The three non-cumulative exams are discrete assessment events without revision or extended development."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. Assessment consists solely of three exams (weighted 20%, 40%, and 40%)."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact mentioned in the syllabus."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The course does not include a public-facing or applied outcome. Assessment is entirely through traditional exams."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has a sustained assessment structure through three non-cumulative exams that together constitute 100% of the grade. Each exam includes 'short answers of varying formats and an essay,' requiring critical analysis of complex topics such as nuclear deterrence theory, military revolutions, and the Revolution in Military Affairs. The exam essays require synthesis and analysis of course material across multiple learning objectives."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 200-level course (POL 237), but it is not designed as a foundational introduction. Rather, it examines specialized topics in military technology and international relations with advanced analytical content."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple historical periods, it is not a broad introductory survey. It focuses specifically on the relationship between weapons technology and international relations, with sustained analysis of military revolutions rather than general coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training focused. It emphasizes analytical understanding of complex political and technological phenomena."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three substantial exams with essays that serve as major deliverables requiring critical analysis and synthesis."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics pillar through integration of political science, history, and military technology, and satisfies rigor requirements (advanced content, sustained inquiry) and demonstrable evidence of learning (sustained assessment), it does not meet the student agency and responsibility requirement. The course lacks student-defined projects, consequential decision-making, or extended analytical commitment with iterative review. All work is predetermined by the instructor and assessed through traditional exams without opportunities for student agency in shaping their intellectual work. At least one student agency criterion must be satisfied for Honors approval."
+      }
+    },
+    "_source_file": "POL23700_Spring2026_D0UTP5.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 32600",
+      "course_title": "Black Political Participation & Black Politics",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course is cross-listed as POL 326/AAS 371, integrating Political Science with African American Studies. The syllabus demonstrates integration through examination of Black political participation using both political science frameworks (electoral politics, participation theory) and African American Studies perspectives (Black liberation, racial experience), with readings that combine social science methods with historical and cultural analysis."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires an 8-10 page term paper where students must apply theoretical insights from course texts to current political events, requiring original analysis and application. Students also lead critical analysis discussions applying key insights to current or historical political events, demonstrating inquiry and knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world political issues and current events, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of external engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development activities, decision-making practice in leadership contexts, or analysis of leadership frameworks, though students do lead discussions."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content on political participation, with readings from university press publications examining complex topics like Black nationalism, civic activism, and political behavior. The learning outcomes require students to analyze political and legal frameworks and connect them to contemporary events."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through the term paper (8-10 pages) examining a topic from course texts applied to current politics, and through ongoing quizzes and short assignments (at least 12 throughout the semester) that require continuous analytical engagement."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through the 8-10 page term paper (25% of grade) and collaborative work through student-led group discussions (3-5 students, 10% of grade) analyzing course texts and applying insights to political events."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The term paper allows students to select which course text to examine and which current political event to analyze, giving students significant agency in defining their project focus within the course framework."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in their term papers by selecting which theoretical frameworks to apply and how to connect them to current events. The student-led discussions require groups to make decisions about how to present and apply course material."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The 8-10 page term paper requires extended analytical commitment throughout the semester, with feedback provided up to two weeks after submission. The comprehensive final exam also requires students to synthesize and apply material from across the entire course."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The 8-10 page term paper constitutes a major project accounting for 25% of the final grade, requiring students to demonstrate understanding and application of course texts to current political events."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While students lead class discussions, there is no evidence of public-facing outcomes beyond the classroom or applied outcomes requiring academic judgment in external contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment throughout the semester including at least 12 quizzes/short assignments (15%), student-led discussions (10%), a term paper (25%), and two exams (50%), with the majority requiring critical analysis and application of course concepts."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course (POL 326/AAS 371), which is upper-division, not lower-division. The course has no prerequisites and builds advanced analytical skills."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course has no prerequisites, it focuses on advanced analysis of Black political participation rather than broad introductory coverage. The course requires application of theoretical frameworks to current events and sustained analytical work."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is focused on understanding political participation and Black politics through theoretical frameworks and analysis, not skills-only or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable: an 8-10 page term paper worth 25% of the final grade that requires original analysis and application."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through its integration of Political Science and African American Studies, and the undergraduate research pillar through the term paper and critical analysis assignments. It satisfies all rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), and multiple demonstrable evidence criteria (major project and sustained assessment). No exclusions apply."
+      }
+    },
+    "_source_file": "POL32600_Spring2026_458U9U.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 32700",
+      "course_title": "Global Green Politics",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Political Science/International Relations (Social Sciences) with Environmental Studies (Natural Sciences) and Environmental Political Theory (Humanities). The course description explicitly states it provides 'a critical overview of global environmental politics from the perspective of political science, international relations, and environmental political theory,' examining ecological crises through theories of collective action, capitalism, governance, and political economy. The research project requires students to analyze climate change politics by applying both political science frameworks and environmental science knowledge of planetary systems change."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The Climate Politics Research Project requires students to formulate original research questions, conduct independent investigation through source collection and analysis, and produce original findings in the form of a position paper advocating for specific political action on climate change. Students develop research proposals, compile annotated bibliographies, and produce research reflections describing what they learned and encountered, demonstrating sustained inquiry beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses global environmental issues including 'extreme inequality and socio-environmental injustice' and requires students to 'articulate the difference in perspectives of developed and developing countries as well as poor and wealthy individuals and communities.' Learning outcomes include identifying 'how social, behavioral, or historical knowledge informs and can shape personal, civic, ethical, or global decisions and responsibilities,' demonstrating structured reflection on the ethical, social, and global dimensions of engagement with environmental politics."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to 'generate knowledge and capacity to change these conditions' related to planetary crisis. The research project requires students to advocate for 'specific political action or reform for climate change' through their position papers, requiring them to make consequential recommendations with ethical and political implications. Students must analyze 'political (in)action and resistance' and engage with frameworks for transformation of the international system."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical frameworks including 'theories of collective action and the commons,' 'critical theories of capitalism and environmental exploitation,' environmental governance, political regimes, international institutions, and political economy. It requires students to evaluate 'mainstream and critical approaches' and 'contending explanations or interpretations for social, behavioral, or historical phenomena,' demonstrating engagement with advanced analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The Climate Politics Research Project involves sustained inquiry across the entire term, progressing from research proposal to annotated bibliography to position paper draft with peer feedback to final research reflection. Students must identify problems, develop research strategies, compile and analyze sources, and iterate based on feedback throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The research project requires significant independent work including independent research, source collection, analysis, and writing. Students also engage in collaborative work through peer feedback on position paper drafts and 'contribute to an active and collaborative learning environment' through discussions and reflections."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students define their own research topics within the climate politics domain by identifying 'a relevant problem/issue relating to the politics of climate change' and developing their own research strategies for investigating it. The research proposal, annotated bibliography, and position paper are student-shaped based on individually chosen problems and advocacy positions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The position paper requires students to 'advocate for a specific political action or reform for climate change,' constituting decision-making with ethical and political consequences. Students must also identify 'how social, behavioral, or historical knowledge informs and can shape personal, civic, ethical, or global decisions and responsibilities,' engaging directly with consequential judgment."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The research project requires extended analytical commitment across multiple stages: research proposal, annotated bibliography, position paper draft, peer feedback integration, and research reflection. The iterative process with peer feedback and revision demonstrates sustained analytical engagement and response to critique throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Climate Politics Research Project constitutes a major project comprising 25% of the course grade (2.5% + 2.5% + 2.5% + 2.5% + 15% across its components). It requires sustained research, writing, revision, and reflection culminating in multiple intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The research project functions as a portfolio-style artifact with multiple components (proposal, annotated bibliography, draft, peer feedback, research reflection) that integrate work across the term, demonstrating progression of research skills and knowledge application."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The position paper is a public-facing outcome that advocates for specific political action on climate change, requiring students to make academic judgments about policy recommendations. Students also share drafts for peer feedback, creating a semi-public review process."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: essay exams (50% combined), research project components requiring analysis and original contribution (25%), and quizzes testing conceptual understanding (25%). All major assessments require students to demonstrate analytical thinking beyond recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "POL 327 is a 300-level course, indicating upper-division status, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides a 'critical overview,' it requires advanced analysis through research projects, advocacy writing, and engagement with both mainstream and critical theoretical frameworks. The focus is on application, analysis, and original research rather than pure coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training focused; it requires substantive engagement with theoretical frameworks, independent research, analytical writing, and advocacy."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes substantial major deliverables: two essay exams (25% each) and a multi-stage research project (25% total), all requiring significant intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four Honors pillars (interdisciplinary academics through integration of political science, environmental science, and political theory; undergraduate research through the climate politics project; community and global engagement through examination of global environmental justice issues; and leadership development through advocacy and policy analysis). It satisfies all rigor criteria (advanced theoretical content, sustained inquiry through term-long research project, and independent/collaborative work). It meets all student agency requirements (student-defined research topics, consequential advocacy decisions, and extended analytical commitment with peer review). It demonstrates learning through multiple major deliverables including a substantial research project. No exclusions apply."
+      }
+    },
+    "_source_file": "POL32700_Spring2026_05O7H8.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 36000",
+      "course_title": "Women & the Law",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly spans multiple high-level domains: Social Sciences (political science/law), Humanities (women's and gender studies), and legal thought. The course description states it 'spans many fields: constitutional and federal statutory law; labor, criminal, and family law, and legal thought,' and is cross-listed as POL 360/WGSS 390, indicating integration of political science/law with gender studies perspectives to examine how law affects women and men."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course focuses on learning established legal frameworks and cases rather than formulating original research questions or producing new findings. Assignments consist of quizzes, exams, and a reflective paper, none of which require inquiry that extends beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or real-world contexts beyond classroom study of legal materials. There is no mention of community partnerships, service learning, or structured reflection on ethical dimensions of community engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice, reflection, or analysis of leadership or ethical frameworks. The course focuses on understanding legal developments affecting women's rights rather than developing students' capacity to make decisions, take responsibility, or influence outcomes."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course examines advanced legal content including constitutional law, federal statutory law, labor law, criminal law, and family law. Topics include complex legal issues such as equal protection, Title IX, reproductive rights, and legal thought, demonstrating advanced theoretical and analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "While the course covers topics across the semester, there is no evidence of sustained inquiry or problem-solving on a single question or project. The work consists of weekly quizzes and two exams, which are discrete assessments rather than sustained investigation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The reflective paper (letter to a historical character) worth 100 points constitutes 20% of the course grade and represents significant independent intellectual work requiring students to synthesize course material and demonstrate critical thinking about historical and contemporary legal issues."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The reflective paper assignment ('letter to a historical character') appears to allow students to select their historical figure and frame their own perspective on course material, providing some degree of student-defined work within the project parameters."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The syllabus does not describe decision-making with intellectual or ethical consequences. The reflective paper is described minimally without evidence of requiring students to make consequential decisions about framing, approach, or ethical implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The reflective paper requires extended analytical commitment as students must review and reflect upon 'the impact of these laws in current society and their own lives' (per learning outcomes) and synthesize material across the term to write to a historical character."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The reflective paper (letter to a historical character) constitutes 100 points out of 500 total (20% of course grade), representing a major intellectual deliverable requiring synthesis of course material."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. The reflective paper is a single assignment rather than a collection or comprehensive integration of multiple works."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes. The reflective paper appears to be submitted to the instructor rather than shared publicly or applied to real-world contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes weekly quizzes (15 x 10 points = 150 points), two major exams (200 points combined), and a reflective paper (100 points). The weekly quizzes and major paper together constitute sustained assessment requiring critical analysis of legal materials across the semester."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is numbered POL 360/WGSS 390, which are upper-division course numbers (300-level), and has no prerequisites, suggesting it is not a foundational introductory course but rather an advanced elective."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple topics in women and the law, it demonstrates depth in legal analysis focused on gender discrimination, equality, and rights rather than superficial coverage. The focus on legal cases and sustained examination of specific areas indicates advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It examines substantive legal content, constitutional principles, and the historical development of women's rights rather than teaching discrete skills or tools."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable: the reflective paper worth 100 points (20% of the grade) requiring synthesis and critical analysis of course material."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through integration of political science/law and gender studies (Social Sciences + Humanities). It satisfies rigor requirements through advanced legal content and independent work. It meets student agency through the student-defined reflective paper and extended analytical commitment. It demonstrates evidence of learning through the major paper and sustained assessment structure. No exclusions apply."
+      }
+    },
+    "_source_file": "POL36000_Spring2026_TKGLIW.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 37200",
+      "course_title": "Indiana State Government Online",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": "12/13/2024"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on political science and state government within a single domain (Social Sciences). While it includes comparative analysis across states and historical context, it does not integrate knowledge, methods, or frameworks from a distinct high-level domain such as Engineering, Natural Sciences, Humanities, or Business."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The analytical essay requires students to formulate their own research question on a state policy, conduct independent research using peer-reviewed sources beyond class material, develop an argumentative thesis, and produce original analysis. This constitutes inquiry extending beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The course includes interviews with government officials and discussion of real-world policy issues, but there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course discusses leadership roles (governors, legislators), there is no evidence that students practice decision-making, take responsibility for outcomes, or engage in intentional reflection on leadership or ethical frameworks that would develop their own leadership capacity."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical and analytical content from 'leading and most influential scholars in the state and local politics subfield,' requiring students to 'evaluate and critique state and local politics literature' and apply theories of policymaking to current discourse."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The analytical essay requires sustained inquiry across the term, with staged checkpoints (topic approval by January 30, sources by February 27, final paper April 24), requiring students to move beyond class material and engage in extended research and analysis."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The 6-7 page analytical essay requiring independent research with at least five peer-reviewed sources, formulation of an argumentative thesis, and analysis beyond class material constitutes significant independent intellectual work (25% of grade)."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students must select their own policy topic for the analytical essay, clear it with the instructor, and develop their own argumentative position and research approach, demonstrating significant student agency in defining the project direction."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in formulating their thesis, selecting sources, and constructing arguments that must be based on evidence rather than opinion. The grading explicitly depends on clarity of thesis and analytical quality."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The analytical essay requires extended analytical commitment across multiple months with iterative checkpoints (topic, sources, final paper), and weekly discussions require students to 'tie the question into the readings and current events' with responses to peers."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The analytical essay constitutes 25% of the course grade and requires 6-7 pages of argumentative writing with peer-reviewed research, representing a major intellectual deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. Assignments are discrete (weekly discussions, quizzes, exams, and one paper)."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The analytical essay is submitted to the instructor via email. There is no evidence of public presentation, publication, or applied outcome requiring academic judgment in a public context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: weekly discussions (20%) require connecting readings to current events, exams (50% combined) test critical thinking abilities, and the analytical essay (25%) requires argumentation and analysis, together exceeding 50% of the grade."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course (POL 372Y), which is upper-division. While described as a 'rigorous introduction,' the content engages with advanced theoretical perspectives and leading scholarship in the subfield."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple aspects of Indiana government, it emphasizes theoretical analysis, critique of scholarly literature, and application of theories rather than broad coverage. Students must evaluate literature and apply policymaking theories to current discourse."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training; it requires theoretical analysis, critical evaluation of literature, and argumentative writing about policy issues."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable: a 6-7 page analytical essay worth 25% of the grade, requiring independent research and original argumentation."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the undergraduate research pillar through its required analytical essay involving original inquiry. It satisfies all three rigor criteria (advanced content from leading scholars, sustained inquiry in the essay, and significant independent work). All three student agency criteria are met (student-defined essay topics, consequential intellectual decision-making, and extended analytical commitment). Demonstrable evidence of learning is shown through the major essay project and sustained assessment structure requiring critical analysis. No exclusions apply."
+      }
+    },
+    "_source_file": "POL37200_Spring2026_ZKCGSR.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 42300",
+      "course_title": "International Environmental Policy",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The syllabus explicitly states that 'the field of climate change politics is necessarily vast and multi-faceted, crossing disciplinary divides and challenging many of the traditional divisions that organize the intellectual domains of the natural sciences, social sciences, and humanities. Such interdisciplinarity is reflected in the composition of this course.' The course integrates political science with natural sciences (climate science), social sciences (psychology, justice), and humanities perspectives on climate change, with a required textbook covering 'Science, Impacts, Policy, Psychology, Justice, Social Movements.'"
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to conduct original research through multiple inquiry-based activities: a commodity chain analysis examining ecological and political dimensions; a COP30 Research Notebook tracking real-time UN climate negotiations and analyzing their implications; and a climate justice archive collaborative project. These activities involve formulation of research questions, analysis of evidence, and production of original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course demonstrates sustained engagement with global issues through tracking COP30 negotiations in Brazil, contributing to a climate justice archive, and requiring subscriptions to climate-relevant newsletters to connect with real-world climate politics. The Climate Politics Journal requires reflection on 'connection/relevance with current events,' and the climate justice reflection paper includes 'what they learned from the experience,' indicating structured reflection on engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership capacity through climate bloc presentations where students represent major actors in global climate politics and participate in a negotiations simulation requiring decision-making and responsibility. Learning outcome 4 requires students to 'advance a normative position on critical questions in international environmental policy,' demonstrating ethical decision-making. The self-assessment component after presentations develops reflective leadership skills."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is described as 'upper level' with 'high standards for academic quality' and is '400-level' political science. It covers advanced theoretical content on international relations, policy analysis frameworks, and geopolitics of climate change. Students engage with scholarly texts including academic press books and are expected to 'analyze and evaluate international environmental policy using sound arguments and evidence.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry throughout the 16-week term through weekly Climate Politics Journal entries analyzing course content and current events; a collaborative COP30 Research Notebook tracking negotiations over time; commodity chain analysis; and a climate justice archive project culminating in a final reflection paper. These activities demonstrate ongoing analytical work rather than discrete assignments."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through group commodity chain analysis presentations, collaborative climate bloc presentations, and contribution to a collaborative climate justice archive. It also requires independent work through individual journal entries, self-assessments, and an essay exam. The specifications grading system requires completion of 13+ activities and 6-7 journal entries for higher grades."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The Climate Politics Journal allows students to choose which 'questions/issues raised through the week's course content' to engage with (300-500 words). The essay exam provides 'all potential essay questions in advance' and students 'choose from a subset' to answer. The climate justice archive contribution appears to allow students to define their own contributions to the collaborative project."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must 'advance a normative position on critical questions in international environmental policy' (learning outcome 4), representing consequential ethical decision-making. The climate negotiations simulation requires students to represent real actors and make policy decisions. The specifications grading system gives students consequential choices about which assignments to complete to achieve desired grade levels."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The Climate Politics Journal requires weekly ~300-500 word reflection posts throughout the term with ongoing engagement and replies. The COP30 Research Notebook involves tracking negotiations over multiple weeks. Self-assessments following presentations require reflective review of performance. The iterative nature of journal entries with discussion board replies demonstrates extended analytical commitment with response to peers."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes multiple major deliverables: the Climate Politics Journal with weekly entries constituting a sustained intellectual product; two collaborative presentations with self-assessments; and an optional but substantial climate justice archive project with reflection paper. The essay exam is also a significant assessment component for A-range grades."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The Climate Politics Journal serves as a portfolio of student thinking across the term with weekly entries reflecting on course content and current events. The climate justice archive is described as a 'collaborative project-based learning activity' culminating in a 'final reflection paper in which students summarize their contributions to the project, what they learned from the experience, and what feedback/advice they offer,' demonstrating portfolio-style integration of work."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The climate justice archive is a collaborative public-facing product requiring 'guidance from the instructor and university resources.' The presentations are shared with the class and require 'a visual or textual component (e.g., Powerpoint and/or handout) that will be shared and submitted.' The COP30 Research Notebook is described as 'collaborative digital research' suggesting a shared, potentially public-facing outcome."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: Climate Politics Journal entries engage with course questions and current events; commodity chain analysis examines ecological and political dimensions; climate bloc presentations require research and analysis; COP30 notebook analyzes negotiations and implications; essay exam requires analytical responses. The specifications grading requires satisfactory completion of 6-13+ activities plus journals for passing."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course (POL 423), which is upper-division, not lower-division. The syllabus explicitly states 'this is an upper level course' with advanced expectations."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on advanced analysis of international environmental policy rather than broad introductory coverage. The syllabus states students will 'analyze and evaluate' policy using 'sound arguments and evidence' and 'advance normative positions,' indicating depth over breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training. It involves theoretical analysis, policy evaluation, and critical engagement with political dimensions of climate change. Assignments require analytical writing, research, and normative argumentation rather than technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: Climate Politics Journal with weekly entries, two collaborative presentations with self-assessments, COP30 Research Notebook, and an essay exam. These represent substantial intellectual work throughout the semester."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "This course meets all four pillars: it is explicitly interdisciplinary across natural sciences, social sciences, and humanities; involves undergraduate research through commodity chain analysis, COP30 tracking, and the climate justice archive; engages global issues through UN climate negotiations and current events with structured reflection; and develops leadership through policy simulations and normative position-taking. It satisfies all rigor criteria with advanced content, sustained inquiry throughout the term, and both collaborative and independent work. Student agency is demonstrated through choice in journal topics, essay questions, and contributions to the archive, along with consequential decision-making in simulations and extended analytical work with iterative feedback. Evidence of learning is robust through the journal portfolio, collaborative archive project, public presentations, and sustained analytical assessment. No exclusions apply\u2014this is an upper-division analytical course with substantial deliverables."
+      }
+    },
+    "_source_file": "POL42300_Spring2026_EK30PM.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 43300",
+      "course_title": "International Organizations",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "While the course covers international organizations across multiple issue areas (conflict, security, international political economy, human rights), it operates entirely within the domain of Political Science/Social Sciences. The syllabus shows no integration with other high-level knowledge domains such as Engineering, Natural Sciences, Humanities, or Business beyond standard political science frameworks."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students design their own empirical study related to international organizations, formulating research questions, conducting literature reviews with 8+ peer-reviewed sources, developing theory and hypotheses, and designing research methodology (qualitative or quantitative). The Draft Research Paper requires students to produce original findings and engage in sustained inquiry beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global issues and international organizations, there is no evidence of sustained engagement with actual communities, organizations, or real-world contexts. The foreign policy simulation is fictional and does not involve real stakeholders or structured reflection on ethical/social dimensions of community engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The International Organizations Simulation explicitly places students in leadership roles in fictional countries where they must make decisions and interact with other student leaders. Learning outcome 4 requires students to 'evaluate policy strengths and weaknesses' and consider state and global interests, involving consequential decision-making in a simulated policy context."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical and analytical content including scholarly debates, theories of international organizations and regimes, empirical research methods, and critical evaluation of research. It is a 400-level course requiring analysis of peer-reviewed scholarly articles and advanced political science theory."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The Draft Research Paper and its progress assignments (proposal, literature review, research design draft) constitute sustained inquiry across the term. Students develop a research question, conduct literature review, formulate theory and hypotheses, and design empirical research methodology over multiple weeks."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work including article reviews, an IO profile, research paper progress assignments, and a draft research paper. The simulation also involves collaborative work with other students as country leaders, and weekly discussion preparation requires independent engagement with readings."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students select their own research topic for the Draft Research Paper, which must be approved by the instructor but is 'of their choice.' They formulate their own research questions, select their theoretical approach, and design their own empirical methodology."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The IO Simulation requires students to make decisions as country leaders that affect outcomes in the simulated world environment. The research paper requires consequential methodological and analytical decisions that shape research design and potential findings. Students must also evaluate policy strengths and weaknesses with normative implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The research paper involves iterative work through multiple progress assignments: proposal (10pts), literature review (50pts), and research design draft (40pts), each building toward the Draft Research Paper (200pts). The syllabus explicitly states drafts must include 'previous progress assignments with improvements,' demonstrating iterative review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Draft Research Paper constitutes 20% of the course grade (200 of 1000 points) and requires students to outline a research question, literature review, theory and hypothesis, research design, and policy implications. This represents a significant portion of the course grade and demonstrates advanced analytical work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the research paper integrates multiple progress assignments, it is not described as a portfolio or capstone-style artifact that integrates work across the full range of course topics and experiences."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes. The research paper is a draft academic paper, and the simulation, while experiential, does not appear to have external audiences or stakeholders."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: article reviews (20%), research paper progress assignments (10%), draft research paper (20%), and class participation requiring discussion and critique (25%). Together these constitute 75% of the grade and all require analytical engagement rather than recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course (POL 433) and is described as providing 'advanced topics' and engaging with 'scholarly literatures,' indicating it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides an 'overview,' it is focused on advanced analysis and critical evaluation of scholarly debates rather than foundational coverage. Students engage with peer-reviewed research, design empirical studies, and critically analyze competing arguments."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. While it teaches empirical research methods, these are integrated into substantive analysis of international organizations and applied to original research questions."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major intellectual deliverable: the Draft Research Paper worth 20% of the grade, plus substantial progress assignments (10%) and article reviews (20%)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (undergraduate research and leadership development), satisfies all rigor criteria (advanced content, sustained inquiry, independent/collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), demonstrates learning through major project and sustained assessment, and triggers no exclusions. The course provides advanced engagement with international organizations scholarship, requires original research design, and involves significant analytical work appropriate for Honors credit."
+      }
+    },
+    "_source_file": "POL43300_Spring2026_84C046.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 46000",
+      "course_title": "Judicial Politics",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on American judicial politics within the political science domain. While it examines courts' interactions with other government branches, this represents intra-domain analysis of political institutions rather than integration of knowledge, methods, or epistemic frameworks from distinct high-level domains such as Law, Humanities, or Social Sciences beyond political science."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course includes a 'short creative paper' on judicial review, but the syllabus provides no evidence that students formulate original research questions, engage in systematic inquiry, or produce original findings that extend beyond established answers. The assessments focus on examinations and a creative paper rather than research."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues, nor any structured reflection on ethical, social, or cultural dimensions of community engagement. The course is lecture-based with readings and examinations."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional practice in decision-making, taking responsibility, or influencing outcomes in academic, professional, or civic contexts. There is no mention of leadership frameworks, ethical analysis of leadership, or reflection on leadership capacity."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is described as 'upper-level undergraduate' with prerequisites (POL 10100 or POLS Y1030), examining advanced topics including judicial agenda setting, decision-making models (attitudinal model), judicial review across constitutional domains, and institutional competition among government branches."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course schedule demonstrates sustained inquiry across 16 weeks, progressing from court structure through judicial agenda setting, decision-making theories, landmark cases on rights and equality, and institutional dynamics, requiring students to analyze these topics through readings, participation, and the judicial review paper."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students must complete a judicial review paper independently (worth 10% of grade, submitted via Brightspace), along with significant independent preparation for examinations covering extensive readings on judicial politics, requiring synthesis of complex theoretical and case-based material."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The judicial review paper is described as 'short creative' but the syllabus provides no evidence that students define their own topics, research questions, or shape the project parameters. The course appears to have predetermined assignments without student choice in direction."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The syllabus does not describe assignments requiring students to make decisions with intellectual or ethical consequences. The work consists of examinations, attendance/participation, and a paper without evidence of consequential decision-making processes."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical engagement across the term through weekly readings addressing complex judicial theories and cases, cumulative preparation for midterm (30%) and final examinations (40%), and synthesis of material on judicial power, constitutional interpretation, and institutional dynamics."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While the course includes a judicial review paper, it comprises only 10% of the final grade, which does not constitute a 'significant portion' of the course grade as required. The major assessment components are the midterm (30%) and final exam (40%)."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. Assessments are discrete: examinations, participation, and a single paper."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes. The judicial review paper is submitted via Brightspace to the instructor, and examinations are traditional in-person assessments without public presentation or application components."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes sustained evaluation through weekly attendance/participation (20%), readings requiring critical analysis of judicial scholarship and landmark cases, a midterm examination (30%), a judicial review paper (10%), and a comprehensive final examination (40%), with the majority of graded work requiring analysis and synthesis of judicial politics concepts."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is explicitly described as 'upper-level undergraduate' with prerequisites (POL 10100 or POLS Y1030), indicating it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple aspects of judicial politics, it is an upper-level course with prerequisites that goes beyond introductory coverage to include advanced topics like attitudinal models, judicial agenda setting theories, and institutional competition, demonstrating analytical depth rather than broad introductory survey."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It focuses on substantive understanding of judicial politics, decision-making theories, and constitutional analysis, with one learning objective mentioning quantitative assessment as part of broader analytical skills."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: a midterm examination (30%), a judicial review paper (10%), and a final examination (40%), totaling 80% of the grade in substantive intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course fails to meet the pillar requirement, scoring 0 on all four pillars (interdisciplinary academics, undergraduate research, community and global engagement, and leadership development). While the course satisfies rigor requirements (advanced content, sustained inquiry, and independent work), demonstrates student agency through extended analytical commitment, and shows evidence of learning through sustained assessment, at least one pillar must be met for Honors approval. The course remains within the single domain of political science without cross-domain integration, does not involve original research or community engagement, and lacks leadership development components."
+      }
+    },
+    "_source_file": "POL46000_Fall2025_40Y3KF.pdf"
   }
 ]

@@ -1,0 +1,920 @@
+[
+  {
+    "course_information": {
+      "course_number": "SOC22000",
+      "course_title": "Social Problems",
+      "department": "SOC",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on sociology and social problems through a sociological lens. While it examines multiple social issues (war, drug use, domestic violence, crime), it does not demonstrate integration of methods, theories, or epistemic frameworks from distinct high-level knowledge domains beyond sociology within the social sciences."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course involves quizzes, exams, and a book discussion but does not engage students in formulating original research questions, conducting investigations, or producing original findings. The assignments focus on comprehension and application of existing sociological concepts rather than extending beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any sustained engagement with communities, organizations, or real-world contexts. There is no evidence of service-learning, community partnerships, fieldwork, or structured reflection on ethical, social, or cultural dimensions of engagement beyond classroom discussion."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the syllabus mentions active classroom participation and civil debate, it does not include intentional development of leadership capacity, decision-making with responsibility for outcomes, or analysis of leadership or ethical frameworks. Participation is expected but not structured as leadership development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course appears to be an introductory-level survey of social problems with learning outcomes focused on describing, identifying, and critiquing rather than advanced theoretical or analytical work. The content is foundational rather than advanced."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course structure consists of chapter quizzes, exams, and one book discussion. There is no evidence of sustained inquiry, design work, or extended problem-solving that develops across the term. Assessments are discrete rather than cumulative or developmental."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus describes individual quizzes and exams with one class-wide discussion. There is no significant independent research project or collaborative intellectual work requiring sustained effort. The book discussion results in 'a single class grade' suggesting minimal individual accountability for collaborative work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments are instructor-defined: chapter quizzes, exams, and a book discussion on a required text. Students do not have opportunities to define their own projects, shape research questions, or pursue topics of personal interest."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course does not involve decision-making with intellectual or ethical consequences. Students respond to quizzes and exams on predetermined content without making consequential choices about approaches, methods, or directions of inquiry."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "Assessments consist of quizzes (multiple attempts for half credit), multiple choice/true-false exams, and a single book discussion with a 10-question quiz. There is no evidence of iterative work, revision processes, or extended analytical commitment requiring sustained development and refinement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. The largest single assessment is each of three 100-point exams (out of 780 total points, or ~13% each), which are multiple choice and true/false formats rather than synthetic or analytical work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact. The course consists of discrete assessments (quizzes, exams, one discussion) without integration of work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The course does not include any public-facing or applied outcomes. All work is classroom-based and assessed through quizzes, exams, and internal class discussion."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of attendance (150/780 points, ~19%), chapter quizzes that allow re-attempts for half credit (300/780 points, ~38%), and multiple choice/true-false exams (300/780 points, ~38%). This structure emphasizes recall and comprehension rather than critical analysis, synthesis, or original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "SOC 220 is a 200-level course titled 'Social Problems' with learning outcomes focused on describing, identifying, and critiquing social problems using foundational sociological concepts. This is characteristic of a lower-division introductory course within the sociology discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course examines a broad range of social problems including 'war, drug use, domestic violence, and crime' with the goal to 'instill a sense as to what problems arise in our society.' The structure (12 chapter quizzes covering textbook chapters) suggests survey-style coverage rather than depth or advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training. It covers substantive sociological content about social problems, even though at an introductory level."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course does not include a major intellectual deliverable such as a substantial research paper, project, or capstone. Assessments are limited to quizzes, multiple choice/true-false exams, and one book discussion with minimal individual accountability."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course fails to meet Honors College requirements on multiple grounds: (1) it does not satisfy any of the four pillars; (2) it does not demonstrate sufficient rigor, with no advanced content, sustained inquiry, or significant independent/collaborative work; (3) it provides no student agency or responsibility through student-defined projects, consequential decision-making, or extended analytical commitment; (4) it lacks demonstrable evidence of advanced learning; and (5) it triggers three exclusion criteria as a lower-division introductory course with broad survey coverage and no major intellectual deliverable."
+      }
+    },
+    "_source_file": "SOC22000_Spring2026_C3LOBM.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 27500",
+      "course_title": "Sociology of Aging and the Life Course",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The syllabus explicitly states the course 'draws on insights from multiple disciplines, including sociology, demography, epidemiology, psychology, and public health.' The CALC colloquia are described as 'showcase interdisciplinary learning in gerontology,' indicating integration across Social Sciences (sociology, demography, psychology) and Natural/Exact Sciences (epidemiology, public health) to address aging research questions."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students engage with course content through reflective essays and field experiences, there is no evidence of original inquiry, formulation of research questions, analysis of evidence beyond established findings, or production of original research outcomes. Activities focus on applying established concepts rather than generating new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The field experience component requires students to participate in Tech Team sessions assisting older residents with technology, described as 'valuable opportunities to engage directly with older adults.' Students must write an essay 'applying at least two social gerontological concepts to their field experience,' demonstrating structured reflection on the community engagement experience."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development activities, decision-making frameworks, or structured reflection on leadership or ethical frameworks. The field experience focuses on service and concept application rather than leadership capacity building."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course addresses 'key theoretical frameworks and established research in social gerontology' and requires students to 'comprehend core concepts in the sociology of aging and theories and methods for research on aging,' indicating engagement with advanced theoretical and methodological content appropriate for upper-division sociology."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "While the course includes regular weekly activities and multiple assignments, there is no evidence of a sustained inquiry project, design challenge, or problem-solving effort that develops across the term. Assignments appear discrete rather than building toward an integrated investigation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires 'active participation' with 'several unannounced in-class assignments and group exercises' and emphasizes 'learning will be dynamic and collaborative, based on respectful dialogue and critical thinking,' indicating significant collaborative intellectual work throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "In the Video Reflective Essay, students 'choose one to write a short reflective essay' from assigned videos, and must select 'at least two concepts or theories' to apply. The field experience also allows students to shape their own application of concepts to their unique interactions, providing meaningful student choice in framing their analysis."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students make choices about which concepts to apply and which video to analyze, the syllabus does not indicate that these decisions have intellectual or ethical consequences beyond completing the assignment. The decisions do not appear to shape outcomes in ways that require weighing competing frameworks or values."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The major assignments are short essays (under 400 and 300 words respectively) without evidence of iterative development, revision, or feedback loops. There is no indication of sustained analytical work that evolves through multiple drafts or review cycles."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The largest assignment components are three exams at 15% each (45% total), with essays at 10% each. No single project or paper constitutes a major portion of the grade that would demonstrate sustained intellectual work and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not include a portfolio or capstone-style artifact that integrates work across the term. The various assignments (essays, exams, SmartBook activities) remain discrete rather than culminating in an integrative deliverable."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the field experience involves community service, the outcome is a brief internal essay rather than a public-facing product. There is no evidence of presentations, publications, or other outputs requiring academic judgment for external audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure includes weekly SmartBook activities (15%), regular in-class assignments and participation (20%), reflective essays requiring application of course concepts (20% combined), and exams (45%), demonstrating that a majority of graded work requires ongoing engagement with course material and application of analytical concepts."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SOC 27500 is a 200-level course, but the content described as examining 'key theoretical frameworks and established research' with interdisciplinary integration suggests it goes beyond basic introduction to foundational concepts, functioning more as an upper-division topical course in sociology."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides 'a comprehensive overview of the sociological study of aging,' it emphasizes 'a life course perspective' as an analytical framework and requires application of concepts to field experiences, indicating depth beyond broad survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on sociological concepts, theories, and frameworks for understanding aging rather than skills training or tool proficiency. Even the technology assistance in the field experience serves as a vehicle for applying gerontological concepts."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple substantial deliverables including three exams (45%), two reflective essays (20%), field experience, and ongoing participation and assignments. While no single project dominates, the collective assessment demonstrates intellectual engagement."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is counted through another Honors credit mechanism or that credit is duplicated elsewhere."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (interdisciplinary academics through integration of sociology, demography, epidemiology, psychology, and public health; community and global engagement through structured field experience with reflection). It demonstrates rigor through advanced theoretical content and collaborative work. It provides student agency through student-defined project components in essay selection and concept application. It shows demonstrable evidence of learning through sustained assessment structure where majority of work requires analytical engagement. The course meets all necessary requirements and triggers no exclusions."
+      }
+    },
+    "_source_file": "SOC27500_Fall2025_T7Y0XJ.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 33900",
+      "course_title": "Sociology of Global Development",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Social Sciences (sociology) with Economics (trade, debt, industrialization), Political Science (colonialism, decolonization, rights), Environmental Studies (environmentalism, sustainable development), and Health Sciences (global health), creating a genuinely interdisciplinary approach to development that cannot be addressed from sociology alone."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The Final Project and SDG Project require students to conduct research on development programs and interventions, analyze progress toward goals, and produce original analysis connecting theories to current events. The SDG project specifically asks groups to 'research development programs and interventions' and explore goal creation and justification."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses global development issues including migration, poverty, inequality, women's empowerment, and sustainable development. Extra credit opportunities require attending Native American Educational and Cultural Center events with reflection on connections to global development, demonstrating structured engagement with cultural and global contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course involves group work and decision-making in projects, there is no explicit evidence of intentional leadership development, frameworks for analyzing leadership, or structured reflection on decision-making capacity or influence in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical content including development theories, globalization frameworks, and analytical approaches to colonialism, decolonization, and sustainable development. Students must 'evaluate the strengths and weaknesses of key development theories' and 'analyze current events using theories and concepts.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The SDG Project involves sustained inquiry throughout the semester with 5 different parts developed during class time, plus creation of visual aids. The Final Project also involves iterative work across the term with a 1st draft/outline, full draft, and peer review structure."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both significant collaborative work (SDG group project throughout semester) and independent work (individual Final Project with multiple drafts and reading responses). The Final Project constitutes 100 points of individual intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have significant agency in selecting which 5 weeks to submit reading responses (out of available weeks), choosing from 'several different options for the format of the final project,' and determining how to connect course concepts to current/historical events in their responses."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must conduct written peer reviews of another student's project draft, making intellectual and ethical judgments about peer work. Reading responses require students to 'pose questions for discussion' and make analytical connections, with consequences for class discourse."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The Final Project requires iterative development with 1st draft/outline (10 points), full draft (20 points), peer review (20 points), and final submission (100 points), demonstrating extended analytical commitment with multiple rounds of review and revision."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Project constitutes 100 points out of 565 total points (approximately 18% of course grade), representing a major intellectual deliverable tied to course objectives with multiple components including drafts and peer review."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the Final Project has multiple components, there is no evidence of a portfolio integrating diverse work across the term or a capstone-style artifact that synthesizes learning from multiple assignments."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The SDG Project requires groups to create visual aids (slides, video, infographic) that are 'posted on Brightspace and voted on by classmates,' creating a public-facing outcome that informs others and requires academic judgment in presentation."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: 5 reading responses (100 pts) requiring discussion rather than summary, 5 reflections (100 pts), SDG research project (90 pts), and Final Project (100 pts) all demand synthesis and original contribution rather than basic recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SOC 339 is a 300-level course, which is upper-division, not lower-division. The course builds on foundational knowledge rather than introducing basic disciplinary concepts."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple topics in global development, it emphasizes advanced analysis through theory evaluation, sustained research projects, and application of concepts to current events rather than broad introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on theoretical analysis, research, and critical thinking about global development rather than skills-only or tool training. Learning outcomes emphasize understanding causes/consequences and evaluating theories."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a Final Project worth 100 points (plus drafts and peer review) and a semester-long SDG group project worth 90 points, both constituting major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three pillars (interdisciplinary academics, undergraduate research, and community and global engagement), satisfies all rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), demonstrates learning through multiple mechanisms (major project, public-facing outcome, and sustained assessment), and triggers no exclusions."
+      }
+    },
+    "_source_file": "SOC33900_Spring2026_SNSXIO.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 34400",
+      "course_title": "Environmental Sociology",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": "01/20/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Social Sciences (sociology) with Natural Sciences (environmental problems, energy systems) and Humanities (moral culture, ethics). The readings span Mitchell's 'Carbon Democracy' (political economy + environmental science), Smil's 'How the World Really Works' (energy science), Farrell's work on morality and environment, and Foster's metabolic rift theory. The core question\u2014how human societies create and respond to environmental problems\u2014requires both sociological frameworks and natural science understanding of environmental systems, with methods and evidence drawn from both domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in inquiry beyond established answers through three take-home exams that require them to 'make an application of some material we have considered to a contemporary problem, challenge some argument we have considered, make a connection between two pieces.' Each exam requires students to 'cite and document an outside peer reviewed source,' indicating independent investigation and analysis of scholarly literature to produce original synthesis."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes sustained engagement with real-world environmental issues through guest speakers from community organizations (Rev. Dr. Jeremy Summers from Evangelical Environmental Network, Dr. Anna Paltseva on urban agronomy) and explicit focus on 'personal, civic, ethical, and/or global decisions surrounding environmental problems.' Students are challenged to 'recognize the impact of diversity among individuals, cultures, and societies in the varied, contemporary approaches to environmental problems' with structured reflection through discussion questions and exam prompts."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to make ethical and civic decisions through analysis of leadership frameworks around environmental problems. FLO #4 explicitly states students 'identify examples of how social, behavioral, or historical knowledge influence personal, civic, ethical, and/or global decisions surrounding environmental problems.' Students must take positions and articulate them in formalized discussions, demonstrating 'their own thoughts/opinions,' which constitutes practice in ethical reasoning and decision-making with civic implications."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content from multiple sophisticated frameworks: Douglas and Wildavsky's cultural theory of risk, Ostrom's commons theory, Foster's metabolic rift theory, and Mitchell's carbon democracy thesis. Readings draw from advanced scholarly works requiring graduate-level theoretical sophistication, and students must 'evaluate the assumptions underlying these assumptions' and engage with 'major theoretical perspectives in sociology.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the entire term through three progressive exams that build on each other (non-cumulative but sequential), daily engagement with empirical and theoretical readings requiring analytical responses in quizzes, and ongoing class discussions. Students progressively develop understanding as indicated by FLO #1: 'demonstrate the knowledge they will gain progressively over the course' and are required to synthesize across readings in exam essays."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through three take-home exams (50% of grade) requiring 250-300 word analytical essays that synthesize course material with independently researched peer-reviewed sources. Students must locate, evaluate, and integrate outside scholarly sources, demonstrating independent research skills. Class discussions also require students to formulate and defend substantive positions based on their own analysis."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While students must find their own outside peer-reviewed sources for exams, the writing prompts are instructor-defined, and there is no evidence that students shape research questions, select topics, or define project parameters. The syllabus states 'I will give you a writing prompt' for each exam, indicating instructor control over the scope and direction of student work."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students engage in consequential decision-making with ethical implications through exam prompts that require them to 'make an application of some material we have considered to a contemporary problem' and through discussions where they must 'identify examples of how social, behavioral, or historical knowledge influence personal, civic, ethical, and/or global decisions surrounding environmental problems.' Their analytical choices in synthesizing sources and positions have intellectual consequences for their arguments."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through three major exams (50% of grade) that demand synthesis across multiple weeks of readings, plus ongoing analytical work in daily quizzes (40% of grade) that require evaluation of 'the methods and evidence marshalled by researchers.' The rubric system for exams indicates iterative assessment standards, and the appeal policy ('within one week') suggests careful review of student work quality."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The three take-home exams collectively constitute 50% of the course grade, representing major intellectual deliverables. Each exam requires a 250-300 word analytical essay that synthesizes course material, incorporates independently researched peer-reviewed sources, and demonstrates critical engagement with environmental sociology theories and evidence. These exams require going 'beyond simply memorizing particular details' to apply, challenge, or connect course concepts."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While there are three exams across the term, the syllabus explicitly states 'The exams are not cumulative,' and there is no indication that students compile or integrate their work across the semester into a portfolio or capstone artifact. Each exam stands alone rather than building toward a cumulative demonstration of learning."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing work, community presentations, public scholarship, or applied outcomes beyond the classroom. The exams are take-home assignments submitted to the instructor, and discussions occur within the classroom setting. No mention is made of public dissemination, community reporting, or external audiences for student work."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has a sustained assessment structure where the majority of graded work requires critical analysis: daily quizzes (40%) require evaluation of readings and methods, participation (10%) requires substantive analytical responses, and exams (50%) require synthesis and original argumentation. The syllabus indicates students must 'evaluate the methods and evidence' in discussions and quizzes, demonstrating that most assessment involves analytical rather than rote work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SOC 344 is a 300-level course, placing it in upper-division coursework. The course description states it 'introduces students' to environmental sociology, but the theoretical sophistication (Ostrom, Foster, Mitchell) and advanced analytical requirements indicate this is not a foundational lower-division course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course introduces environmental sociology, it demonstrates depth rather than breadth. The syllabus shows sustained engagement with specific theoretical frameworks (cultural theory of risk, commons theory, metabolic rift, carbon democracy) and requires students to evaluate assumptions, synthesize theories, and apply concepts to contemporary problems\u2014activities that go beyond survey-level coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training. It centers on theoretical frameworks, critical analysis of environmental problems, and synthesis of sociological perspectives. While there is a workshop on 'preparing for the Exams' and discussion of large language models as tools, these are minor components supporting the primary intellectual work of analyzing social-environmental relationships."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three substantial take-home exams that collectively constitute 50% of the grade. Each requires a 250-300 word analytical essay synthesizing course material with independently researched sources, demonstrating that the course has significant intellectual deliverables with clear assessment criteria (rubric provided)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism or that students are receiving credit for this course through alternative pathways."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four pillars (interdisciplinary academics through sociology + natural sciences + humanities integration; undergraduate research through inquiry-based exams with original source analysis; community and global engagement through guest speakers and ethical reflection on environmental decisions; leadership development through civic decision-making frameworks). It satisfies all three rigor criteria (advanced theoretical content, sustained inquiry across the term, independent intellectual work). It meets two of three student agency criteria (consequential decision-making and extended analytical commitment). It demonstrates evidence of learning through major exams (50% of grade) and sustained assessment requiring critical analysis. No exclusions apply\u2014it is upper-division, analytically focused, theory-driven, includes major deliverables, and is not already counted elsewhere."
+      }
+    },
+    "_source_file": "SOC34400_Fall2025_6YMHPJ.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 35200",
+      "course_title": "Drugs, Culture and Society",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on sociological analysis of drug use across societies. While it examines social contexts, public policy, and global markets, these are all examined through a sociological lens within the Social Sciences domain. There is no evidence of integration with methods, frameworks, or epistemic approaches from other high-level domains such as Natural Sciences, Humanities, Engineering, or Business."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The final evaluation option includes a research project where students complete an original research project on a topic of their choice that relates to class, requiring at least 10 sources and allowing flexible formats (research paper, presentation, podcast). This demonstrates student engagement in inquiry and knowledge creation beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course examines global drug markets and cross-cultural differences in drug use, there is no evidence of sustained engagement with communities, organizations, or global issues through structured activities or reflection on ethical/social dimensions of such engagement. The course appears to be entirely classroom-based with no community partnerships or service components."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of activities, frameworks, or reflection designed to develop students' capacity to make decisions, take responsibility, or influence outcomes in academic, professional, or civic contexts. The course focuses on knowledge acquisition and analysis rather than leadership development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is a 300-level sociology course that engages with current social scientific literature, includes advanced theoretical content on drug use theories, and covers complex topics including global markets, drug epidemics, public policy, and cross-cultural analysis. The reading list includes recent peer-reviewed research articles (2018-2025)."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through weekly discussion boards (21 total requiring analysis of readings/videos/podcasts), and the optional final research project requires sustained independent inquiry with at least 10 sources on a student-selected topic."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work including weekly discussion board responses analyzing source materials (minimum 100 words plus comments), and the option of completing an independent research project as the final evaluation."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students who choose the research project option for final evaluation select their own topic that relates to class and determine the format (research paper, presentation, podcast, etc.), demonstrating significant student agency in shaping their culminating work."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make a consequential choice between completing a final exam or a research project (worth 50 points/14% of grade), and must make ongoing decisions about which 11 of 21 discussion boards to skip given the drop policy, requiring strategic academic decision-making throughout the term."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through 21 weekly discussion boards analyzing readings and media, each requiring evidence-based sociological arguments. Students must also complete 10 chapter quizzes and engage with complex theoretical and empirical materials throughout the semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final evaluation option of a research project (50 points, approximately 14% of final grade) constitutes a major deliverable requiring original research, at least 10 sources, a written component, and student choice of format."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. The final project, if chosen, is a standalone assignment rather than an integration of previous work."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the final research project can take the form of a presentation or podcast, there is no evidence that it is presented publicly or shared with audiences beyond the instructor. The class presentations scheduled for Week 16 are not clearly described as public-facing."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: 21 discussion boards (80 points) requiring evidence-based sociological arguments, 10 quizzes (100 points) testing comprehension of complex materials, a midterm exam (50 points), and a final evaluation (50 points). Discussion boards explicitly require 'presenting a sociological argument based on evidence' rather than personal opinion."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level (upper-division) course, not a lower-division introductory course. SOC 35200 is designed for students with foundational knowledge in sociology."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides an overview, it focuses on advanced analysis of drug use through sociological frameworks rather than broad introductory coverage. The course engages deeply with theories, current research literature, and complex policy analysis rather than basic concept introduction."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training focused. It emphasizes critical analysis, theoretical engagement, and substantive understanding of drug use from sociological perspectives."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable option: either a final exam or a research project requiring original work with at least 10 sources, constituting 50 points (approximately 14% of grade)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets one pillar (undergraduate research through the optional final research project), satisfies all three rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), meets all three student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), and demonstrates clear evidence of learning through both a major project option and sustained assessment structure requiring critical analysis. No exclusions apply. The course qualifies for Honors credit."
+      }
+    },
+    "_source_file": "SOC35200_Fall2025_E51REM.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC37400",
+      "course_title": "Medical Sociology",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on sociological perspectives on health and medicine. While it addresses health-related topics, it does not demonstrate integration of methods, frameworks, or epistemic approaches from a distinct high-level domain such as Natural Sciences, Public Health as a separate field, or Humanities in a way that materially shapes research questions or outcomes."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course involves reading responses and analysis of media using sociological theories, but there is no evidence of students formulating original research questions, conducting inquiry beyond established answers, or producing original findings. The assignments focus on comprehension and application of existing theories rather than knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the syllabus mentions 'the healthcare system in the United States and globally' in the description, there is no evidence of sustained engagement with communities, organizations, or real-world contexts, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course includes group work on a health campaign, but there is no evidence of intentional practice in decision-making, taking responsibility, or influencing outcomes through leadership frameworks. The syllabus does not describe opportunities for leadership reflection or analysis of ethical frameworks in leadership contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course learning outcomes include 'Apply sociological theories to analyze contemporary health issues' and 'Analyze media using theories related to Medical Sociology,' indicating engagement with advanced theoretical content in medical sociology. The 37400-level designation also suggests upper-division analytical work."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "While the course includes multiple assignments throughout the term (quizzes, reading responses, exams, health campaign), there is no evidence of a sustained inquiry, design, or problem-solving process that develops iteratively across the semester. The health campaign details are not provided, making it unclear if it involves sustained inquiry."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires seven reading responses that involve independent analytical work ('write something you found interesting or surprising') and a group health campaign project worth 20% of the grade, demonstrating both independent and collaborative intellectual work requirements."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The reading responses allow students to select 7 out of 13 possible responses and choose 'something you found interesting or surprising' to write about, providing student agency in selecting topics. The health campaign may also allow for student-shaped topics, as the syllabus notes 'You may use AI to help you identify a topic.'"
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of decision-making with intellectual or ethical consequences beyond standard academic choices about which topics to address in responses. There is no indication of decisions that have meaningful implications for analysis or outcomes."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The reading responses are brief (1-2 paragraphs) and there is no evidence of iterative review, revision, or extended analytical commitment across assignments. The syllabus does not describe feedback loops or revision processes for major work."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The health campaign constitutes 20% of the course grade (200 points out of 1000 total), qualifying as a major project that represents a significant portion of the final grade, though details about its scope and requirements are limited."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. The assignments appear to be discrete rather than cumulative or integrative."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the health campaign is presented on a specific day, there is insufficient evidence that it constitutes a public-facing or applied outcome requiring academic judgment beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires analysis: reading responses require identifying interesting/surprising elements (15%), exams likely require application of concepts (40%), and the health campaign requires synthesis (20%). Together, these constitute sustained assessment requiring critical analysis beyond mere recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SOC 37400 is a 300-level course, placing it in the upper-division category, not lower-division. The course number indicates it is beyond introductory level within the discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides 'comprehensive overview,' the learning outcomes emphasize analysis and application ('Analyze media using theories,' 'Apply sociological theories') rather than purely foundational coverage, suggesting upper-division analytical focus rather than broad introductory survey."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is theory and content-focused, centered on medical sociology concepts and their application. It is not a skills-only or tool-training course."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a health campaign worth 20% of the grade and two exams each worth 20%, constituting major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets rigor requirements (advanced content, independent/collaborative work), demonstrable evidence requirements (major project, sustained assessment), and student agency requirements (student-defined projects), it does not meet any of the four pillars. The course remains within the single domain of sociology without genuine cross-domain integration, lacks undergraduate research involving original inquiry, has no sustained community/global engagement, and does not include intentional leadership development. At least one pillar must be met for Honors approval."
+      }
+    },
+    "_source_file": "SOC37400_Spring2026_SPAI1A.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 41100",
+      "course_title": "Social Inequality",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on sociological analysis of durable inequalities. While it involves fieldwork and community engagement, it does not demonstrate integration of knowledge, methods, or frameworks from distinct high-level domains beyond sociology."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in original inquiry through ethnographic fieldwork, collecting fieldnotes from volunteer shifts, and conducting thematic analysis of their data. The course requires formulation of research questions, systematic data collection, and production of original findings about social inequality in community organizations."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes sustained community engagement through 10 hours of volunteer work with local organizations serving people facing adversity. Students complete structured reflection through fieldnotes and thematic analysis, examining ethical and social dimensions of inequality as experienced in community contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include explicit development of leadership capacity, decision-making frameworks, or intentional practice of leadership skills. While students make choices about volunteer placement, there is no evidence of structured leadership development or analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is an upper-level sociology course (41100) that engages with advanced theoretical concepts including 'durable inequalities' (Tilly 1999), requiring students to 'investigate assumptions about the nature and origins of social inequalities' and 'construct arguments about social inequalities' causes and consequences.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the semester through approximately 45 hours of volunteering, fieldnote collection, and analysis. Students must complete 10 volunteer hours, take detailed fieldnotes within 48 hours of each shift, and conduct thematic analysis of their collective data for a final project."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through self-directed volunteer placement, individual fieldnote collection, and analysis. The syllabus mentions 'your group's collective data' and collaborative data analysis, indicating both independent and collaborative intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students choose their own volunteer organization (must focus on people facing adversity) and schedule their own shifts. They define their research site and shape their data collection through the choices they make about when and how to engage with their chosen organization."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about where to volunteer, how to document their observations, and what themes to identify in their analysis. These decisions have intellectual consequences for the quality and depth of their ethnographic data and analytical outcomes."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through iterative fieldnote documentation (within 48 hours of each shift across the semester), peer and self-review of Social Media Inequality Spotlight assignments, and sustained thematic analysis culminating in a final project."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The thematic analysis final project (10% of grade) requires students to write up an analysis of data collected in fieldnotes with reflection. Combined with the fieldnotes (10%) and volunteer hours (10%), the service learning component represents 30% of the final grade, constituting a major deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The thematic analysis integrates fieldnotes collected across the semester from multiple volunteer shifts, requiring students to synthesize approximately 45 hours of work into a coherent analytical product that demonstrates learning across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The Social Media Inequality Spotlight assignments (35% of grade) require students to create 'short-form explanation[s]' applying sociological concepts to current social media content, producing public-facing analyses that demonstrate academic judgment about social inequality."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: fieldnotes (10%), thematic analysis (10%), Social Media Inequality Spotlight assignments with drafts and revisions (35%), and exams (35%) all require analytical engagement with course concepts rather than simple recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is numbered 41100, which is an upper-division course. The syllabus explicitly describes it as 'this upper-level Sociology course,' not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses specifically on social inequality rather than providing broad introductory coverage. It emphasizes advanced analysis and application through ethnographic research and thematic analysis rather than survey coverage of the discipline."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While students learn fieldnote methodology, the course is not limited to skills training. It emphasizes theoretical understanding of durable inequalities, critical analysis, and substantive research engagement beyond mere tool use."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: thematic analysis of fieldnotes (10%), Social Media Inequality Spotlight assignments (35%), and exams (35%), demonstrating substantial intellectual products across the semester."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism such as an existing Honors designation or alternative credit pathway."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (undergraduate research and community/global engagement), satisfies all rigor criteria (advanced content, sustained inquiry, independent/collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and demonstrates clear evidence of learning through major projects, portfolio-style work, public-facing outcomes, and sustained assessment. No exclusions apply. The course qualifies for Honors credit through its integration of ethnographic research, community engagement with structured reflection, and sustained analytical work."
+      }
+    },
+    "_source_file": "SOC41100_Spring2026_T9Y3GU.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC 41900",
+      "course_title": "Sociology of Law",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on the sociological study of law, exploring legal institutions from a sociological perspective. While it examines law (which could be considered humanities/social sciences), it does not demonstrate integration of methods, theories, or frameworks from two distinct high-level domains in a way that materially shapes research questions or analysis. The course remains within the social sciences domain."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any research activities where students formulate questions, analyze evidence, or produce original findings. Assessment consists of exams (70%), quizzes (20%), and participation (10%), none of which involve inquiry or investigation beyond established knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any engagement with communities, organizations, or global issues. The course applies socio-legal concepts to 'real-world examples' but does not involve sustained engagement with external contexts or structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include any components focused on leadership development, decision-making with responsibility, or analysis of leadership or ethical frameworks. Participation in class discussion does not constitute intentional leadership practice."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is a 400-level sociology course that examines advanced theoretical concepts in the sociology of law, including foundational theories and their application to criminal and civil legal systems. The learning objectives include identifying key theories and applying socio-legal theoretical concepts to real-world examples, indicating advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course structure relies on exams and quizzes testing comprehension of assigned readings and lectures. There is no evidence of sustained inquiry, design, or problem-solving activities that develop across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any independent or collaborative projects, papers, or significant intellectual work. Assessment is entirely through exams, quizzes, and participation, which do not constitute significant independent intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not include any student-defined or student-shaped projects or questions. All assessment is through standardized exams and quizzes with predetermined content."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course does not involve decision-making with intellectual or ethical consequences. Students respond to exam questions and participate in discussions but do not make consequential choices about their work."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The assessment structure (multiple-choice/true-false exams and short quizzes) does not require extended analytical commitment or iterative review and response. Work is episodic rather than sustained."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. Assessment consists entirely of exams (70%), quizzes (20%), and participation (10%)."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The course does not include any public-facing or applied outcomes. All work is confined to in-class exams, quizzes, and discussion."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work (90%) consists of exams and quizzes using multiple-choice and true-false questions, which do not require critical analysis, synthesis, or original contribution. Only participation (10%) involves any analytical thinking, which is insufficient to constitute sustained assessment."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course, which is an upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "Despite being a 400-level course, the course description explicitly states it 'provides an introduction to the sociological study of law' and is structured around broad coverage of foundational theories, criminal law issues (policing and punishment), and civil law issues (litigation). The assessment structure (multiple-choice/true-false exams and quizzes) emphasizes breadth of coverage rather than advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course. It focuses on theoretical concepts and their application."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a major intellectual deliverable. Assessment consists entirely of multiple-choice/true-false exams (70%), short quizzes (20%), and participation (10%). There is no paper, project, or substantial analytical work product."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course fails to meet Honors requirements on multiple grounds. It meets no pillars (interdisciplinary academics, undergraduate research, community engagement, or leadership development). While it demonstrates advanced content, it lacks both student agency/responsibility (no student-defined projects, consequential decision-making, or extended analytical commitment) and demonstrable evidence of learning (no major project, portfolio, public-facing outcome, or sustained analytical assessment). Additionally, it triggers two exclusions: it is structured as a broad introductory coverage course and lacks a major intellectual deliverable, relying entirely on multiple-choice exams and quizzes."
+      }
+    },
+    "_source_file": "SOC41900_Spring2026_EUG8DI.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SOC43200",
+      "course_title": "Work In Contemporary America",
+      "department": "SOC",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on sociological perspectives on work, examining topics through theories of management, labor control, and social inequality. While it addresses economic activity and work organization, it does not demonstrate integration of methods or epistemic frameworks from distinct high-level domains beyond the social sciences."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students conduct original qualitative research by formulating interview questions, collecting primary data through 30-60 minute interviews, transcribing audio, identifying themes in the data, and producing original sociological analysis that connects workers' experiences to theory. The final paper requires synthesis of interview data collected by all class members."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While students interview workers to collect data, the syllabus does not describe sustained engagement with communities or organizations, nor does it include structured reflection on ethical, social, or cultural dimensions of the engagement beyond the academic research context."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include intentional practice in decision-making, taking responsibility for outcomes, or analysis of leadership or ethical frameworks. The focus is on sociological analysis of work rather than developing students' capacity to lead or influence outcomes."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "As a 400-level sociology course, it examines advanced theoretical perspectives on work including labor control theories, emotional and aesthetic labor, and contemporary issues like platform labor and AI's impact on work. Learning outcomes explicitly require students to 'identify, describe, and compare key theories' and apply them to complex empirical cases."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through two separate interview projects with transcription and analysis, short response papers for each interview, and a final 7-10 page paper that synthesizes interview data from the entire class, demonstrating iterative research and analytical work."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students conduct independent interviews and analysis, while also engaging in collaborative work by contributing their interview data to a shared pool that all students must use for the final paper. The course explicitly states students 'must use all interview data, collected by all class members, to complete this final assignment.'"
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students develop their own interview questions, select interview subjects, and produce original analysis in their final paper. The syllabus states they will 'conduct research on work using qualitative interviews, including developing questions,' and the final paper presentation is described as 'their final project,' suggesting student-shaped inquiry."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential methodological and analytical decisions in designing interview questions, selecting which themes to identify in qualitative data, and determining how to connect workers' experiences to sociological theory. Their decisions about data collection affect not only their own work but the entire class's shared dataset."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires iterative analytical work beginning with two separate interviews and short response papers, progressing through presentation of findings for peer feedback, and culminating in a final 7-10 page analytical paper. This sequence demonstrates extended commitment with opportunities for review and refinement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final paper (7-10 pages synthesizing interview data from all class members) constitutes 15% of the course grade, and when combined with the two interviews (10% each), short responses (5% each), and presentation (5%), the research project components total 50% of the final grade, representing a major intellectual deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The final paper serves as a capstone that integrates learning across the term by requiring students to synthesize all interview data collected by the class, demonstrating cumulative understanding of qualitative research methods and sociological theory applied to empirical observations."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The presentation is described as 'relatively informal' and delivered only to the class to 'collect your thoughts and ideas, share them, and elicit feedback.' There is no evidence of public-facing or applied outcomes beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes multiple graded components requiring critical analysis: two interviews with transcripts and short response papers analyzing themes (30 points), a presentation (5 points), and a final analytical paper (15 points). These assessments constitute 50% of the grade and require synthesis of theory with empirical observation."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SOC 432 is a 400-level upper-division course, not a lower-division introductory course. The course number and advanced content confirm this is an advanced undergraduate course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple topics related to work, it emphasizes advanced theoretical analysis and original research rather than broad introductory coverage. Students must apply sociological theories to conduct independent research and produce original analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "Although students learn qualitative interview methods including recording and transcription, these skills are integrated into substantive sociological inquiry and analysis. The course requires theoretical application and original interpretation, not merely technical skill acquisition."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes substantial deliverables: two complete interview projects with transcripts and analysis, short response papers, a presentation, and a final 7-10 page analytical paper synthesizing data from all class interviews."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the undergraduate research pillar through original qualitative research involving data collection, analysis, and synthesis. It satisfies all three rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), all three student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), and multiple demonstrable evidence criteria (major project, portfolio/capstone, and sustained assessment). No exclusions apply. The course clearly meets Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "SOC43200_Spring2026_3JC146.docx"
+  }
+]

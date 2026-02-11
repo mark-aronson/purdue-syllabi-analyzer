@@ -157,6 +157,73 @@ def analyze_department(client: anthropic.Anthropic, department: str) -> list[dic
     return _analyze_files(client, files, RESULTS_DIR / f"{department}.json")
 
 
+def _normalize_course_code(course: str) -> str:
+    """Normalize a course code to match the syllabi filename prefix format.
+
+    Removes spaces, uppercases, and pads the course number to 5 digits with
+    trailing zeros (e.g. "ABE 201" -> "ABE20100", "POL 10100" -> "POL10100").
+    """
+    code = course.replace(" ", "").upper()
+    m = re.match(r"^([A-Z]+)(\d+)$", code)
+    if not m:
+        return code
+    dept, num = m.group(1), m.group(2)
+    return dept + num.ljust(5, "0")
+
+
+def find_missing_syllabi(program_name: str) -> list[str] | None:
+    """Find courses in a program that have no syllabi in the syllabi directory.
+
+    Returns a sorted list of course codes (in their original format from
+    programs.json) that have no matching files, or None if the program is not
+    found.
+    """
+    if not PROGRAMS_FILE.exists():
+        print(f"Programs file not found: {PROGRAMS_FILE}")
+        return None
+
+    programs = json.loads(PROGRAMS_FILE.read_text(encoding="utf-8"))
+    if program_name not in programs:
+        print(f"Program not found: {program_name}")
+        print(f"Available programs: {', '.join(programs.keys())}")
+        return None
+
+    courses = programs[program_name]
+
+    # Collect all course codes present in the syllabi directory
+    syllabi_codes = {
+        f.stem.split("_")[0].upper()
+        for f in SYLLABI_DIR.iterdir()
+        if f.suffix.lower() in SUPPORTED_EXTENSIONS
+    }
+
+    missing = [c for c in courses if _normalize_course_code(c) not in syllabi_codes]
+    missing.sort()
+
+    print(f"Program '{program_name}': {len(courses)} courses, "
+          f"{len(courses) - len(missing)} found, {len(missing)} missing")
+    if missing:
+        for c in missing:
+            print(f"  {c}")
+
+    # Save results to JSON
+    missing_dir = Path(__file__).parents[2] / "data" / "missing"
+    missing_dir.mkdir(parents=True, exist_ok=True)
+    slug = program_name.replace(" ", "_")
+    output_path = missing_dir / f"{slug}.json"
+    output = {
+        "program": program_name,
+        "total_courses": len(courses),
+        "found": len(courses) - len(missing),
+        "missing_count": len(missing),
+        "missing_courses": missing,
+    }
+    output_path.write_text(json.dumps(output, indent=2), encoding="utf-8")
+    print(f"Results saved to {output_path}")
+
+    return missing
+
+
 def analyze_program(program_name: str):
     """Analyze all syllabi for courses in a program defined in programs.json.
 

@@ -1,0 +1,410 @@
+[
+  {
+    "course_information": {
+      "course_number": "AD 22000",
+      "course_title": "Computers in Art",
+      "department": "AD",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course is situated within the humanities (Art and Design) and focuses on digital art creation using computer tools. While it mentions digital fabrication and technical skills, there is no evidence of integration with a distinct high-level knowledge domain such as Engineering, Natural Sciences, Social Sciences, or Business in a way that materially shapes the research questions or analytical frameworks."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course engages students in original artistic inquiry through multiple creative projects (Emoji Project, Phone Sculptures, Analogue Animation, Risograph Printing, Artist Book, Website as Artwork) that require students to formulate visual questions, analyze formal qualities, and produce original artistic findings. Goal 6 states 'Ability to creatively invent and flexibly solve visual and technical problems,' and students create original artwork rather than reproduce existing images."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The syllabus requires participation in an 'off-campus exhibition' worth 100 points, which constitutes sustained engagement with a community or public audience. This public-facing component connects academic learning to real-world contexts and includes the ethical dimension of presenting student work professionally to external audiences."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Goal 10 explicitly states 'Participate in a collaborative environment through critique, brainstorming, and a group based project.' Students take responsibility for collaborative work, participate in critiques, and make consequential decisions about their artistic practice. The course emphasizes 'collaborative environment' and requires students to influence outcomes through group work and peer feedback."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced digital art methodologies including Adobe Illustrator and Photoshop, digital fabrication, risograph printing, animation, artist book design, and website creation. Goals 8-9 indicate advanced analytical content: 'Assess digital images for formal qualities and content' and 'Develop a vocabulary appropriate for visual and digital art.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across multiple major projects throughout the semester (Emoji, Phone Sculptures, Analogue Animation, Risograph Printing, Artist Book, Website as Artwork). Students are required to 'spend at least six hours a week outside of class' on projects and maintain a sketchbook documenting 'project development, notes from demonstrations and readings, and a list of contemporary artists and ideas.'"
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work on multiple projects, with students expected to 'spend at least six hours a week outside of class' and maintain individual sketchbooks. Additionally, Goal 10 specifies collaborative work through 'a group based project' and collaborative critique processes."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Requirement 15 states 'I expect you to create original artwork, and to develop your own source material,' indicating students shape their own creative directions within project parameters. The course emphasizes 'personal expression' and requires sketchbook documentation of 'project development' and self-directed research on 'contemporary artists and ideas.'"
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions with both intellectual and ethical implications through original artwork creation. The academic honesty section emphasizes that 'copying, appropriation, referencing or citation of visual works of art and design are only permitted as a direct assignment,' requiring students to make ethical decisions about copyright and originality. Projects like the Artist Book (400 points) and Website as Artwork (350 points) involve substantial decision-making."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work across multiple projects with iterative development. Students maintain sketchbooks for 'project development,' submit 'process image/notes' and 'exercises,' and participate in critiques that provide feedback for refinement. Goal 8 requires students to 'Assess digital images for formal qualities and content,' indicating sustained analytical engagement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes multiple major projects that constitute significant portions of the grade: Artist Book Project (400 points, 20% of total), Website as Artwork Project (350 points, 17.5%), and Analogue Animation Project (350 points, 17.5%). Each requires substantial intellectual and creative work."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The course requires students to upload 'completed projects to the shared VPA drive' and maintain comprehensive sketchbook documentation throughout the semester that includes 'project development, notes from demonstrations and readings, and a list of contemporary artists and ideas,' functioning as a portfolio of integrated work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students participate in an 'off-campus exhibition' (100 points) and create a 'Website as Artwork Project' (350 points), both of which are public-facing outcomes requiring academic judgment and professional presentation of their creative work to external audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure shows that the majority of assessment (1800 of 2000 points, 90%) comes from projects requiring 'originality, craft, concept, completeness.' Each project involves critique, process documentation, and original creative contribution. Only 200 points are for participation, indicating sustained assessment of substantive work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "AD 220 is a 200-level course explicitly described as an 'Introduction to computer graphics concepts and the electronic image as a fine art form' with goals focused on introducing Adobe software programs and foundational concepts. The course number and introductory language indicate it is a lower-division course designed to introduce foundational skills in digital art."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course is introductory, it focuses on depth through sustained project work rather than broad coverage. Students complete substantial projects requiring original creative work, not survey-style coverage of topics."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "Though the course teaches Adobe software and digital fabrication tools, it goes beyond skills training by requiring original artistic expression, conceptual development, and critical assessment of digital images. Goals emphasize creative invention, personal artistic practice, and formal/content analysis, not just technical proficiency."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables including the Artist Book Project (400 points), Website as Artwork (350 points), and Analogue Animation Project (350 points), each constituting a significant intellectual and creative achievement."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course demonstrates strong undergraduate research, community engagement, and leadership development pillars, and meets rigor, student agency, and demonstrable learning requirements, it triggers the lower_division_introductory exclusion. AD 220 is explicitly described as an introduction to computer graphics and digital art fundamentals at the 200-level. The course number, description, and goals indicate it is designed to introduce foundational concepts and tools within the discipline, which makes it ineligible for Honors credit regardless of its other strengths."
+      }
+    },
+    "_source_file": "AD22000_Fall2025_72FAIO.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AD25100",
+      "course_title": "History of Photography",
+      "department": "AD",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates methods and frameworks from Humanities (art history, aesthetic analysis) and Social Sciences (sociocultural analysis of race, class, and gender). The description states photographs will be examined 'from a variety of aesthetic, social, and cultural perspectives' and students will 'examine traditional historical discourses in the light of contemporary, revisionist theory,' demonstrating integration of humanistic and social scientific approaches to understanding photography as both artistic medium and social artifact."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course includes a research paper (15% of grade) and case study (15% of grade), which require students to formulate questions, analyze evidence, and produce original findings. Weekly assignments include 'research' components, indicating sustained engagement with inquiry-based learning beyond established textbook answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global contexts, nor any structured reflection on ethical, social, or cultural dimensions of real-world engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe intentional development of leadership capacity, decision-making with responsibility for outcomes, or explicit analysis of leadership or ethical frameworks beyond academic integrity policies."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced analytical content as evidenced by the requirement to 'examine traditional historical discourses in the light of contemporary, revisionist theory' and 'establish fundamental methods for analysis and thorough critique of photographs,' indicating engagement with sophisticated theoretical frameworks and critical methodologies."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through weekly assignments connected to lectures, a case study (15%), and a research paper (15%), all requiring ongoing investigation and analysis throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The research paper (15%) and case study (15%) require significant independent intellectual work, and weekly assignments include 'writing responses, discussions, research, and making photographs' that are 'presented on discussion days,' indicating both independent and collaborative work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While the syllabus mentions a research paper and case study, there is no explicit evidence that students define their own research questions or shape the direction of these projects."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The syllabus does not describe decision-making with intellectual or ethical consequences beyond standard academic work submission and participation requirements."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The research paper (15%) and case study (15%), combined with weekly assignments that are presented and discussed, indicate extended analytical work with iterative engagement through class discussions and presentations."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes a research paper (15%) and case study (15%) that together constitute 30% of the grade, representing major intellectual deliverables requiring critical analysis and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While assignments are presented on discussion days, there is no evidence of public-facing outcomes beyond the classroom or applied outcomes requiring academic judgment for external audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure shows that a majority of work (assignments 40%, case study 15%, research paper 15%, totaling 70%) requires ongoing critical analysis and original contribution beyond exam-based assessment."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "AD251 is a 200-level course, and the description explicitly states it is 'a survey of the history of photography' designed to introduce students to foundational concepts in photographic history, aesthetic analysis, and critique methods."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course is described as 'a survey of the history of photography from the medium's inception through the beginning of the digital age,' indicating broad coverage characteristic of an introductory survey course rather than focused advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training; it emphasizes historical, aesthetic, and critical analysis of photography as an art form and cultural artifact."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: a research paper (15%) and case study (15%), both requiring substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets interdisciplinary academics and undergraduate research pillars, satisfies rigor requirements, and includes major deliverables, it is excluded because it is a lower-division (200-level) introductory survey course focused on broad coverage of photographic history rather than advanced analysis. The course description explicitly identifies it as 'a survey' designed to introduce foundational concepts and methods."
+      }
+    },
+    "_source_file": "AD25100_Fall2025_CO5VI6.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AD 26700",
+      "course_title": "Digital Imaging",
+      "department": "AD",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on photography and digital imaging within the Art and Design discipline. While it mentions theoretical and historical concerns, there is no evidence of integration with another high-level knowledge domain such as Engineering, Social Sciences, or Natural Sciences."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to engage in original creative work through photography projects, including 'constructed image making' and 'original, imaginary and creative imagery.' Students formulate their own visual questions and produce original photographic artwork through sustained inquiry across multiple projects."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention engagement with communities, organizations, or global issues. The work appears to be confined to the classroom and lab setting without external partnerships or structured reflection on real-world social contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course emphasizes independent thinking and critique participation, there is no explicit focus on leadership frameworks, decision-making in civic contexts, or intentional leadership development through reflection and analysis of leadership models."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers 'basic to advanced Photoshop skills' and explores 'theoretical and historical concerns regarding post photography,' indicating progression to advanced technical and theoretical content. The grading criteria emphasize 'Level of Technical and Conceptual Difficulty.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained work across the term with 5 Maxi Projects and 10 Mini Projects, requiring students to 'plan ahead and work on more than one project at a time' and spend '5-10 hours per week' outside class on photography and image manipulation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work, as evidenced by the expectation to 'photograph outside of class time' and the emphasis on 'Independent Thinking' and 'Willingness to Explore and Take Risks' in grading criteria. Students are expected to work 5-10 hours per week independently."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While students create original photographic work, the syllabus does not indicate that students define their own project questions or topics. Projects appear to be instructor-defined assignments with specific objectives."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential aesthetic and conceptual decisions in their photographic work, as evidenced by grading criteria including 'Independent Thinking,' 'Thoughtful Development of Ideas,' and 'Conceptualization of the Assignment.' The course emphasizes being 'willing to FAIL' and finding 'success in mistakes.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work through multiple project iterations (5 Maxi + 10 Mini projects), critique sessions where students 'verbally analyze their own work,' and ongoing revision based on feedback. The instructor 'reserve[s] the right to write notes and specific feedback directly onto your prints' for iterative improvement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Maxi Projects constitute 50% of the course grade, representing substantial major deliverables. Each of the 5 Maxi Projects requires significant technical and conceptual work, with critiques and extensive feedback mechanisms."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not mention a portfolio or capstone-style artifact that integrates work across the term. Projects are assessed individually through critiques rather than as an integrated collection."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While work is critiqued in class, there is no evidence of public exhibition, community presentation, or applied outcomes requiring academic judgment beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment throughout the term with 5 Maxi Projects (50%), 10 Mini Projects (25%), participation (15%), and presentations (10%). The grading criteria emphasize critical analysis through 'Conceptualization,' 'Idea Articulation,' and 'Original, Imaginary and Creative Imagery.'"
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is explicitly described as 'an introductory course' and a 'basic to intermediate foundations course' (AD 267 is a 200-level course). It teaches foundational technical and aesthetic aspects of photography and Photoshop."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "As stated, this is 'a basic to intermediate foundations course for both technical and aesthetic aspects of photography,' focused on introducing students to digital imaging fundamentals rather than advanced specialized analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes substantial technical skills training in Photoshop and camera operation, it also requires conceptual work, critical thinking, theoretical understanding, and original creative production, going beyond mere tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes 5 Maxi Projects that constitute 50% of the grade, representing significant intellectual deliverables requiring original creative and analytical work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets several important criteria including undergraduate research (creative inquiry), rigor (advanced content, sustained inquiry, independent work), student agency (consequential decision-making, extended analytical commitment), and demonstrable evidence (major projects, sustained assessment), it triggers two critical exclusions: it is explicitly described as a lower-division introductory course and a broad introductory/foundations course focused on basic to intermediate coverage. These exclusions disqualify the course from Honors credit eligibility regardless of other strengths."
+      }
+    },
+    "_source_file": "AD26700_Spring2026_3679QD.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AD 39500",
+      "course_title": "History of Design",
+      "department": "AD",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates design history (Arts and Humanities) with social, cultural, political, economic, and technological contexts, constituting cross-domain interdisciplinarity. The STS core requirements demonstrate integration of humanities and social sciences perspectives, examining how social factors shape technological development and discussing ethical implications\u2014indicating genuine methodological integration rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in critical analysis and research skills development, including analysis of primary source materials (artifacts, images, texts) and scholarly readings. The course requires students to formulate arguments through essays and other assignments that 'build on the work and issues discussed in class,' indicating inquiry beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course addresses globalization as a major design issue and explores design practice 'internationally,' examining connections between design and real-world contexts including labor, sustainability, and identity. The STS core requirement explicitly asks students to discuss costs and benefits for 'specific societies,' indicating engagement with global contexts and their social dimensions."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of intentional leadership development activities, decision-making practice with responsibility for outcomes, or structured reflection on leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course involves analysis of scholarly texts, primary sources, and advanced conceptual issues including globalization, sustainability, labor, taste, identity, and the ethical implications of technological developments. The requirement to 'critically analyze' primary sources and discuss complex theoretical relationships between design and historical context demonstrates advanced analytical expectations."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires four major assignments distributed throughout the semester (September, October, November, December) that 'build on the work and issues discussed in class,' indicating sustained inquiry across the term rather than isolated assessments."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The four major assignments\u2014including essays, sketching, curating an exhibit, and designing a poster\u2014require significant independent intellectual work. These assignments collectively comprise 50% of the final grade and are designed to 'demonstrate understanding of the course material' through substantial creative and analytical efforts."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While assignments vary in format (essays, sketching, curating, poster design), the syllabus does not indicate that students define their own project topics or shape the research questions themselves."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Curating an 'exhibit' and designing a poster require students to make consequential decisions about what to include, how to represent design history, and how to communicate arguments\u2014decisions with intellectual consequences for the coherence and persuasiveness of their work."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Four major assignments distributed across the semester that 'build on the work and issues discussed in class' indicate extended analytical commitment. The requirement to critically analyze primary sources, scholarly readings, and create varied deliverables (essays, exhibits, posters) demonstrates iterative intellectual engagement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Four major assignments collectively constitute 50% of the final grade, with individual assignments including substantial creative and analytical work such as essays, curated exhibits, and designed posters. These represent significant intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not mention a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Curating an 'exhibit' and designing a poster are inherently public-facing outcomes that require academic judgment about representation, argumentation, and communication of design history concepts to an audience."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure includes 25% activities, 25% sketching, and 50% assignments. Given that activities involve discussion and analysis of readings/primary sources, sketching requires visual analysis, and assignments require essays and creative work, the majority of graded work requires critical analysis and synthesis."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "AD 39500 is a 300-level course, which is upper-division. While it is described as a 'survey,' it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "Although the course provides an 'overview' of stylistic movements, it goes beyond coverage to engage students in critical analysis, sustained inquiry through four major assignments, and exploration of complex theoretical issues. The emphasis on developing 'critical analysis and research skills' and analyzing scholarly texts indicates advanced analytical work beyond introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused solely on skills or tool training; it involves substantial conceptual and analytical content about design history, theory, and context."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes four major assignments that collectively comprise 50% of the final grade, clearly providing major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three of four pillars (interdisciplinary academics, undergraduate research, and community/global engagement), satisfies all rigor requirements (advanced content, sustained inquiry, and independent work), meets student agency requirements (consequential decision-making and extended analytical commitment), provides demonstrable evidence of learning through multiple mechanisms (major projects, public-facing outcomes, and sustained assessment), and triggers no exclusions. The course demonstrates clear Honors-level expectations through its integration of humanities and social sciences perspectives, emphasis on critical analysis and research skills, and substantial creative and analytical assignments."
+      }
+    },
+    "_source_file": "AD39500_Fall2025_K2J3B8.pdf"
+  }
+]

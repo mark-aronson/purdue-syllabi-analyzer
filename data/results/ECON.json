@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "ECON 36500",
+      "course_title": "History of Economic Thought",
+      "department": "ECON",
+      "college": "Mitchell E. Daniels, Jr. School of Business",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Economics (Social Sciences) with History and Philosophy (Humanities) by analyzing economic ideas 'within their historical, cultural, and philosophical contexts.' The course objective explicitly states students will 'Analyze economic ideas and writings within their historical, cultural, and philosophical contexts,' and includes study of 'key philosophical thinkers and economists' from ancient times forward. This demonstrates substantive cross-domain integration, not mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The 'Great Economist Research project' requires students to 'research an economist from the 20th or 21st century who was not featured in the course but who has contributed significantly to the development of economic thought.' This involves formulating research questions, analyzing evidence, and producing original findings about a figure not covered in class."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any sustained engagement with communities, organizations, or global issues beyond the classroom. While the course connects economic theory to current circumstances through discussion, there is no evidence of structured external engagement or community-based learning."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course includes discussion participation guidelines emphasizing respectful engagement and civil discourse, there is no explicit evidence of intentional leadership development, decision-making with consequence, or analysis of leadership frameworks. The discussion guidelines are about classroom behavior rather than leadership capacity building."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical content in the history of economic thought, including deep analysis of major economists from Adam Smith through contemporary Nobel Prize winners. The readings include primary sources such as Smith's 'Wealth of Nations' (1776), Ricardo's 'Principles of Political Economy' (1817), and Marx's 'Communist Manifesto' (1848), as well as multiple Nobel lectures requiring analysis of advanced economic theory."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The research project includes 'multiple benchmarks throughout the semester' including topic selection, rough draft, and final report, indicating sustained inquiry across the term. Students analyze economic thought development from ancient times through the 21st century, requiring continuous engagement with complex theoretical evolution."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The research project 'will allow you to work individually or as a team of two (2) to research an economist' and constitutes 100 points of 300 total (33% of grade). This represents significant independent or collaborative intellectual work requiring original research and analysis."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students select their own economist to research for the major project: 'research an economist from the 20th or 21st century who was not featured in the course.' This provides significant student agency in defining the focus and direction of their major intellectual work."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential decisions about which economist to research, how to frame their analysis, and what constitutes 'significant contribution to the development of economic thought.' The project selection fundamentally shapes the student's research trajectory and final deliverable."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The research project requires extended analytical work with multiple benchmarks (topic selection, rough draft, final report) indicating iterative development and revision. This structure necessitates sustained analytical commitment throughout the semester with opportunities for review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The 'Great Economist Research project' is worth 100 points out of 300 total (33% of course grade), constituting a major deliverable with 'multiple benchmarks throughout the semester' including topic selection, rough draft, and final report with a detailed rubric."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the research project has multiple components, it is not described as a portfolio integrating diverse work across the term or as a capstone synthesizing multiple course elements. It is a focused research project on a single economist."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence that the research project or other course work results in a public-facing outcome. The syllabus does not mention presentations, publications, or community-facing deliverables."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes sustained assessment requiring critical analysis throughout: 12 'Recall and Reflect' writing assignments requiring reflection on significance, 4 quizzes with short answer questions, weekly discussion participation requiring analysis and synthesis, and a multi-stage research project. Together these constitute the majority of graded work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ECON 365 is a 300-level course, which is upper-division. The course analyzes advanced theoretical contributions to economic thought rather than introducing foundational concepts within the discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers the history of economic thought from ancient times to present, it does so through deep analysis of key figures' contributions within historical and philosophical contexts, requiring advanced analytical engagement rather than broad survey-level coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is focused on analysis of economic thought and theory within historical and philosophical contexts, not on skills training or tool mastery. It requires critical thinking, writing analysis, and intellectual evaluation."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major research project worth 33% of the grade with multiple benchmarks and a detailed rubric, as well as sustained assessment through writing assignments, quizzes, and discussion participation."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets multiple pillars (interdisciplinary academics and undergraduate research), satisfies all rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), demonstrates clear evidence of learning through a major project and sustained assessment, and triggers no exclusions. The course integrates Economics with History and Philosophy through analysis of economic thought in historical and philosophical contexts, and includes a substantial independent research project requiring original inquiry."
+      }
+    },
+    "_source_file": "ECON36500_Spring2024_ZDS5GR.pdf"
+  }
+]

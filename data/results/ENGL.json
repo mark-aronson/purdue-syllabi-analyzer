@@ -1,0 +1,716 @@
+[
+  {
+    "course_information": {
+      "course_number": "ENGL22300",
+      "course_title": "Literature And Technology",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (literature and literary analysis) with Engineering and Technology (technological innovation, digital media production, new media) as evidenced by the course description stating it 'uses literature to explore how technological innovation both enables and constrains creativity' and learning outcomes addressing both literary approaches and technological literacies across diverse media."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students engage in analysis and critical thinking, there is no evidence of original inquiry, formulation of research questions, or production of new knowledge beyond established interpretations of existing literary texts."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence of engagement with external communities, organizations, or structured reflection on real-world contexts beyond the classroom."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "There is no evidence of intentional leadership practice, decision-making frameworks, or responsibility-taking beyond standard academic work."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course involves advanced analytical work including 'multiple approaches to critical thinking,' 'multiple critical approaches to narrative and storytelling,' and examination of complex relationships between technology, creativity, and literature as demonstrated in the learning outcomes."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires sustained inquiry across the term through two substantial papers (6-7 pages each) and a two-part midterm examination, indicating ongoing engagement with course themes throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The two papers (6-7 pages each, comprising 50% of grade total) require significant independent intellectual work involving analysis and synthesis of literary texts and technological concepts."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "There is no evidence that students define their own projects or research questions; assignments appear to be instructor-defined."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students must make analytical choices in their papers, there is no explicit evidence of decision-making with intellectual or ethical consequences beyond standard academic analysis."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The two substantial papers (6-7 pages each) combined with the two-part midterm examination require extended analytical commitment across the term, demonstrating sustained engagement with complex literary and technological concepts."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Each of the two papers (6-7 pages) constitutes 25% of the course grade, totaling 50%, representing major intellectual deliverables that require critical analysis and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All assessments appear to be traditional academic papers and examinations without public-facing or applied outcomes."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes two substantial papers and a two-part examination, all of which require critical analysis, interpretation of literary texts, and application of multiple critical approaches as indicated in the learning outcomes."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course number ENGL22300 indicates a 200-level course, which is lower-division, and appears to serve as an introductory exploration of literature and technology relationships rather than advanced specialized study."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple texts, it focuses on the specific intersection of literature and technology with analytical depth rather than broad survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course involves substantial critical analysis and theoretical engagement, not merely skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes two substantial papers (6-7 pages each) that serve as major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence that this course is counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics pillar and satisfies rigor, student agency, and demonstrable evidence requirements, it is excluded because it is a lower-division (200-level) introductory course designed to introduce foundational concepts about the relationship between literature and technology."
+      }
+    },
+    "_source_file": "ENGL22300_Fall2025_CHJJOK.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL32200",
+      "course_title": "Word, Image, Media",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Humanities (English/literary criticism through authors like Sontag, Barthes, hooks), Social Sciences (media studies, cultural studies, sociology through Bourdieu, Foucault, Browne), and Natural Sciences (vision science through Solso's 'The Science of Vision'). The reading list demonstrates integration across these domains to address how images make meaning, requiring combined methods from visual theory, critical theory, and empirical science."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Learning outcome 5 explicitly requires students to 'produce effective written, verbal, and visual communication that demonstrates critical thinking, creative problem solving, empathy, and visual literacy,' and Assignment 5 (worth 80 points, the largest assignment) appears designed for substantial original analysis. Students must analyze images using multiple critical methods and explain meaning-making processes, extending beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues beyond the classroom. While the course analyzes media and culture, there is no mention of community partnerships, fieldwork, service learning, or structured reflection on engagement with real-world contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe opportunities for students to practice leadership, make decisions with consequences in civic or professional contexts, or engage with leadership frameworks. The course focuses on analytical and interpretive skills rather than leadership development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The reading list includes advanced theoretical works from major scholars in visual culture, media theory, and critical theory (Foucault, Benjamin, Barthes, Mulvey, hooks, McLuhan, Bourdieu), demonstrating engagement with sophisticated theoretical frameworks and methodological approaches in visual and media analysis."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course structure with six assignments building in complexity (culminating in an 80-point Assignment 5) plus an exam, combined with learning outcomes requiring students to 'analyze images using multiple critical methods' and 'explain how images and their viewers make meaning,' indicates sustained inquiry across the term rather than isolated exercises."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The assignment structure (200 points total across 6 assignments, with the largest being 80 points) and the requirement to 'produce effective written, verbal, and visual communication' in Learning Outcome 5 indicate significant independent intellectual work requiring original analysis and synthesis."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence that students define their own projects or research questions. Assignment descriptions are not detailed enough to determine whether students have choice in topics or approaches."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students must make analytical decisions in their work, there is no clear evidence of decision-making with intellectual or ethical consequences that materially affects outcomes or carries stakes beyond grading."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The progression of six assignments with increasing point values (culminating in an 80-point assignment) combined with learning outcomes requiring analysis using 'multiple critical methods' and production of communication demonstrating 'critical thinking' suggests extended analytical commitment and likely iterative development across the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Assignment 5 is worth 80 points out of 400 total (20% of the course grade), constituting a major deliverable. This substantial weighting indicates a significant project requiring advanced analysis and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. Assignments appear to be discrete rather than cumulative."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any public presentations, publications, exhibitions, or other public-facing outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure shows that 200 out of 400 points (50%) come from six assignments requiring written, verbal, and visual communication demonstrating critical thinking and analysis. Combined with discussion participation (60 points) and an exam (80 points), the majority of graded work requires critical analysis and synthesis rather than rote recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ENGL32200 is a 300-level course, placing it in upper-division coursework rather than lower-division introductory level."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course description states it 'introduces students to the study of images,' the extensive reading list of advanced theoretical works and the requirement to analyze images using 'multiple critical methods' indicate depth of analysis rather than broad survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on critical analysis and theoretical frameworks for understanding visual media rather than technical skills or tool training. The emphasis is on interpretation and meaning-making."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "Assignment 5 worth 80 points (20% of grade) and Assignment 2 worth 40 points both constitute substantial intellectual deliverables requiring critical analysis."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (interdisciplinary academics and undergraduate research), satisfies all three rigor criteria (advanced content, sustained inquiry, independent work), meets one student agency criterion (extended analytical commitment), and demonstrates evidence of learning through a major project and sustained assessment structure. No exclusions apply. The course qualifies for Honors credit."
+      }
+    },
+    "_source_file": "ENGL32200_Spring2026_WNJHIN.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL37300",
+      "course_title": "Science Fiction & Fantasy",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on literary analysis of science fiction and fantasy texts, examining technique, theme, and form. No evidence of integration with distinct high-level knowledge domains beyond humanities/literature is present."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus mentions '2 formal projects' and informal activities but provides no details indicating that students engage in original inquiry, knowledge creation, or formulation of novel research questions beyond established literary analysis."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "No evidence of sustained engagement with communities, organizations, or global issues, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course aims to 'create a space of intellectual community,' there is no evidence of intentional leadership development, decision-making practice, or analysis of leadership/ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is a 300-level English course examining representative works 'in relation to both mainstream and popular literature' with emphasis on 'technique, theme, and form,' indicating advanced literary analysis beyond introductory content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "While the course includes '2 formal projects,' the syllabus does not provide sufficient detail about whether these involve sustained inquiry, design, or problem-solving across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus mentions formal projects but provides no information about whether these require significant independent or collaborative intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus mentions '2 formal projects' but provides no evidence that students define or shape their own projects or questions."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "No evidence of decision-making with intellectual or ethical consequences is present in the syllabus."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The syllabus does not provide sufficient detail about the formal projects to determine whether they require extended analytical commitment with iterative review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While '2 formal projects' are mentioned, the syllabus provides no information about their scope, significance, or weight in the course grade to determine if they constitute major intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "No evidence of a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "No evidence of public-facing or applied outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The syllabus mentions formal projects and informal activities but does not provide sufficient detail about the assessment structure to determine if the majority of graded work requires critical analysis, synthesis, or original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course, which is upper-division. It is not designed as a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on representative works with emphasis on technique, theme, and form, suggesting analytical depth rather than broad introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is a literature course focused on analysis, discussion, and writing about texts, not skills-only or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes '2 formal projects' which appear to be major deliverables, though details are limited."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence that the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "deferred",
+        "rationale": "The syllabus lacks sufficient detail to make a definitive determination. While the course meets the rigor criterion (advanced content), critical information is missing about the formal projects, including whether they involve student agency, extended analytical work, or constitute major intellectual deliverables. The syllabus does not meet any pillar requirements, and insufficient information exists to assess student agency and demonstrable evidence of learning criteria. More detailed project descriptions and assessment information are needed."
+      }
+    },
+    "_source_file": "ENGL37300_Spring2026_S4XATM.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL41900",
+      "course_title": "Multimedia Writing",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (rhetoric, writing, cultural analysis via McLuhan) with Technology/Design (multimedia production, digital videos, podcasts, websites, accessibility/usability principles), creating multimodal texts that require both rhetorical theory and technical implementation skills across distinct high-level domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students create original multimedia projects (interactive map, documentary, information campaign), the syllabus does not indicate that students formulate research questions, analyze evidence beyond coursework, or produce findings that extend established knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus mentions engaging with 'diverse audiences' and creating public-facing multimedia, but provides no evidence of sustained engagement with actual communities, organizations, or structured reflection on social/ethical dimensions of engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not reference leadership frameworks, decision-making with responsibility for outcomes, or structured reflection on leadership or ethical dimensions beyond technical production skills."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course applies rhetorical theory to multimedia design (McLuhan's media theory), addresses accessibility/usability, and requires students to solve complex communication problems across multiple mediums, indicating advanced analytical content beyond introductory material."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students complete three major projects (interactive map, documentary, multi-modal information campaign) across the term, each requiring design, implementation, and publishing in different multimedia formats, demonstrating sustained inquiry and problem-solving."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The three major multimedia projects (interactive map, sixty-second documentary, multi-modal information campaign) require significant independent intellectual and creative work involving design decisions, content creation, and technical implementation."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus specifies the formats of major projects (interactive map, documentary, information campaign) but does not indicate that students define their own topics, questions, or substantially shape project parameters."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential design and rhetorical decisions about audience engagement, accessibility, usability, and medium selection across multiple projects, decisions that materially affect the effectiveness and appropriateness of their multimedia texts."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Three major projects requiring design, implementation, and publishing across different multimedia formats necessitate extended analytical work applying rhetorical theory to solve communication problems, with iterative development implied by the production process."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes three major projects (interactive map, sixty-second documentary, multi-modal information campaign) that together constitute significant portions of the course grade out of 1000 total points."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While students complete multiple projects, the syllabus does not indicate a portfolio or capstone artifact that integrates learning across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students create public-facing multimedia texts (websites, videos, podcasts, information campaigns) that require academic judgment about rhetorical effectiveness, accessibility, and audience engagement in real-world contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "Three major projects plus discussion boards and six smaller in-class projects constitute the majority of graded work, all requiring application of rhetorical theory, design decisions, and creation of original multimedia content."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ENGL 41900 is a 400-level upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on applied multimedia production and rhetorical theory rather than broad introductory coverage, requiring students to create sophisticated multimodal texts with attention to accessibility and usability."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course involves multimedia tools (Learning Outcome 5), it integrates rhetorical theory, cultural analysis (McLuhan), accessibility/usability principles, and data-driven approaches to communication problems, going well beyond tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course requires three major multimedia projects (interactive map, documentary, information campaign) that serve as substantial intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence indicates this course is counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar by integrating Humanities (rhetoric/writing) with Technology/Design (multimedia production). It satisfies all three rigor requirements (advanced content in rhetorical theory, sustained inquiry through three major projects, significant independent work). It meets student agency requirements through consequential decision-making and extended analytical commitment. It provides demonstrable evidence of learning through major projects, public-facing outcomes, and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "ENGL41900_Spring2026_J8ABYY.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL42100",
+      "course_title": "Technical Writing",
+      "department": "ENGL",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "While the course applies rhetorical theory to technical contexts, it operates within a single high-level domain (Humanities, Arts, and Letters). The syllabus does not demonstrate integration of methods or frameworks from distinct high-level domains such as Engineering, Natural Sciences, or Social Sciences."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes students writing technical documents (memos, reports, documentation, websites) and applying rhetorical theories, but does not indicate that students engage in inquiry or investigation that extends beyond established answers or produces original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The course focuses on producing technical documents for industry-specific contexts, but the syllabus provides no evidence of sustained engagement with real-world communities, organizations, or structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While students produce team-written projects (learning outcome 5), the syllabus does not demonstrate intentional development of leadership capacity, decision-making, or analysis of leadership or ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content in rhetorical theory and data-driven approaches applied to technical contexts, and addresses complex concepts like usability and accessibility in technical communication (learning outcomes 1, 2, and 4)."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained work across three major projects throughout the term, requiring students to apply rhetorical approaches and data-driven methods to diverse technical writing contexts."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through team-written technical projects (learning outcome 5) and peer review workshops, as well as individual major projects."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus indicates three major projects but does not specify whether students define their own project topics or questions, or whether these are instructor-assigned."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential rhetorical decisions about usability, accessibility, and audience engagement in their technical documents, with outcomes that affect the effectiveness of industry-specific communication (learning outcomes 1, 4)."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course structure includes peer review workshops of drafts, indicating iterative revision and response processes across the three major projects."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes three major projects that constitute significant portions of the 1000 available points and require production of technical documents applying rhetorical theory and data-driven approaches."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students produce industry-specific technical documents (websites, documentation, reports) designed for real audiences and contexts (learning outcomes 4, 5), which are public-facing in nature."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work consists of three major projects that require applying rhetorical theory, data-driven approaches, and creating industry-specific documents\u2014all requiring critical analysis and synthesis."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ENGL 42100 is a 400-level course with substantial prerequisites, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course emphasizes application of advanced rhetorical theory and data-driven approaches to technical writing problems, not broad introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops writing skills, it is grounded in rhetorical theory and critical thinking about usability and accessibility, not merely tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three major projects serving as major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets rigor, student agency, and demonstrable evidence requirements, it does not satisfy any of the four pillar criteria. The course operates within a single high-level domain (Humanities) without cross-domain interdisciplinarity, lacks undergraduate research components, does not include community/global engagement with structured reflection, and does not intentionally develop leadership capacity. At least one pillar must be met for approval."
+      }
+    },
+    "_source_file": "ENGL42100_Spring2026_9VCQQP.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL42201",
+      "course_title": "Wrtg Health Human Sciences",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (rhetorical theory, writing) with Health Sciences (healthcare, public health, patient education). Learning outcomes explicitly reference 'theories of rhetoric' alongside 'medical and science writing' and 'healthcare and public health' contexts, demonstrating integration across domains through shared questions about effective health communication."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course focuses on applying rhetorical principles to healthcare writing rather than engaging students in original inquiry or research that extends beyond established answers. Assignments are applied professional writing tasks, not research-based investigations."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world healthcare contexts and patient/provider audiences, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include evidence of intentional practice, reflection, or analysis of leadership or ethical frameworks related to decision-making or influencing outcomes in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course employs advanced theoretical content including 'theories of rhetoric,' 'theories and approaches of medical and science writing,' and data-driven approaches to rhetorical contexts, as stated in learning outcomes 1-3."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course structure shows four major sequences across the term (Career, Documentation, Patient Education, Reflecting), each requiring sustained engagement with different dimensions of healthcare writing, culminating in a portfolio."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both independent work (white paper, resume, SOAP note, explainer, self-performance review, portfolio) and collaborative work (team podcast project worth 15%), as stated in learning outcome 5 about 'writing both individually and in teams.'"
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The white paper on 'Careers in My Healthcare Field' suggests student choice in defining their specific healthcare field of focus, and the portfolio allows for integration of student-selected work across the term."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential decisions about accessibility and usability for real patient/provider audiences (learning outcome 4), and compose documents that address 'diverse audiences' with awareness of healthcare communication consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The portfolio (10%) and self-performance review (10%) require extended analytical commitment and reflection across the term's work, with iterative development through four sequences."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Multiple major projects constitute significant portions of the grade: Protocol/Instructions Makeover (15%), Explainer (15%), Podcast (15%), and Portfolio (10%), each requiring substantial intellectual work."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The course explicitly includes a Portfolio worth 10% of the grade that integrates work across the term, representing a capstone-style artifact."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The Podcast (team project, 15%) and patient education materials (Explainer, 15%) are public-facing outcomes designed for actual healthcare audiences requiring academic judgment about accessibility and usability."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure shows sustained assessment across four sequences throughout the term, with the majority of graded work (90% across nine assignments) requiring critical analysis and original composition for diverse healthcare audiences."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ENGL 42201 is a 400-level course with extensive prerequisites requiring prior composition coursework, indicating it is an upper-division course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on specialized application of rhetorical principles to healthcare writing contexts rather than broad introductory coverage, with sustained engagement in specific healthcare writing genres."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course teaches writing skills, it integrates theoretical frameworks (rhetorical theory, medical writing theory) and requires critical analysis of audience needs and contexts, not merely skill training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: a Portfolio (10%), team Podcast (15%), Protocol/Instructions Makeover (15%), and Explainer (15%)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence is provided that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary_academics pillar by integrating Humanities (rhetorical theory) with Health Sciences. It satisfies all three rigor criteria (advanced content, sustained inquiry, independent/collaborative work), all three student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and all four demonstrable evidence criteria (major projects, portfolio, public-facing outcomes, sustained assessment). No exclusions apply. The course clearly exceeds minimum requirements for Honors credit."
+      }
+    },
+    "_source_file": "ENGL42201_Spring2026_48UNV9.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL43900",
+      "course_title": "Disability Literature",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (literature and rhetoric) with Social Sciences (cultural, social, and political analysis of disability). Learning outcomes explicitly bridge literary analysis (outcome 6: 'Analyze literary representations') with social scientific frameworks (outcome 1: 'different models for understanding disability,' outcome 2: 'normalcy is socially constructed,' outcome 3: 'cultural practices that exclude'). The course combines literary methods with disability studies frameworks from sociology and cultural studies, creating genuine integration where the research question requires both domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires analytical response papers (2-3 pages each) and a comparative essay that involve formulation of arguments, analysis of literary texts, and production of original interpretive findings. Learning outcomes 6 and 7 specifically call for students to 'analyze literary representations' and 'examine the role of disability,' indicating inquiry-based work beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not describe sustained engagement with communities, organizations, or structured reflection on ethical/social dimensions of real-world engagement. While the course addresses disability as a social and cultural issue, it does not indicate applied community partnerships or global engagement activities."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe activities that develop decision-making capacity, taking responsibility for outcomes, or analyzing leadership frameworks. While the course addresses ethical dimensions of disability representation, it does not explicitly develop leadership competencies through intentional practice."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is a 400-level course that engages advanced theoretical content including different models for understanding disability, social construction of normalcy, and intersectionality (outcome 4: 'Compare and contrast disability with other identity categories such as race, gender, and sexuality'). The texts include complex theoretical works like Eli Clare's 'Brilliant Imperfection: Grappling with Cure' and canonical modernist literature (Virginia Woolf)."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires sustained analytical work across the term through three analytical response papers (2-3 pages each), in-class writing assignments about Mrs. Dalloway, discussion questions, and an in-class final comparative essay. These assignments collectively demonstrate ongoing inquiry into disability representation in literature."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The three analytical response papers (2-3 pages each) and the final comparative essay require significant independent intellectual work, demanding students to formulate arguments, analyze texts, and develop original interpretations of disability literature."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate that students define their own projects or shape research questions. Assignments appear to be instructor-defined (response papers, discussion questions, in-class writing, final essay)."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The analytical response papers and comparative essay require students to make consequential interpretive decisions about how to analyze literary representations of disability, which models of disability to apply, and how to construct arguments about cultural meanings. Learning outcome 1 ('Discuss the strengths and weaknesses of different models') requires evaluative judgment with intellectual consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The three analytical response papers across the term, combined with in-class writing assignments about Mrs. Dalloway and a final comparative essay, demonstrate extended analytical commitment requiring students to develop interpretive skills and engage repeatedly with complex texts throughout the semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The three analytical response papers (2-3 pages each) collectively, along with the in-class final comparative essay, constitute major deliverables. While individual papers are short, the cumulative analytical work represents a significant portion of course assessment."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not describe public-facing or applied outcomes. Assignments appear to be traditional academic papers for instructor evaluation."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes three analytical response papers, discussion questions, in-class writing assignments, and a final comparative essay. The majority of graded work requires critical analysis and synthesis (outcomes 1, 4, 6, 7 all require analytical engagement), demonstrating sustained assessment of advanced thinking."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course (ENGL43900), not a lower-division introductory course. The course number and advanced learning outcomes indicate upper-division standing."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course description notes 'Specific topics will vary,' the syllabus demonstrates focused engagement with disability literature through specific theoretical frameworks and analytical methods rather than broad coverage. Learning outcomes target analysis and critical examination rather than survey-level introduction."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It involves theoretical analysis, critical thinking about cultural constructions, and literary interpretation requiring conceptual engagement."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple analytical papers and a final comparative essay, providing clear major deliverables that demonstrate intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (interdisciplinary_academics through integration of Humanities and Social Sciences; undergraduate_research through analytical papers and inquiry-based work). It satisfies all rigor criteria (advanced content, sustained inquiry, independent work), meets student agency requirements (consequential decision-making and extended analytical commitment), and demonstrates learning through major projects and sustained assessment. No exclusions apply. The course clearly meets Honors standards for teaching and learning."
+      }
+    },
+    "_source_file": "ENGL43900_Spring2026_O34OOI.pdf"
+  }
+]

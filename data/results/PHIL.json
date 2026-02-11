@@ -1,0 +1,924 @@
+[
+  {
+    "_source_file": "PHIL20700_Spring2026_8759NC.pdf",
+    "_error": "1 validation error for SyllabusReview\ncourse_analysis.review_decision.rationale\n  Field required [type=missing, input_value={'decision': 'approved', .... No exclusions apply.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL20800",
+      "course_title": "Ethics of Data Science",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (philosophy/ethics) with Engineering and Technology (data science), addressing questions that require both ethical frameworks and understanding of data technologies. The course description explicitly addresses ethical analysis of data science technologies, bias in algorithms, and responsibilities of data scientists and engineers, demonstrating integration of philosophical methods with technical domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe student engagement in original inquiry, investigation, or knowledge creation. The learning outcomes focus on explaining, applying, analyzing, and describing existing ethical theories and concepts rather than formulating original research questions or producing new findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world issues in data technology (policing, criminal sentencing, surveillance), there is no evidence of sustained engagement with communities or organizations, nor structured reflection on engagement activities. The course appears to be classroom-based analysis rather than community-connected work."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to make decisions with ethical consequences through analysis of responsibilities placed on those developing data technologies. Learning outcome 4 explicitly addresses 'ethical responsibilities of data scientists, engineers, and policymakers,' and the course description emphasizes obligations and decision-making frameworks in technology development contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced ethical theories applied to complex contemporary issues in data science, including algorithmic bias, fairness, accountability, and professional responsibilities. The learning outcomes require students to explain and apply major ethical theories and analyze moral problems using reasoned arguments."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through regular Brightspace questions (28 total), in-class quizzes (21 total), and three exams that require ongoing analysis of ethical problems in data technologies throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through pre-class Brightspace questions (28 assignments), regular quiz preparation, and exam preparation that demands sustained engagement with course materials and development of argued positions on ethical issues."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any student-defined or student-shaped projects. Assessments consist of predetermined exams, quizzes, Brightspace questions, and participation without evidence of student choice in topics or approaches."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students engage in consequential decision-making by developing and defending their own views on pressing ethical questions in data science, as stated in the course description: 'students will have acquired conceptual and analytical tools for grappling with these questions, developing their own views, and defending those views with reasons and arguments.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through continuous work on Brightspace questions (28 assignments), weekly quizzes (21 total), and three major exams across the term, all demanding sustained analysis of ethical problems and development of reasoned arguments."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a major paper, project, design, or performance. The largest assessments are three in-class exams worth 22 points each (66 total out of 100), but these are exams rather than extended projects."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not include a portfolio or capstone-style artifact integrating work across the term. Assessments are discrete exams, quizzes, and questions rather than cumulative integrated work."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any public-facing or applied outcomes. All assessments appear to be internal to the classroom (exams, quizzes, participation) without external presentation or application components."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and original contribution: Brightspace questions (12%), in-class quizzes (18%), three exams (66%), and participation (4%) all demand engagement with ethical analysis and argumentation rather than simple recall or skill demonstration."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 208 is a 200-level course with no prerequisites, designed to introduce students to ethical analysis of data science. The course number and lack of prerequisites indicate this is a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course is introductory in level, it focuses specifically on applied ethical analysis of data science issues rather than broad coverage. The learning outcomes emphasize application, analysis, and assessment of specific problems rather than survey-level coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training; it focuses on ethical theories, moral reasoning, and analysis of complex social and technical issues surrounding data technologies."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three substantive exams that collectively constitute 66% of the grade, along with sustained assessment through quizzes and questions. While not a single major deliverable, the assessment structure demonstrates significant intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "Although the course meets interdisciplinary academics and leadership development pillars and satisfies rigor, student agency, and demonstrable evidence requirements, it is excluded because it is a lower-division introductory course (PHIL 208, 200-level with no prerequisites). Lower-division courses designed to introduce foundational concepts are not eligible for Honors contract credit regardless of their other merits."
+      }
+    },
+    "_source_file": "PHIL20800_Spring2026_IRTAQ9.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL 22100",
+      "course_title": "Introduction to the Philosophy of Science",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates philosophy (Humanities) with science (Natural Sciences) by examining scientific methods, reasoning, and epistemology. Chapter topics include scientific experiments, modeling, statistical reasoning, and causal reasoning, demonstrating integration of philosophical analysis with scientific practice. The course description explicitly states it examines 'what makes science special' and 'what makes scientific knowledge different,' requiring both philosophical frameworks and understanding of scientific methods."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus shows no evidence of students engaging in original inquiry, investigation, or knowledge creation. The course consists of readings, group discussions, and exams testing comprehension of existing material. Students do not formulate research questions, conduct investigations, or produce original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of engagement with external communities, organizations, or real-world contexts. The final chapter addresses 'Science and Society,' but there is no indication of structured engagement activities or community partnerships."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of leadership development activities, decision-making practice, or analysis of leadership frameworks. Group assignments involve answering questions but do not explicitly develop leadership capacities."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced philosophical and methodological content including deductive, inductive, and abductive reasoning; probabilistic and statistical reasoning; causal reasoning; scientific modeling; and epistemological questions about the nature of science. These topics require sophisticated analytical thinking beyond introductory level."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across 16 weeks examining fundamental questions about the nature of science, moving through experimental methods, reasoning types, modeling, and scientific explanation. The progression from basic questions (what is science) to complex topics (statistical inference, causal reasoning) demonstrates sustained intellectual engagement."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires weekly group assignments where students 'answer some questions\u2014and write down your questions\u2014about the readings,' demonstrating collaborative intellectual work. Students must prepare for class by reading material and being 'prepared to ask and answer questions.'"
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus shows no evidence of student-defined or student-shaped projects. All assignments (group work and exams) appear to be instructor-defined, focusing on demonstrating understanding of readings."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make a consequential decision about their grade structure: they 'may choose whether [group assignments] are part of your grade or not,' which affects exam weighting (20% vs 25% per exam). This represents decision-making with clear academic consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through sustained engagement with complex philosophical and scientific concepts across the semester, including weekly reading preparation, group discussions, and four exams that 'demonstrate that you have read and understood the material' covering progressively complex reasoning types."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The syllabus indicates no major paper, project, design, or performance. Assessment consists of four exams (20-25% each) and optional group assignments (20%), but no single substantial deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "No portfolio or capstone-style artifact is mentioned in the syllabus. The course does not require integration of work across the term in a single culminating product."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of public-facing or applied outcomes. All work appears to be internal to the course (exams and group assignments)."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment through four exams 'roughly equally spaced throughout the semester' that are 'multiple choice and short answer, meant to demonstrate that you have read and understood the material,' plus optional weekly group assignments. Together these represent consistent evaluation of student learning across the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is numbered PHIL 221, a 200-level course, and is explicitly titled 'Introduction to the Philosophy of Science.' It has no prerequisites and is designed to introduce foundational concepts in philosophy of science, making it a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course covers broad introductory topics including the nature of science, experiments, modeling, multiple types of reasoning (deductive, inductive, abductive, probabilistic, statistical, causal), explanation, theorizing, and science and society. This breadth suggests survey-style coverage rather than advanced analysis in depth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool training. It involves philosophical analysis and conceptual understanding of scientific methods and reasoning, not merely technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While the course lacks a single major deliverable, it has substantial assessment through four exams collectively worth 80-100% of the grade. This does not constitute complete absence of major intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "Despite meeting the interdisciplinary academics pillar and satisfying rigor, student agency, and demonstrable evidence requirements, the course triggers two exclusions: it is explicitly a lower-division introductory course (PHIL 221, 'Introduction to the Philosophy of Science,' no prerequisites) and demonstrates broad introductory coverage across multiple topics (nature of science, experiments, modeling, various reasoning types) characteristic of survey courses. These exclusions disqualify it from Honors credit eligibility."
+      }
+    },
+    "_source_file": "PHIL22100_Fall2025_F3XUT1.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL24000",
+      "course_title": "Social and Political Philosophy",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": "01/20/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from Philosophy and Political Science (cross-listed as POL229/PHIL240), combining political theory from social sciences with philosophical analysis from humanities. The learning outcomes demonstrate integration by requiring students to analyze political thinkers' theories (philosophical analysis) and apply them to contemporary public policy debates (political/social science application), creating a shared analytical framework that depends on both domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course focuses on understanding and analyzing existing political theories from major thinkers. There is no evidence of students formulating original research questions, conducting investigations, or producing original findings beyond applying established theories to contemporary debates."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global political questions (e.g., 'The China Model' reading, democracy across contexts), there is no evidence of sustained engagement with actual communities, organizations, or structured reflection on engagement experiences. The engagement is theoretical rather than experiential."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include intentional leadership development components, structured decision-making practice in leadership contexts, or explicit analysis of leadership frameworks. The focus is on analyzing political theories rather than developing leadership capacities."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical content from major political philosophers including Hobbes, Locke, Rawls, Nozick, Marx, and contemporary thinkers. Learning outcome #2 explicitly requires students to 'analyze the theories of major political thinkers, identifying their strengths and weaknesses,' indicating engagement with sophisticated analytical frameworks."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course is structured around seven thematic units that build upon each other over the semester, addressing fundamental questions about government, inequality, economy, and democracy. Each unit involves sustained engagement with complex texts and requires students to synthesize ideas across multiple thinkers and weeks."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The assessments consist primarily of attendance/participation, daily quizzes, and three exams. There is no evidence of significant independent research projects, extended papers, or collaborative intellectual work that would require substantial autonomous analysis beyond exam preparation."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All course content, questions, and assessments are instructor-defined. Students do not have opportunities to define their own research questions, shape project directions, or pursue self-directed inquiries within the course structure."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course does not include decision-making with intellectual or ethical consequences beyond standard academic work. Students respond to predetermined exam questions and quizzes rather than making consequential choices about inquiry direction or analytical approach."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "While exams 'may consist of a combination of multiple-choice questions, short answer questions, and essay questions,' there is no evidence of iterative work, revision processes, or extended analytical projects that develop over time with feedback and refinement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. The assessments are three non-cumulative exams (20% each), daily quizzes (20%), and participation (20%), none of which constitute a single major integrative project."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. The three exams are explicitly non-cumulative, and there is no final integrative assignment."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All assessments are traditional classroom-based evaluations (exams, quizzes, participation). There is no public-facing outcome, presentation, or applied work that extends beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes three exams covering readings and lecture material (60% of grade total), daily quizzes on readings and recent lectures (20%), and participation requiring engagement with course material (20%). The majority of graded work requires analysis of philosophical theories and their application, demonstrating sustained critical engagement throughout the semester."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is a 200-level course (PHIL240/POL229) with no prerequisites. The course description explicitly states it 'offers an introduction to and survey in political philosophy,' indicating it is designed as a foundational introduction to the discipline rather than advanced analysis."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course explicitly describes itself as offering 'an introduction to and survey in political philosophy,' covering seven broad units from foundational questions about the state through democracy and obligation. The structure prioritizes breadth of coverage of major thinkers and questions rather than deep, specialized analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "This is not a skills-only or tool-training course. It focuses on theoretical knowledge and analytical thinking about political philosophy rather than technical skills or tools."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a single major intellectual deliverable. Assessment is distributed across multiple small-stakes activities: three non-cumulative exams (20% each), daily quizzes (20%), and participation (20%). No single assignment constitutes a substantial, integrative intellectual project."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets one pillar (interdisciplinary academics) and demonstrates rigor through advanced content and sustained inquiry, it triggers three critical exclusions: it is explicitly designed as a lower-division introductory course, focuses on broad survey coverage rather than advanced analysis, and lacks a major intellectual deliverable. Additionally, it fails to meet student agency and responsibility requirements (scoring 0 on all three criteria) and only meets one of four demonstrable evidence criteria. The combination of exclusions and insufficient evidence of student agency disqualifies it from Honors approval."
+      }
+    },
+    "_source_file": "PHIL24000_Spring2026_AJCS3F.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL 26000",
+      "course_title": "Philosophy and Law",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates philosophy (Humanities) with law (Social Sciences/professional field), examining legal interpretation through philosophical frameworks. The reading list includes both philosophical texts (Hart's 'The Concept of Law,' classics of moral and political theory) and legal texts (Scalia's 'A Matter of Interpretation'), and the course objectives indicate analysis of central issues in philosophy of law, demonstrating cross-domain integration."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires three five-page evaluative, argumentative papers (75% of grade) where students formulate questions, analyze evidence, and produce original arguments. Students are expected to critically engage with difficult texts and develop their own positions, with the syllabus explicitly stating 'The paper should be an expression of your thought.'"
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of engagement with communities, organizations, or global issues outside the classroom, nor does it include structured reflection on ethical, social, or cultural dimensions of real-world engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course develops analytical and argumentative capacities, there is no evidence of intentional practice in decision-making, taking responsibility, or influencing outcomes in academic, professional, or civic contexts, nor explicit analysis of leadership or ethical frameworks in those contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical content in philosophy of law, including canonical texts by H.L.A. Hart and Antonin Scalia, and the course objectives explicitly aim to expose students to 'central issues of philosophy of law' and improve critical engagement with 'difficult texts.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through three major papers spread across the semester (due October 7, November 13, and December 15), plus twenty questions/comments requiring ongoing engagement with complex texts throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students must complete three five-page argumentative papers independently (75% of grade), with the syllabus emphasizing 'All work must be your own' and 'The paper should be an expression of your thought,' demonstrating significant independent intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "While paper topics are not explicitly detailed in the syllabus, the emphasis on papers being 'evaluative, argumentative' and 'an expression of your thought,' combined with encouragement to 'talk to others about your papers' and use AI for 'brainstorming' and 'coming up with objections to your position,' suggests students have agency in shaping their arguments and approaches."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions in formulating and defending philosophical positions in their papers, with intellectual consequences emphasized through requirements that they not 'cite anything that you haven't read' and may be 'quizzed on your paper and penalized for not understanding material in it.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through three five-page papers (25% each) and twenty questions/comments showing 'engagement with the reading,' distributed across the entire semester, demonstrating sustained analytical work."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes three five-page evaluative, argumentative papers, each worth 25% of the final grade (collectively 75%), representing major intellectual deliverables. Students 'must complete all the papers to pass the class.'"
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term; the papers appear to be separate assignments rather than cumulative."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence of public-facing or applied outcomes; the papers appear to be traditional academic assignments submitted to the instructor."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment with three papers (75% total) requiring critical analysis and original argumentation, plus twenty questions/comments (25%) requiring engagement with readings. The majority of graded work requires analytical and evaluative skills."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 260 is a 200-level course, which at most institutions is considered lower-division. The course number suggests it is designed to introduce students to philosophy of law as a subdiscipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers 'central issues of philosophy of law,' the emphasis on 'difficult texts,' advanced theoretical works (Hart, Scalia), and sustained analytical work through major papers suggests depth rather than mere coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training; it focuses on substantive philosophical and legal content, though it does aim to improve writing and critical thinking abilities."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three five-page papers (each 25% of grade) that constitute major intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics and undergraduate research pillars, satisfies all rigor criteria, student agency criteria, and demonstrable evidence of learning requirements, it triggers the lower_division_introductory exclusion. PHIL 260 is a 200-level course, which is typically considered lower-division and designed to introduce foundational concepts within the philosophy of law subdiscipline, making it ineligible for Honors credit under the stated exclusion criteria."
+      }
+    },
+    "_source_file": "PHIL26000_Fall2025_NVSJBI.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL27000",
+      "course_title": "Biomedical Ethics",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": "12/19/2024"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (Philosophy/Ethics) with Natural Sciences (biomedical sciences and medicine) to examine moral and social problems raised by developments in medicine. The learning outcomes explicitly require students to 'describe ethical implications of technological and/or scientific developments' and 'explain how social factors have shaped the development or application of science,' demonstrating integration of philosophical ethics with scientific and medical contexts rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes lectures, recitations, and essay examinations based on assigned readings. There is no evidence of students formulating original research questions, conducting investigations, collecting evidence, or producing original findings that extend beyond established knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses public health crises and healthcare delivery issues that have real-world relevance, there is no evidence of sustained engagement with actual communities, organizations, or structured field experiences, nor is there mention of reflection on engagement activities."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not mention activities that develop students' capacity to make decisions, take responsibility, or influence outcomes through intentional practice or application of leadership frameworks. The course focuses on discussion and written examinations rather than leadership skill development."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced philosophical and ethical frameworks applied to complex biomedical issues including informed consent, human research ethics, and healthcare delivery. The learning outcomes require students to analyze ethical implications and explain complex social-scientific relationships, indicating theoretical depth beyond introductory ethics."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course is structured around three thematic sections (Confidentiality/Informed Consent/Human Research; Issues of Life and Death; Public Health Crises) with corresponding essay examinations, indicating sustained engagement with complex problems across the term rather than discrete, unrelated topics."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students must complete 'close, diligent reading' of assigned texts and produce three essay examinations that constitute the entirety of their grade, requiring significant independent intellectual work in analysis and written argumentation throughout the semester."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus describes essay examinations based on course topics determined by the instructor. There is no mention of students defining their own research questions, selecting topics, or shaping projects according to their interests."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students engage with ethical dilemmas in biomedical contexts, the syllabus does not indicate that students make decisions with intellectual or ethical consequences beyond completing examinations. There is no evidence of applied decision-making scenarios or case-based work requiring students to defend positions with consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires three essay examinations, each counting for one-third of the grade, necessitating extended analytical engagement with complex ethical problems across the semester. The emphasis on 'close, diligent reading' and vigorous discussion suggests iterative engagement with course material."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Each of the three essay examinations constitutes 33% of the course grade, making them major assessments. These examinations require sustained written analysis of biomedical ethics topics and represent significant intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not mention a portfolio or capstone-style artifact that integrates work across the term. The assessment consists of three separate essay examinations rather than a cumulative, integrative project."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The essay examinations appear to be traditional academic assessments rather than public-facing or applied outcomes. There is no mention of presentations, publications, community deliverables, or other work requiring engagement with audiences beyond the instructor."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The entire grade consists of three essay examinations distributed across three course sections, each requiring critical analysis and synthesis of ethical principles applied to biomedical contexts. This represents a sustained assessment structure where all graded work requires analytical engagement."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 270 is a 200-level course with no prerequisites, designed to introduce foundational concepts in biomedical ethics. The course number and lack of prerequisites indicate this is a lower-division introductory course in the discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple topics in biomedical ethics, it is organized into three focused thematic sections with sustained inquiry into each area. The emphasis on 'close, diligent reading' and essay examinations suggests analytical depth rather than mere coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on examining moral and social problems through philosophical analysis, not on skill development or tool training. It requires critical thinking and ethical reasoning rather than technical competencies."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three essay examinations, each constituting one-third of the grade, which represent major intellectual deliverables requiring analysis and written argumentation."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics pillar by integrating philosophy/ethics with biomedical sciences, satisfies all three rigor criteria, meets student agency requirements through extended analytical commitment, and demonstrates learning through major examinations and sustained assessment, it triggers a critical exclusion: it is a lower-division (200-level) introductory course with no prerequisites designed to introduce foundational concepts in biomedical ethics. This exclusion disqualifies the course from Honors credit eligibility despite its other strengths."
+      }
+    },
+    "_source_file": "PHIL27000_Fall2025_YLUY2C.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL 28000",
+      "course_title": "Ethics and Animals",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates humanities (philosophy/ethics) with natural sciences (animal cognition, biology) through readings like Berm\u00fadez on 'Thinking Without Words,' Grandin on 'Thinking Like Animals,' and DeGrazia on 'Self-Awareness in Animals.' It combines philosophical ethical frameworks with empirical evidence about animal cognition to answer questions about moral status that require both domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Learning objective 4 states students must 'Construct your own valid, well-reasoned arguments, and communicate them clearly, by bringing course readings into conversation with real-world issues.' The major assignments require original argument construction and evaluation of theoretical claims beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world issues like experimentation on animals and meat-eating, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on engagement experiences."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership practice, decision-making in group contexts, or explicit analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced philosophical content from major historical figures (Kant, Mill) and contemporary theorists (Singer, Regan), addressing complex theoretical debates about rights, consciousness, and moral status across multiple philosophical traditions."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across 12 days with multiple written assignments (Animal Rights Assignment, Animal Cognition Assignment, Final Assignment) that build upon one another to explore core philosophical questions about human-animal relationships."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through multiple essays (Animal Rights Assignment 50 points, Animal Cognition Assignment 50 points, Final Assignment 75 points) requiring construction of original arguments."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus indicates assignment instructions are on Brightspace but does not provide evidence that students define or shape their own projects or research questions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Learning objective 2 requires students to 'Apply general ethical principles to questions regarding animal life in the domains of scientific research, social life, and personal life,' involving ethical reasoning with consequential implications for real-world practices."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work through multiple essays (25, 50, 50, 75 points) that demand sustained engagement with philosophical arguments and construction of reasoned positions across the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Assignment worth 75 points (approximately 26% of total grade) constitutes a major deliverable, described as 'a written essay or video essay' requiring synthesis of course material."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the final assignment can be a video essay, there is no indication it is public-facing or requires presentation to external audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (200 of 290 points, 69%) consists of written essays requiring critical analysis, argument construction, and evaluation of philosophical positions, not merely factual recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 280 is a 200-level course in philosophy, which at most institutions represents lower-division coursework typically taken in the first two years of undergraduate study."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on a specific topic (animal ethics) with depth rather than providing broad coverage of philosophy generally."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on philosophical inquiry and ethical reasoning, not merely skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables including essays worth 50 and 75 points."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course demonstrates strong interdisciplinary content and meets rigor, student agency, and demonstrable evidence requirements, it is excluded because it is a lower-division (200-level) course, which does not meet Honors College standards for upper-division advanced coursework."
+      }
+    },
+    "_source_file": "PHIL28000_Winter2025_1PLL3H.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL29000",
+      "course_title": "Environmental Ethics",
+      "department": "PHIL",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates philosophical ethics (Humanities) with environmental science and technology studies (Natural Sciences/Engineering), as evidenced by learning outcomes addressing 'scientific and/or technological changes,' 'ethical implications of technological and/or scientific developments,' and 'social factors [that] have shaped the development or application of science and/or technology.' The course combines ethical frameworks with scientific/technological analysis in examining environmental issues."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The Honors component requires 'an additional 10-page research paper on the topic of their choice, which must be preapproved,' indicating students engage in original inquiry involving question formulation, evidence analysis, and production of findings beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses environmental issues with global implications, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical/social dimensions of real-world engagement beyond classroom discussion."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Though students serve as discussion facilitators, this role appears pedagogical rather than involving decision-making with responsibility, influence on outcomes, or analysis of leadership frameworks. No evidence of intentional leadership capacity development is present."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical content in environmental ethics, examining complex issues including 'degradation of the environment in late capitalism, over-consumption and its consequences, and the necessity of responsible stewardship,' requiring critical evaluation of ethical frameworks and their applications."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The six analyses (60% of grade) plus the personal reflection project and discussion facilitation represent sustained inquiry across the term, requiring students to engage repeatedly with environmental ethics problems through multiple analytical lenses."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The personal reflection project (20%), six analyses (60%), discussion facilitation (20%), and Honors research paper all require significant independent intellectual work involving critical analysis and synthesis."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The Honors research paper allows students to choose their own topic (requiring preapproval), demonstrating student-shaped inquiry. The choice of which class session to facilitate also provides limited student agency."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about which ethical frameworks to apply, how to evaluate environmental issues, and what positions to defend in their analyses and facilitation\u2014decisions with intellectual and ethical consequences in the domain of environmental ethics."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The six analyses across the semester, plus the personal reflection project and 10-page research paper for Honors students, require extended analytical commitment throughout the term with multiple opportunities for deepening engagement with course concepts."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Honors 10-page research paper constitutes a major project. Additionally, the personal reflection project (20%) and the cumulative six analyses (60%) represent substantial intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "No evidence of a portfolio or capstone-style artifact that integrates work across the term is present in the syllabus."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The discussion facilitation is classroom-facing rather than public-facing. No evidence of applied outcomes requiring academic judgment directed toward external audiences or communities is present."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The six analyses (60% of grade) plus personal reflection project (20%) and discussion facilitation (20%) constitute sustained assessment throughout the term, with the majority requiring critical analysis and synthesis of environmental ethics issues."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is explicitly described as 'an introduction to philosophical issues' with 'no pre-requisites,' and is numbered at the 200-level, indicating a lower-division introductory course designed to introduce foundational concepts in environmental ethics."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While introductory, the course focuses on specific environmental ethics topics rather than broad coverage, requiring sustained analytical work through six analyses and advanced engagement with ethical frameworks."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on critical analysis of ethical issues rather than skills or tool training, emphasizing philosophical inquiry and argumentation."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: six analyses (60%), personal reflection project (20%), and for Honors students, a 10-page research paper."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence that the course is already counted through another Honors credit mechanism is present in the syllabus."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets multiple criteria including interdisciplinarity and undergraduate research pillars, satisfies all rigor requirements, demonstrates student agency, and provides demonstrable evidence of learning, it triggers the 'lower_division_introductory' exclusion. The syllabus explicitly identifies this as 'an introduction to philosophical issues' with no prerequisites, and it is a 200-level course, making it ineligible despite its substantive analytical requirements."
+      }
+    },
+    "_source_file": "PHIL29000_Spring2026_J0H50Y.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL41100",
+      "course_title": "Modern Ethical Theory",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": "01/16/2026"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on the history of modern ethics within the philosophy discipline, examining Hobbes, Leibniz, Hume, Kant, Mill, and Nietzsche. While ethics has broad applications, the syllabus provides no evidence of integration with another high-level domain's methods, epistemic frameworks, or research questions."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The 6-8 page paper requires students to formulate original arguments on topics selected from the instructor's list or pre-approved alternatives, demonstrating inquiry and analysis that extends beyond established answers to produce original findings within philosophical argumentation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues, nor any structured reflection on ethical, social, or cultural dimensions of external engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course encourages robust intellectual discourse and freedom of expression, there is no evidence of intentional leadership development activities, reflection on leadership frameworks, or structured opportunities to take responsibility for group outcomes or influence decisions in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical content in ethical theory and metaethics through primary texts by major philosophers (Hobbes, Leibniz, Hume, Kant, Mill, Nietzsche), requiring students to 'critically evaluate rival theories' and 'interpret, understand and evaluate philosophical arguments encountered in complex philosophical texts.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry throughout the semester, evidenced by the requirement to complete five short homework assignments across the term, a 6-8 page paper with proposal and final submission stages, plus midterm and final essay exams covering complex philosophical arguments."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The 6-8 page paper (30% of grade) requires significant independent intellectual work, with students selecting topics and developing original philosophical arguments. Regular engagement expectations and homework assignments also require independent analysis of complex texts."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have agency in selecting their paper topic 'from the instructor's list of topics, or another topic pre-approved by the instructor,' allowing for student-shaped inquiry within the course framework."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in developing their 6-8 page paper, choosing which of five short homework assignments to complete (from ten possibilities), and determining how to 'critically evaluate rival theories in ethics and metaethics' with intellectual consequences for their arguments and grades."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The paper requirement involves extended analytical commitment through a proposal stage (April 7) followed by final submission (April 16), indicating iterative development. The course also requires sustained engagement with complex philosophical texts throughout the semester with multiple assessment points."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The 6-8 page paper constitutes 30% of the course grade, representing a substantial major deliverable requiring original philosophical analysis and argumentation."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence that any work is shared publicly or applied beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure demonstrates sustained assessment requiring critical analysis: five homework assignments, midterm exam (25%), major paper (30%), and final exam (25%) all require engagement with and analysis of complex philosophical arguments, representing the majority of graded work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "PHIL 411 is a 400-level course, indicating upper-division standing rather than a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple philosophers in the history of modern ethics, it focuses on 'major controversies' and requires critical evaluation of rival theories rather than broad introductory coverage. The advanced level (400) and depth of analysis required indicate this is not a broad survey course."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is focused on philosophical analysis and theory evaluation, not skills-only or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a 6-8 page paper worth 30% of the grade, constituting a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the undergraduate research pillar through its original paper requirement. It satisfies all rigor criteria with advanced theoretical content, sustained inquiry, and independent work. Student agency is demonstrated through topic selection, consequential decision-making, and extended analytical commitment. Demonstrable evidence of learning is present through the major paper and sustained assessment structure. No exclusions apply."
+      }
+    },
+    "_source_file": "PHIL41100_Spring2026_O5MV8L.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL 42400",
+      "course_title": "Recent Ethical Theory",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on philosophical and ethical theory within the Humanities domain. While it examines the relationship between ethics and natural science or religion conceptually, there is no evidence of cross-domain integration of methods, research questions, or epistemic frameworks from another high-level domain such as Natural Sciences, Social Sciences, or Engineering."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to develop a research project, including a project proposal, presentation, and final paper. The syllabus states students will formulate 'an outline of a proposed research project' and produce 'a final paper on the same topic as your presentation,' indicating original inquiry and knowledge creation beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus of sustained engagement with communities, organizations, or global issues. The 'Giving Exercise' on Oct 22 is mentioned but lacks sufficient detail to confirm community engagement or structured reflection on ethical, social, or cultural dimensions of real-world contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe structured opportunities for students to develop decision-making capacity, take responsibility, or influence outcomes through intentional practice or analysis of leadership frameworks. While students present and receive feedback, there is no explicit leadership development component."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages with advanced theoretical content in metaethics and recent ethical theory. Readings include complex philosophical texts by Korsgaard, Blackburn, MacIntyre, and others addressing advanced topics such as moral realism, normativity, virtue ethics, and the justification of morality\u2014content appropriate for a 400-level philosophy course."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The research project structure\u2014proposal (5%), presentation (25%), and final paper (30%)\u2014demonstrates sustained inquiry across the semester. Students develop a research question, present findings, and revise work based on feedback, indicating extended intellectual engagement with a problem."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The research project requires significant independent work: students define their own research topics, develop proposals, present their findings, and write final papers. This represents substantial independent intellectual work constituting 60% of the course grade."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The project proposal states 'Proposals will include an outline of a proposed research project,' and students present and write on 'the topic of your research project,' indicating students define or shape their own research questions within the course's thematic boundaries."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in formulating research questions, selecting arguments, and incorporating feedback after presentations into final papers. These decisions have direct consequences for the quality and originality of their work, which comprises 60% of their grade."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The iterative structure\u2014proposal, presentation, feedback incorporation, and final paper\u2014requires extended analytical commitment. Students must develop, present, receive feedback on, and revise their work, demonstrating sustained analytical engagement with iterative review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final paper (30% of grade) and presentation (25% of grade) together constitute a major project representing 55% of the course grade. These require original research, analysis, and synthesis on a student-defined topic within ethical theory."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates multiple pieces of work across the term. While the research project has multiple components, it focuses on a single topic rather than integrating diverse work."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The 15-minute presentation to the class constitutes a public-facing outcome requiring academic judgment. Students must present their research findings to peers, defend their analysis, and respond to questions, demonstrating scholarly communication skills."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: reading responses (10%) demand engagement with complex texts, the midterm essay exam (25%) requires philosophical argumentation, and the research project components (60%) require original analysis\u2014totaling 95% of the grade based on analytical work."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "PHIL 42400 is a 400-level course, clearly an upper-division course. The course number and advanced content (metaethics, recent ethical theory debates) indicate this is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on specialized topics in recent ethical theory, particularly MacIntyre's 'After Virtue' and contemporary debates in metaethics. It emphasizes depth and advanced analysis rather than broad introductory coverage of ethics as a discipline."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is theory-focused, engaging with philosophical arguments, conceptual analysis, and ethical frameworks. It is not a skills-only or tool-training course but rather emphasizes critical thinking, argumentation, and theoretical understanding in philosophy."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: a midterm essay exam (25%), presentation (25%), and final paper (30%). These constitute substantial intellectual work demonstrating advanced learning outcomes."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism. The syllabus does not mention dual-counting, transfer credit, or other pre-existing Honors designation."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the undergraduate research pillar through its sustained research project. It satisfies all rigor criteria (advanced content, sustained inquiry, independent work), all student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and multiple demonstrable evidence criteria (major project, public-facing outcome, sustained assessment). No exclusions apply. The course clearly meets Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "PHIL42400_Fall2025_QGRAEH.pdf"
+  }
+]

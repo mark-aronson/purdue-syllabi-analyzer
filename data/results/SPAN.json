@@ -1,0 +1,308 @@
+[
+  {
+    "course_information": {
+      "course_number": "SPAN32100",
+      "course_title": "Introduction to Spanish for the Professions",
+      "department": "SPAN",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Spanish language learning (Humanities) with multiple professional domains including health & wellness, consumerism & marketing, information technology, education & experience, human resources, and laws and regulations. Learning outcomes explicitly require students to 'Recognize and apply medical and health-related vocabulary,' 'conduct a culturally sensitive medical interview,' and 'Analyze and resolve linguistic and cultural challenges in medical situations,' demonstrating integration of language (Humanities) with healthcare (Natural Sciences/Social Sciences) and business contexts (Business and Economics)."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe students engaging in inquiry beyond established answers or formulating original research questions. Activities focus on applying existing professional vocabulary and communication skills rather than conducting original investigation."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes sustained engagement with real-world professional contexts through role-play, culturally sensitive medical interviews, and intercultural activities. Learning outcomes require students to 'Recognize the cultural and ethical backgrounds of the Hispanic population' and 'Analyze and resolve linguistic and cultural challenges,' with structured reflection evident through multiple culture assignments (5x20 points) and intercultural activities (40 points)."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Learning outcome 6 explicitly requires students to 'Recognize the limits and responsibilities that their knowledge of the Spanish language imposes on the activities they will perform in their future professional lives (Ethical and professional values).' The course also includes topics on professional ethics, workplace conduct, and professional communication, demonstrating intentional development of professional responsibility and ethical decision-making."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "This is an intermediate/advanced Spanish course (SPAN 321) that covers specialized professional vocabulary and advanced grammatical structures including conditional, future tenses, and complex communication patterns for professional contexts. Topics include advanced professional themes such as artificial intelligence, global economic blocks, and professional ethics."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained work across 16 weeks with recurring assignments in vocabulary, communication, video, readings, and writing (totaling 10 weeks of structured modules), culminating in a final project worth 120 points. Students engage continuously with professional scenarios and intercultural challenges throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through writing assignments (5x20=100 points), culture assignments (5x20=100 points), video assignments (10x10=100 points), and a final project (120 points), totaling over 40% of the grade requiring independent analytical and creative work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The final project (120 points, 12% of grade) and intercultural activities appear to allow student choice in topics and approaches. The syllabus mentions 'individualized vocabulary' and students creating professional profiles, CVs, and presentations on topics relevant to their fields, suggesting student-shaped content."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make decisions with ethical and professional consequences, particularly in learning outcome 6 regarding 'limits and responsibilities that their knowledge of the Spanish language imposes.' Topics on professional ethics, workplace safety (OSHA), human rights, and culturally sensitive medical interviews require students to navigate ethical scenarios."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work through five writing assignments (5x20=100 points), five culture discussions, intercultural activities spanning multiple sessions, and a final project with portfolio review. Learning outcome 5 requires students to 'Analyze and resolve linguistic and cultural challenges,' demonstrating sustained critical analysis."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final project is worth 120 points (12% of final grade) and includes both written (60 points) and oral presentation components (60 points), with oral presentations scheduled over multiple class sessions in weeks 15-16. This constitutes a major culminating deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The syllabus explicitly mentions 'Revisar portafolios finales en clase' (Review final portfolios in class) on 4/22, indicating a portfolio component that integrates work across the term as part of the final project."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The final oral presentations (Presentaciones orales) in weeks 15-16 constitute public-facing outcomes where students present their work to the class. Additionally, the course includes an invited speaker (Orador invitado) and multiple presentation opportunities throughout the term."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and original contribution: writing (100 points), culture assignments (100 points), video assignments (100 points), communication (100 points), readings (100 points), and final project (120 points) total 620 out of 1000 points (62%), all requiring analytical engagement with professional and cultural content."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SPAN 321 is a 300-level course designated as intermediate/advanced, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on broad introductory coverage but rather on advanced application of Spanish in professional contexts with sustained analytical work on cultural and ethical dimensions."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops language skills, it goes beyond tool training by requiring cultural analysis, ethical reflection, and professional judgment. Learning outcomes require students to analyze cultural challenges, recognize ethical responsibilities, and engage in problem-solving and critical thinking."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major final project worth 120 points (12%) with portfolio and oral presentation components, as well as substantial writing and culture assignments throughout the term."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three pillars (interdisciplinary academics, community and global engagement, and leadership development), satisfies all rigor criteria (advanced content, sustained inquiry, and independent work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), provides multiple forms of demonstrable evidence of learning (major project, portfolio, public-facing outcome, and sustained assessment), and triggers no exclusions. The course demonstrates clear integration of language learning with professional contexts including healthcare, business, and ethics, requiring sustained analytical work on cultural and ethical dimensions of professional practice."
+      }
+    },
+    "_source_file": "SPAN32100_Spring2026_BT6I6I.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SPAN 32200",
+      "course_title": "Spanish for the Health Professions",
+      "department": "SPAN",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (Spanish language/culture) with Health Sciences (medical vocabulary, healthcare practice, medical interviews). The learning outcomes explicitly connect linguistic skills with healthcare contexts, including conducting medical interviews, applying medical vocabulary, and addressing cultural/ethical healthcare challenges specific to Hispanic populations."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes language skill development and application exercises but does not indicate that students engage in original inquiry, formulation of research questions, or production of new knowledge beyond established learning materials."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course engages with real-world healthcare contexts by preparing students for interaction with Spanish-speaking patients, addressing cultural and ethical dimensions of healthcare delivery to Hispanic populations, and analyzing cultural challenges in medical situations. The learning outcomes include structured reflection on cultural, legal, and ethical considerations."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to make consequential professional decisions through recognition of 'the limits and responsibilities that their Spanish language skills impose on the activities they will carry out in their future professional life,' indicating intentional reflection on ethical frameworks and professional responsibility in healthcare contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes specialized medical and health-related vocabulary, professional conversation skills for medical interviews, and cultural/ethical analysis at an intermediate-to-advanced level (course number 322), covering topics from basic medical visits through serious illnesses, emergencies, and hospital care."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained work across the term through weekly textbook assignments, reading discussions and documents (16% of grade), and a final project developed over the last two weeks requiring research and presentation on health topics."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through pre-assigned group discussions (16% of grade), an original video with a partner (10%), and reading discussion groups meeting regularly throughout the semester."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The final project (15% of grade) allows students to select their own health topic for brochure creation and PowerPoint presentation, indicating student choice in project focus and approach."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make intellectually and ethically consequential decisions through analyzing and solving cultural challenges in medical situations and recognizing professional responsibilities and limits of their language skills in future healthcare practice."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Weekly reading discussions with written documents (16% of grade) require sustained analytical engagement across the semester, along with the final project development over two weeks involving brochure and presentation components."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final project constitutes 15% of the grade and consists of a brochure (50 pts) and narrated PowerPoint presentation (100 pts) evaluated on content, grammar, and materials, requiring synthesis of course knowledge."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course includes a final project but not a portfolio or comprehensive capstone artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The original video with a partner (10% of grade) and the final narrated PowerPoint presentation are public-facing outcomes requiring academic judgment and professional communication skills applicable to real healthcare contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: reading discussions and documents (16%), original video (10%), exams including oral interviews (24%), and final project (15%), totaling 65% of the grade for work beyond basic vocabulary/grammar exercises."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "SPAN 322 is a 300-level upper-division course focused on specialized application of language skills to health professions, not foundational introductory content."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on specialized health-related Spanish vocabulary and professional healthcare communication rather than broad introductory coverage of Spanish language or culture."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops language skills, it explicitly includes cultural analysis, ethical considerations, and professional decision-making beyond mere skill training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: original video (10%), reading discussions and documents (16%), two substantial exams (24%), and a final project (15%)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No information suggests this course credit is already counted through another Honors mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three pillars (interdisciplinary academics through Humanities/Health Sciences integration, community and global engagement through healthcare contexts, and leadership development through professional responsibility). It satisfies all rigor requirements (advanced content, sustained inquiry, independent/collaborative work), all student agency requirements (student-defined projects, consequential decision-making, extended analytical commitment), and demonstrable evidence requirements (major project, public-facing outcome, sustained assessment). No exclusions apply."
+      }
+    },
+    "_source_file": "SPAN32200_Spring2026_37UIHY.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "SPAN42400",
+      "course_title": "Business Spanish",
+      "department": "SPAN",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from two distinct high-level domains: Humanities (Spanish language and Hispanic cultural studies) and Business and Economics (international business systems, business terminology, commercial practices). The course description states it aims to develop 'functional use of Spanish into the world of business from a Hispanic cultural perspective' and covers 'international business and political systems,' demonstrating integration of linguistic/cultural analysis with business concepts rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of students engaging in inquiry that extends beyond established answers. The assignments focus on applying existing business Spanish concepts and vocabulary rather than formulating original research questions or producing novel findings."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course connects academic learning to real-world global contexts through sustained engagement with Latin American business environments. The final project requires students to develop a portfolio 'on setting up a business in a Latin America country,' and throughout the term students analyze economic, political, and cultural dimensions of multiple Spanish-speaking countries, including structured reflection on international cooperation and cultural perspectives in business contexts."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development activities, frameworks for decision-making in professional contexts, or structured reflection on leadership practices."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced content as indicated by its 400-level designation and prerequisites requiring completion of SPAN 30200 or SPAN 26100. It is described as 'the last of a series of courses' and covers sophisticated business concepts including international finance, marketing strategies, investment analysis, and cross-cultural business practices in Spanish."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The final project portfolio requires sustained inquiry across the semester as students develop a comprehensive business plan for establishing a company in a Latin American country. The syllabus indicates students work on this project throughout the term, with each group member responsible for one section and presentations during finals week."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through the final group project (35% of grade) where students must coordinate to create a portfolio with individual sections. Additionally, weekly group activities including discussions, writings, and collaborative assignments are required throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The final project allows for student choice as groups select which Latin American country to focus on for their business establishment plan. Each student is also 'responsible for one section of the portfolio,' suggesting some degree of individual shaping within the collaborative project structure."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The final project requires consequential decision-making as students must develop a viable business plan for a Latin American country, involving decisions about market analysis, product/service selection, financial planning, and cultural considerations that would have real-world business implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through the semester-long portfolio project, weekly 'Mini caso pr\u00e1ctico' assignments that apply business concepts to practical scenarios, and continuous analysis of economic and political situations across multiple countries throughout the 13-week schedule."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final portfolio project constitutes 35% of the course grade and requires students to produce a comprehensive report (minimum 10 pages) with PowerPoint or video presentation on establishing a business in Latin America, representing a major intellectual deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The course explicitly includes an 'end-of-semester Portfolio' that integrates business planning, cultural analysis, and Spanish language proficiency developed across the term, serving as a capstone-style artifact."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students must create narrated PowerPoint presentations or video presentations on their business projects and post them on Blackboard, creating a public-facing (at least within the class community) outcome that requires academic judgment about business viability and cultural considerations."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (75% including discussion posts, quizzes, and final project) requires application of business concepts, cultural analysis, and Spanish language skills. Weekly assignments throughout the 13-week calendar involve analysis of economic situations, business cases, and commercial correspondence."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course described as 'the last of a series of courses,' indicating it is upper-division rather than introductory, with prerequisites of SPAN 30200 or SPAN 26100."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on specialized application of Spanish to business contexts rather than broad introductory coverage. It requires advanced analysis of business practices, economic systems, and cultural dimensions specific to Hispanic markets."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops Spanish language skills in business contexts, it goes beyond tool training to include analysis of political systems, economic development, cultural perspectives, and strategic business planning."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable in the form of the semester-long portfolio project worth 35% of the grade, requiring a minimum 10-page report and presentation."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets multiple pillar requirements (interdisciplinary academics and community/global engagement), satisfies all rigor criteria (advanced content, sustained inquiry, and collaborative work), demonstrates student agency through all three dimensions (student-defined projects, consequential decision-making, and extended analytical commitment), provides demonstrable evidence of learning through multiple mechanisms (major project, portfolio, public-facing outcome, and sustained assessment), and triggers no exclusions. The integration of business and Hispanic cultural studies, combined with the applied portfolio project on establishing businesses in Latin America, clearly meets Honors expectations for advanced interdisciplinary learning."
+      }
+    },
+    "_source_file": "SPAN42400_Spring2026_5EWXEK.pdf"
+  }
+]

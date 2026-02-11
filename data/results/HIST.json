@@ -1,0 +1,716 @@
+[
+  {
+    "course_information": {
+      "course_number": "HIST 27800",
+      "course_title": "Money, Trade, & Power: The History of Capitalism",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (History) with Business and Economics domains. It examines the historical development of capitalism while analyzing business practices, economic structures, and financial governance, combining historical methods with economic concepts in ways that shape core questions about how capitalism evolved and functions (e.g., emergence of corporations, welfare state development, business cycles)."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to 'analyze and interpret historical texts concerning the nature of capitalism, using the historical technique of primary source analysis' (learning outcome 3) and produce 'primary source exercises' (20% of grade) asking students to 'respond to document readings with well-reasoned observations,' demonstrating original analytical engagement with primary evidence."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course examines global capitalism through topics including 'overseas expansion and imperial subjugation,' the Atlantic slave trade, East India Company, global economy formation, Bretton Woods international system, and the 'Battle for Seattle,' demonstrating sustained engagement with global economic issues and their social, ethical, and cultural dimensions across centuries."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development activities, structured reflection on leadership frameworks, or opportunities for students to practice decision-making, take responsibility, or influence outcomes in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical content including complex economic concepts (commercial capitalism, industrial revolution, free trade, welfare state, gold standard, Washington consensus) analyzed across four centuries, requiring synthesis of historical interpretations and engagement with primary sources using disciplinary methods."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry throughout the term, as evidenced by ongoing primary source exercises (20% of grade), two midterm examinations requiring synthesis of key themes (20% each), and a comprehensive final exam (30%) featuring 'course-spanning questions,' all requiring continuous analytical engagement with course material."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Students must complete primary source exercises requiring 'well-reasoned observations' independently, and write 'clearly argued essays' synthesizing historical interpretations for multiple examinations, demonstrating significant independent intellectual work throughout the semester."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate that students define their own research questions, shape project directions, or have choice in topics. Assignments appear to be instructor-defined with specific prompts for exercises and exams."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students must formulate arguments and interpretations, the syllabus does not provide evidence of decision-making with intellectual or ethical consequences beyond standard academic work, such as choices that affect research direction or have external implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through primary source exercises throughout the term, two midterm exams asking students to 'synthesize key themes,' and a comprehensive final exam with 'course-spanning questions,' all demanding sustained engagement with complex historical material and interpretive argumentation."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final exam constitutes 30% of the course grade and features 'course-spanning questions and essays,' representing a major summative assessment requiring synthesis and analysis of material from the entire semester."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. Assessments are discrete exercises and examinations rather than cumulative collections."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate any public-facing or applied outcomes. All work appears to be submitted for instructor evaluation rather than for external audiences or practical application."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: primary source exercises (20%) demand 'well-reasoned observations,' midterm exams (40% combined) require synthesis through 'clearly argued essays,' and the final exam (30%) requires comprehensive analytical essays, totaling 90% of the grade."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course number (278/27800) indicates an upper-division course, not a lower-division introductory course. The content examines capitalism across four centuries with advanced analytical requirements."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course surveys the history of capitalism from the 17th to 21st centuries, it requires advanced analysis through primary source interpretation, synthesis of historical interpretations, and clearly argued essays, going beyond mere introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training. It emphasizes historical analysis, interpretation of primary sources, and synthesis of complex theoretical concepts about capitalism's development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: primary source exercises (20%), two midterm examinations (20% each), and a comprehensive final exam (30%), all requiring substantial analytical and synthetic work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three of four pillars (interdisciplinary academics, undergraduate research, and community and global engagement), satisfies all three rigor criteria (advanced content, sustained inquiry, and independent work), meets student agency requirements through extended analytical commitment, and demonstrates learning through both a major exam (30%) and sustained assessment (90% of graded work). No exclusions apply. The course clearly exceeds Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "HIST27800_Spring2026_HRL7D9.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "HIST30605",
+      "course_title": "Technology and War in US History",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Humanities (History), Engineering and Technology (history of technology, weapons systems, military technologies), and Natural Sciences (scientific discoveries underlying weapons development). The course description explicitly states it examines 'the historical relationship between science, technology, and warfare' and learning outcome 1 requires students to 'explain the connections between war and techno-science.' This demonstrates genuine cross-domain integration where historical analysis is materially shaped by technological and scientific considerations."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The primary source response assignments (25% of grade) require students to engage in original inquiry and analysis. Students must 'grapple with the source' by asking 'What does it teach us? What questions does it raise? What other sources would you need to make sense of it? How might a historian use it?' This constitutes formulation of questions and analysis of evidence that extends beyond reproducing established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues through real-world connections, nor does it include structured reflection on ethical, social, or cultural dimensions of such engagement. While the course addresses global and ethical issues (e.g., warfare, atomic weapons), it does so through academic analysis rather than community engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of developing students' capacity to make decisions, take responsibility, or influence outcomes through intentional practice, reflection, and analysis of leadership or ethical frameworks. While the course addresses ethical issues in warfare, it does not include explicit leadership development components."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content from the history of technology, including 'technological determinism, affordances, technological systems' (learning outcome 5), and requires students to 'analyze historical scholarship and be able to identify arguments, contributions to the field, and the way scholars make use of sources' (learning outcome 4). The readings are scholarly articles from peer-reviewed journals demonstrating advanced analytical and methodological content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires sustained inquiry across the term through the primary source response assignments. Students must complete five responses (at least one from unit 1, one from unit 2, and two from unit 3) that require deep engagement with primary sources over the course of the semester, demonstrating sustained analytical work."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The primary source response assignments (25% of grade) require significant independent intellectual work. Students independently select which five primary sources to analyze from the many options provided, formulate their own questions about the sources, and produce analytical responses (250-400 words each) demonstrating critical thinking."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have significant agency in the primary source response assignments: 'You get to pick which five' sources to analyze from numerous options throughout the syllabus. Students must select at least one from unit 1, one from unit 2, and two from unit 3, with one additional response from any unit of their choosing. This demonstrates student-shaped work."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about which primary sources to analyze (5 responses worth 25% of grade total) and how to interpret those sources. The requirement to 'grapple with the source' by determining 'What does it teach us? What questions does it raise?' involves intellectual decision-making with grade consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through five primary source responses distributed across the semester, three exams requiring analysis of primary sources and synthesis of course material, and a cumulative final exam essay 'which will require you to draw on material/knowledge from the entire course.' This demonstrates iterative analytical work across the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While the course has substantial assignments (exams and primary source responses), no single assignment constitutes a major paper, project, design, or performance. The primary source responses are short (250-400 words) and distributed, and exams are in-class assessments rather than extended projects."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The five primary source responses (25% of grade) collectively function as a portfolio of analytical work distributed across the three course units. Additionally, the cumulative final exam (25% of grade) includes 'a cumulative essay question which will require you to draw on material/knowledge from the entire course,' serving as a capstone-style integrative assessment."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of public-facing or applied outcomes. All assignments (exams and primary source responses) are submitted to the instructor/grader for academic evaluation rather than being presented to public audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "A majority of graded work requires critical analysis and original contribution: primary source responses (25%) require analysis and interpretation of historical sources; three exams (65% total) include 'primary source response and a few longer response questions' requiring critical analysis; and the final exam includes a cumulative essay. Together, these constitute sustained assessment requiring critical thinking throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course number HIST 30605 indicates an upper-division (300-level) course, not a lower-division introductory course. The content and learning outcomes demonstrate advanced analysis rather than foundational introduction to the discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers a broad historical period (17th-21st centuries), it focuses on advanced analysis of the relationship between technology and warfare rather than providing broad introductory coverage. Learning outcomes emphasize analytical skills, theoretical frameworks, and critical engagement with scholarship rather than survey-level coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course. It focuses on historical analysis, critical thinking, and theoretical frameworks rather than technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major intellectual deliverables: three exams (20%, 20%, 25%) and five primary source responses (25% total). The final exam with its cumulative essay and the distributed portfolio of primary source analyses constitute substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics and undergraduate research pillars through its integration of history, technology, and science with original analytical work on primary sources. It satisfies all rigor criteria (advanced content, sustained inquiry, independent work), all student agency criteria (student-defined selection, consequential decisions, extended commitment), and demonstrable evidence of learning through portfolio and sustained assessment. No exclusions apply. The course demonstrates clear alignment with Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "HIST30605_Spring2026_39SEJK.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "HIST 31305",
+      "course_title": "Medical Devices and Innovation",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from History (Humanities) and Engineering/Technology by examining medical devices from historical, cultural, and technological perspectives. The course analyzes 'the design of objects to understand cultural consequences of their use' and explores 'implications for emergent bioengineering and biotechnologies,' demonstrating integration of humanities methods (historical analysis) with technological/engineering content in ways that shape the research questions and outcomes."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The final project requires students to engage in original inquiry by either 'characterize and critically analyze a medical technology' or 'propose, illustrate, describe, and critically analyze a novel medical technology that you invent.' Students conduct primary and secondary source research, formulate their own questions, and produce original analysis through the Primary Source Analysis, Secondary Source Analysis, and Final Project assignments."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions through direct community partnerships or global engagement activities. While the course examines social and cultural implications of medical devices, it does not involve external community engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include explicit components for leadership development, decision-making practice in leadership contexts, or analysis of leadership frameworks. The course focuses on historical analysis and critical thinking rather than leadership capacity building."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course involves advanced historical and analytical content, requiring students to 'analyze the design of objects to understand cultural consequences,' 'understand how assumptions about health influence the practice of science,' and engage with scholarly sources from academic journals such as Technology and Culture, Bulletin of the History of Medicine, and Journal of the History of Medicine and Allied Sciences. The 300-level designation and sophisticated analytical methods indicate advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through a scaffolded research process: students complete a Primary Source Analysis (due February 10), Secondary Source Analysis (due April 2), and Final Project (due May 4). This structure requires students to develop and refine their investigation over multiple months."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through the Primary Source Analysis (20%), Secondary Source Analysis (20%), and Final Project (20%). Students must independently identify topics, locate and analyze primary and secondary sources, and produce original research culminating in an 8-10 minute recorded presentation."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have significant agency in defining their projects: 'Identify two distinct areas of interest for your final project,' 'Select a topic for your final project,' and choose between two final project options\u2014either analyzing an existing medical technology or inventing and analyzing a novel one. The course explicitly states 'This assignment is an opportunity for you to learn more about a topic that you are especially interested in.'"
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about their research trajectory by selecting areas of interest early in the term that shape their subsequent analytical work. The choice between analyzing an existing technology versus proposing a novel one carries intellectual consequences, as does the selection of primary and secondary sources that will inform their final analysis."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The three major assignments (Primary Source Analysis, Secondary Source Analysis, and Final Project) require extended analytical commitment across the semester. Students receive feedback through class workshops (Week 5 and Week 12), peer feedback on presentations (Week 15), and assistance sessions (Weeks 15-16), demonstrating an iterative review and response process."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Project constitutes 20% of the course grade and requires an 8-10 minute recorded presentation that demonstrates critical analysis of medical technology. Combined with the Primary Source Analysis (20%) and Secondary Source Analysis (20%), these scaffolded projects represent 60% of the final grade and constitute major intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The Final Project functions as a capstone-style artifact that integrates work across the term, building upon the Primary Source Analysis and Secondary Source Analysis. Students 'build on your skills from the course' and 'connect your topic to the larger themes in the history of medical devices and innovation that we cover in the assigned sources and in class.'"
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students present their final projects to classmates in Week 15, where they 'give a 2-3-minute presentation describing your final project to your classmates' and 'receive peer feedback.' This public-facing presentation requires academic judgment and communication to an audience."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: Quizzes (25%), Primary Source Analysis (20%), Secondary Source Analysis (20%), and Final Project (20%) all demand analytical engagement. Combined, these assessments requiring critical analysis, synthesis, or original contribution constitute 85% of the course grade."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course (HIST 31305), not a lower-division introductory course. The course number and content indicate it is an upper-division course requiring advanced analytical skills."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course surveys medical devices historically, it requires advanced analysis rather than broad coverage. Students must 'analyze the design of objects to understand cultural consequences,' engage with academic historical scholarship, and produce original research, indicating it goes beyond introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on historical analysis and critical thinking about medical technologies rather than skills-only or tool training. It requires reading academic sources, conducting research, and producing analytical arguments."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major intellectual deliverables: Primary Source Analysis (20%), Secondary Source Analysis (20%), and Final Project (20%). These are substantial assignments requiring research and original analysis."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets multiple pillars (interdisciplinary academics and undergraduate research), satisfies all rigor criteria (advanced content, sustained inquiry, and independent work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), demonstrates clear evidence of learning through multiple mechanisms (major project, portfolio/capstone, public-facing outcome, and sustained assessment), and triggers no exclusions. The course integrates history and technology/engineering in substantive ways, engages students in original research through scaffolded assignments, and requires significant independent analytical work culminating in a capstone presentation."
+      }
+    },
+    "_source_file": "HIST31305_Spring2026_1GW5BZ.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "HIST 33205",
+      "course_title": "The Nuclear Age",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2026"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Humanities (history), Natural Sciences (nuclear physics, fission research), and Social Sciences (international diplomacy, political science). Learning outcome 5 explicitly requires students to 'explain how social, historical, and technical knowledge informs and can shape global decisions,' demonstrating integration of historical, social, and technical frameworks. The course examines both technical aspects (nuclear energy, weapons development) and social dimensions (policy, ethics, global politics) in a way that requires combined analysis across domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The primary-source-based paper (Assignment 4) requires students to 'analyze archival documents from the Nuclear Age using historical methods' (Learning Outcome 3) and work with the Wilson Center online document collection. This involves formulation of questions, analysis of original evidence, and production of findings based on primary source investigation, extending beyond established answers through historical research methods."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course description explicitly addresses global issues ('world politics,' 'global scales,' 'proliferation pressures and climate change') and Learning Outcome 5 focuses on how knowledge 'can shape global decisions.' Course content includes international diplomacy, nonproliferation, disarmament efforts, and materials on Indigenous communities affected by nuclear weapons (Weber podcast). However, there is no evidence of sustained engagement with external communities or structured reflection activities beyond academic analysis."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course examines decision-making by historical policymakers and institutions, there is no evidence that students engage in intentional practice of leadership, take responsibility for outcomes, or reflect on their own capacity to lead. The course does not include structured opportunities for students to develop or practice leadership skills or analyze leadership frameworks applicable to their own contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content such as nuclear deterrence theory, strategic nuclear war concepts, and complex policy frameworks. Readings include advanced scholarly works (e.g., Jervis's 'The Meaning of the Nuclear Revolution,' scholarly articles from International Security and Journal of Strategic Studies) that demonstrate upper-level analytical and theoretical sophistication appropriate for a 300-level course."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through multiple analytical assignments across the term, including three major exams, a primary-source-based research paper requiring archival document analysis, and a response paper. The progression from quiz to exams to research paper demonstrates sustained engagement with complex historical questions throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The primary-source-based paper (1,200-1,400 words) and response paper (800-900 words) require significant independent intellectual work, including analysis of archival documents using historical methods and synthesis of complex material from a documentary film. These assignments demand substantial independent research, analysis, and written argumentation."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While students write papers, there is no evidence that they define their own research questions or shape project parameters. The primary-source paper uses a pre-specified document collection ('U.S. Secret Assistance to the French Nuclear Program') and focuses on a predetermined topic (nonproliferation), suggesting prescribed rather than student-defined inquiry."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The assignments require analysis and interpretation of historical materials but do not involve student decision-making with intellectual or ethical consequences beyond standard academic work. Students respond to set questions and topics rather than making choices that shape the direction or ethical dimensions of their work."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The primary-source-based paper requiring archival document analysis using historical methods demonstrates extended analytical commitment. Learning Outcome 3 specifies students must 'analyze archival documents from the Nuclear Age using historical methods,' and the 1,200-1,400 word length suggests substantial analytical engagement, though there is no explicit evidence of iterative review/response cycles."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The primary-source-based paper on nonproliferation constitutes 15% of the final grade, representing a major assignment. Additionally, the final exam at 20% and three other exams at 15% each demonstrate substantial assessment of learning, with multiple significant deliverables requiring historical analysis and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. Assignments are discrete rather than cumulative or integrative."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All assignments appear to be traditional academic submissions (exams, papers) without any public-facing or applied outcomes requiring presentation of work beyond the instructor."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: three exams (15% each), a quiz (10%), primary-source research paper (15%), response paper (10%), and final exam (20%) total 100% of the grade. Learning outcomes emphasize analysis, interpretation, and evaluation of competing explanations, indicating that assessments demand more than recall or basic comprehension."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is an upper-division course (HIST 33205, 300-level) focused on advanced historical analysis rather than foundational concepts. The course number and content indicate it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course surveys the Nuclear Age chronologically, it emphasizes advanced analysis of competing explanations (Learning Outcome 2), archival document analysis (Learning Outcome 3), and complex policy frameworks rather than broad introductory coverage. The extensive scholarly reading list demonstrates depth over breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training. It centers on historical analysis, interpretation, and understanding of complex policy and strategic issues within their historical context."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: a primary-source-based research paper (15%), three exams (15% each), and a final exam (20%), all requiring substantial analytical work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three of four pillars (interdisciplinary academics, undergraduate research, and community/global engagement). It satisfies all rigor criteria (advanced content, sustained inquiry, independent work). It meets the student agency requirement through extended analytical commitment. It demonstrates learning through both a major project (research paper and exams) and sustained assessment structure. No exclusions apply. The course clearly meets Honors standards through its integration of historical, technical, and social science perspectives; its emphasis on primary source research; and its focus on global nuclear policy issues."
+      }
+    },
+    "_source_file": "HIST33205_Spring2026_KEH9BJ.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "HIST 33805",
+      "course_title": "History of Human Rights",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (History) with Social Sciences (political science, international relations) and Law. It examines human rights through historical analysis while also addressing legal frameworks (Universal Declaration of Human Rights, international law), political institutions (interwar institutionalization, postwar shift), and policy-making (mass atrocity prevention, international community responses). The case study project explicitly connects historical analysis with contemporary policy and institutional responses to mass atrocities, demonstrating integration across domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course engages students in original inquiry through the case study project, where students examine specific mass atrocity cases (Somalia, Bosnia, Rwanda, Kosovo, etc.) to analyze how the international community has confronted these situations. Students must analyze evidence and produce original findings about precedents for policy making. Additionally, students use primary and secondary sources to 'analyze fundamental problems in human rights history' (Course Objective 3)."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses global issues through sustained examination of international human rights institutions, globalization, and mass atrocity prevention. The case study project connects students to real-world contexts by examining international community responses to mass atrocities. Course Objective 5 states students will 'become better prepared to negotiate the variable applications of human rights concepts in today's globalized world,' and the course includes structured reflection on ethical dimensions through analysis of human rights frameworks."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course addresses ethical frameworks and decision-making by the international community, there is no evidence that students themselves engage in intentional practice of leadership, take responsibility for decisions with consequences, or reflect on their own leadership capacity. The analysis is observational rather than experiential."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is a 300-level history course that explores advanced theoretical concepts including the genealogy of human rights, competing epistemic frameworks (Enlightenment philosophy, international law, genocide studies), and complex analytical questions about the evolution and contestation of rights discourse from the 18th through 20th centuries."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires sustained inquiry across the semester through reading questions (minimum 12 completed over the term), four short essays on different sections of the course, and a case study project that connects examination of postwar human rights instruments with contemporary mass atrocity prevention."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through four short essays (45% of grade) written in class based on students' own notes and analysis. The case study project includes both collaborative work (group meetings to complete one slide worth 10 points) and substantial individual work (the remaining 90 points of the 100-point project)."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "Students are randomly assigned case studies rather than choosing their own topics or defining their own research questions. The essays respond to instructor-provided prompts, and reading questions are based on pre-determined questions on a Google doc."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The four in-class essays (45% of grade) require students to make consequential analytical decisions using only their handwritten notes and outline, meaning their preparation choices and analytical judgments directly shape their performance. Students must independently determine which evidence to cite and how to construct arguments under time constraints."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through sustained engagement with readings (20% of grade), in-class writing exercises and activities (20%), four analytical essays across the semester (45%), and a case study project (15%). The reading questions, short assignments, and essays build analytical skills progressively throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The four short essays collectively constitute 45% of the course grade, representing a major portion of assessment. Each essay requires thoughtful analytical response to course content, demonstrating synthesis and critical analysis of human rights history."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the case study project integrates work on human rights instruments with mass atrocity prevention, it is only 15% of the grade and does not integrate work across the full term in a portfolio or capstone format."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence that any course assignments produce public-facing or applied outcomes. The case study slides and essays appear to be for instructor evaluation only."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has a sustained assessment structure where the majority of graded work (85% - reading questions 20%, short written assignments 20%, four essays 45%) requires critical analysis, synthesis, or original contribution rather than recall or basic comprehension."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers a broad historical span, it focuses on advanced analysis of contested concepts and uneven evolution rather than basic coverage. The course objectives emphasize analysis of fundamental problems, not introductory overview."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on historical analysis and conceptual understanding of human rights, not skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major deliverables: four analytical essays (45% of grade) and a case study project (15% of grade)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three of four pillars (interdisciplinary academics, undergraduate research, and community and global engagement), satisfies all rigor criteria (advanced content, sustained inquiry, independent/collaborative work), meets student agency requirements (consequential decision-making and extended analytical commitment), demonstrates evidence of learning through major essays and sustained assessment, and triggers no exclusions."
+      }
+    },
+    "_source_file": "HIST33805_Spring2026_93XVJ8.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "38400",
+      "course_title": "History of Aviation",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Natural/Exact Sciences and Engineering (aviation technology, aeronautics, design advances), Humanities (literature, art, film, propaganda, historical analysis), Social Sciences (politics, governance, culture), and Business/Economics (business applications). The syllabus explicitly states the course examines 'applications and impacts of aviation in everyday life and culture; in politics and governance; in business and economics; and in the making of modern war,' demonstrating integration across domains rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students engage with historical evidence and write essays, there is no indication that students formulate original research questions, conduct investigation beyond established historical narratives, or produce original findings. The course focuses on learning and discussing existing historical knowledge rather than creating new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "Although the course takes a global comparative approach examining Europe, the Americas, Africa, and Asia, there is no evidence of sustained engagement with external communities, organizations, or structured reflection on ethical/social dimensions through real-world engagement. The global scope is academic and historical rather than experiential."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course addresses moral implications of aerial weapons and requires students to 'define and weigh the human costs,' there is no evidence of intentional leadership development through decision-making practice, responsibility-taking, or systematic analysis of leadership frameworks. The ethical analysis is content-focused rather than leadership-focused."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced analytical content requiring students to compare national contexts, evaluate innovation across cultures, analyze the relationship between technological development and war, and assess moral implications. Students must 'describe and evaluate how innovation happens across cultures' and 'define and weigh the human costs and moral implications of aerial weapons,' indicating advanced critical analysis."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across three distinct parts spanning the entire term, with students building progressively on 'evidence and skill sets they have achieved so far.' Each section requires students to analyze patterns, evaluate evidence, and develop interpretations through ongoing writing and examination across the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through three in-class essays and three examinations that together constitute 100% of the grade. Students must 'develop listening and writing skills through in-class interactions and writing' and 'apply all advice on your graded written work to improve your knowledge and skills,' indicating substantial independent analytical work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments appear to be instructor-defined (3 in-class essays and 3 in-class examinations). There is no evidence that students define their own research questions, shape project directions, or have choice in topics of inquiry."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students are explicitly challenged to 'define and weigh the human costs and moral implications of aerial weapons' and must 'distinguish between the research and development advances for both peace and war, creation and destruction,' requiring them to make analytical judgments with ethical consequences about complex historical and technological issues."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course structure requires extended analytical commitment as students 'build upon the evidence and skill sets they have achieved so far' across three course sections, and must 'apply all advice on your graded written work to improve your knowledge and skills,' indicating iterative development and response to feedback across multiple assignments throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While the course includes essays, these are in-class assignments rather than major sustained projects. The grading consists of six equally-weighted assignments (3 essays, 3 exams), with no single assignment constituting a major project that represents significant sustained intellectual work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone artifact that integrates work across the term. The six assignments appear to be discrete assessments rather than components of an integrated portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All assessments are in-class essays and examinations with no indication of public presentation, publication, or application of findings to external audiences. The work remains within the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure consists entirely of essays and examinations that require critical analysis throughout the term. Students must 'assess the evidence and interpretations,' 'describe and evaluate how innovation happens across cultures,' and 'define and weigh the human costs and moral implications,' indicating that all graded work requires analytical thinking rather than memorization or basic comprehension."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course number (384) indicates an upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers a broad historical scope, it requires advanced analytical work including comparative analysis, evaluation of innovation processes, and ethical assessment of technology. The syllabus emphasizes analytical skills and moral reasoning rather than merely introducing historical coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is content- and analysis-focused on the history of aviation and its cultural, political, economic, and military implications. It is not a skills-only or tool-training course."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes substantial intellectual deliverables: three in-class essays and three in-class examinations that together constitute all graded work and require sustained analytical engagement with course material."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through integration of engineering/technology, humanities, social sciences, and business/economics domains. It satisfies all three rigor criteria (advanced content, sustained inquiry, independent work), two of three student agency criteria (consequential decision-making, extended analytical commitment), and demonstrates learning through sustained assessment requiring critical analysis throughout the term. No exclusions apply."
+      }
+    },
+    "_source_file": "HIST38400_Fall2025_8K3SAQ.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "HIST 38700",
+      "course_title": "History of the Space Age",
+      "department": "HIST",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Humanities (history) with Natural and Exact Sciences and Engineering and Technology. It examines 'scientific-technological designs,' 'research and development advances in astronautics,' systems management, computer technologies, and climate data modeling, while analyzing these through historical, cultural, political, and ethical lenses. The reading from Edwards on 'Computer Models, Climate Data, and the Politics of Global Warming' and Johnson on 'Systems Management' demonstrate methodological integration across domains, not just sequential coverage."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While students analyze historical evidence and interpretations, the syllabus does not indicate that they formulate original research questions, conduct independent investigations, or produce original findings that extend beyond established answers. The assignments are in-class essays and examinations based on course materials."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not describe sustained engagement with communities, organizations, or structured partnerships with external stakeholders. While global issues are discussed (Cold War space competition, international space stations), there is no evidence of direct community engagement or structured reflection on engagement activities."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Although the course addresses ethical dimensions of cybernetics and transhumanism and 'moral implications' of rockets, there is no evidence of intentional leadership development through decision-making practice, responsibility-taking exercises, or structured analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical content including systems management theory (Johnson reading), complex socio-technical analysis of computer models and climate data (Edwards reading), and sophisticated historical analysis of the Nazi rocket program and concentration camp labor (Neufeld reading). The integration of ethical dimensions of transhumanism and cybernetics represents advanced analytical frameworks."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course structure involves sustained inquiry across three parts of the semester, with students building progressively on 'evidence and skill sets they have achieved so far' (Part II) and recognizing 'patterns and deviations in these terms from across the semester' (Part III), demonstrating iterative analysis throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus describes only in-class essays and examinations with no evidence of significant independent projects, collaborative work outside of class, or extended research assignments that would require substantial autonomous intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments are in-class essays and examinations based on course materials. There is no evidence that students define their own projects, shape research questions, or have choice in topics or approaches."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students 'define and weigh the human costs and moral implications' and 'appraise...ethical dimensions,' these are analytical exercises rather than decision-making with intellectual or ethical consequences beyond the classroom context."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through iterative skill development across three parts, with explicit instruction to 'apply all advice on your graded written work to improve your knowledge and skills, and your final grade,' indicating structured feedback and revision processes throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. Grading is based on the average of 6 handwritten in-class assignments (3 essays and 3 examinations), none of which appears to constitute a major capstone-style deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no mention of a portfolio or capstone artifact that integrates work across the term. The graded work consists of discrete in-class essays and examinations."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "All assignments are in-class essays and examinations with no indication of public-facing outcomes, presentations, or applied work requiring academic judgment beyond the classroom."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The entire grade is based on 6 handwritten assignments (3 essays and 3 examinations) that 'require materials and insights from the classroom experience' and ask students to 'Read the sources carefully and critically. Write with precision and power.' The course structure across three parts demonstrates that the majority of graded work requires critical analysis, evaluation of evidence, and synthesis of complex historical and technological concepts."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is HIST 387, a 300-level upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course surveys the history of the Space Age, it emphasizes advanced analysis including 'moral implications,' 'ethical dimensions,' systems management theory, and sophisticated socio-technical analysis rather than broad coverage alone. The progressive skill development and pattern recognition across three parts indicates analytical depth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused on skills or tool training but on historical analysis, critical evaluation of evidence, and understanding complex socio-technical relationships."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While there is no single major deliverable, the course includes 6 substantial handwritten assignments (essays and examinations) that together constitute significant intellectual work requiring sustained analytical engagement."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through integration of history with science, technology, and ethics. It satisfies rigor requirements through advanced content (systems management theory, ethical frameworks) and sustained inquiry across three progressive parts. It meets student agency requirements through extended analytical commitment with iterative feedback. It demonstrates learning through sustained assessment with 6 analytical assignments requiring critical analysis and synthesis. No exclusions apply."
+      }
+    },
+    "_source_file": "HIST38700_Summer2026_RIKYM1.pdf"
+  }
+]

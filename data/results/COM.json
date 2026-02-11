@@ -1,0 +1,308 @@
+[
+  {
+    "course_information": {
+      "course_number": "COM 22400",
+      "course_title": "Communicating in the Global Workplace",
+      "department": "COM",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on communication theory and intercultural communication within workplaces. While it addresses organizational contexts and cultural diversity, it remains within the social sciences domain (communication, sociology, organizational behavior) without integrating distinct high-level knowledge domains such as engineering, natural sciences, humanities, or business in a way that materially shapes research questions or analytical frameworks."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The Individual Project requires students to 'critically analyze how cultural identities and diversities are reflected in aspects of intercultural communication and encounters' and to 'incorporate research on theories and study findings beyond the class materials,' demonstrating original inquiry and analysis that extends beyond established course content."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses global workplace contexts, globalization, cultural encounters across diverse societies, and includes learning objectives focused on 'interacting in culturally diverse groups and organizations and promoting inclusion.' The Group Project involves developing organizational case studies or training activities that address real workplace phenomena with cultural dimensions, connecting academic learning to real-world contexts with ethical and social reflection."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Learning Objective 5 states students will 'develop and apply practical approaches and skills for interacting in culturally diverse groups and organizations and promoting inclusion.' The Group Project requires students to facilitate class sessions and develop training activities, demonstrating decision-making and responsibility. The course also addresses 'conflict management, negotiation, and institutional diversity practices,' developing leadership capacity through ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical frameworks such as social identity theory, acculturation models, cultural dimensions theory, and cultural intelligence. The syllabus references multiple theoretical perspectives and requires students to 'explain and critically evaluate theoretical concepts and frameworks' (Learning Objective 3), indicating advanced analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Both the Individual Project and Group Project require sustained inquiry across multiple weeks. The Individual Project involves research 'beyond the class materials to better contextualize the impact of diversity,' while the Group Project requires developing case studies or training activities with 'depth of supporting research from existing literature,' both extending across substantial portions of the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through the Individual Project (worth 90 points with presentation and research components) and collaborative work through the Group Project (90 points, requiring coordination 'outside of class time' among 4-5 members), both involving substantial intellectual engagement."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The Individual Project allows students to select 'specific intercultural encounters you observe' for analysis. The Group Project permits groups to 'form based on the topic you prefer to focus on' and choose between developing 'either an organizational case study or a training activity,' demonstrating student choice in defining project focus and approach."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The Group Project requires groups to 'facilitate a portion of the class session using their case study or activity,' making pedagogical decisions with consequences for peer learning. Projects are assessed on 'clarity of objectives and learning outcomes,' requiring students to make intellectually consequential choices about content design and delivery."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The Individual Project requires 'critical analysis' tied to theoretical frameworks and integration of additional research, with both written and presentation components. The Group Project requires developing case studies or training activities with 'depth of supporting research' and assessment of 'integration of relevant concepts and theories,' demonstrating extended analytical work."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Individual Project (90 points, 18% of grade) and Group Project (90 points, 18% of grade) together constitute 36% of the course grade. Each requires substantial work including research, analysis, written components, and presentations, meeting the threshold for major intellectual deliverables."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. While there are multiple assignments, they are discrete rather than integrated into a cumulative portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Both projects require public presentations to the class. The Group Project explicitly involves 'facilitating a portion of the class session' with training activities or case studies that peers engage with, creating a public-facing pedagogical outcome requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: reflection assignments (100 points) ask for 'critical assessment' of materials; exams (180 points total) assess 'ability to analyze evidence' and application of knowledge; and both projects (180 points total) require critical analysis and research. Together, these constitute well over 50% of the 500 total points."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "COM 22400 is a 200-level course, which is typically lower-division. The course description indicates it introduces foundational concepts in intercultural communication ('Introduction to culture,' 'Introduction to the course' in Week 1) and covers broad topics within the discipline rather than advanced specialized analysis."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course syllabus shows broad topical coverage of intercultural communication fundamentals: culture, globalization, perception, stereotypes, prejudice, acculturation, cultural dimensions, verbal/nonverbal communication, conflict, and negotiation. This breadth suggests an introductory survey approach rather than deep specialized focus."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course develops communication skills, it is grounded in theoretical frameworks and critical analysis rather than being purely skills-based. Learning objectives emphasize understanding theories, critical evaluation, and analytical application alongside skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes two major deliverables: an Individual Project (90 points with presentation and research) and a Group Project (90 points with report, presentation, and facilitation), both requiring substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets multiple pillars (undergraduate research, community and global engagement, leadership development) and satisfies rigor, student agency, and demonstrable evidence requirements, it triggers two critical exclusions: it is a lower-division (200-level) course designed to introduce foundational concepts in intercultural communication, and it provides broad introductory coverage of the field rather than advanced specialized analysis. These exclusions disqualify the course from Honors credit eligibility."
+      }
+    },
+    "_source_file": "COM22400_Spring2026_77VV1I.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "COM 25100",
+      "course_title": "Communication, Information, and Society",
+      "department": "COM",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "While the course examines communication technologies and their social impacts, it remains within the communication/media studies domain. There is no clear evidence of integration with distinct high-level domains such as engineering, natural sciences, or humanities that would constitute cross-domain interdisciplinarity."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes a final project involving a proposal, written report, and presentation, but provides no evidence that students engage in original inquiry, formulate research questions, or produce findings that extend beyond established answers. The course appears focused on analysis of existing technologies rather than knowledge creation."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues. There is no mention of service learning, community partnerships, or structured reflection on ethical/social dimensions of external engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development, ethical decision-making frameworks, or structured reflection on leadership capacity. The participation and presentation components do not explicitly address leadership skills."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is explicitly described as 'an introduction to information and communication technologies' with a focus on 'fundamental concepts.' This language indicates introductory-level content rather than advanced theoretical or methodological material."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The final project (175 points total, 35% of grade) involves a multi-stage process including a proposal, written report, and presentation, suggesting sustained inquiry and problem-solving across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The final project components (proposal, written report, presentation totaling 175 points) represent significant independent intellectual work requiring analysis and application of course concepts."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While a final project is required, the syllabus provides no evidence that students define their own research questions or shape the project direction. The project parameters are not described."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of decision-making with intellectual or ethical consequences. The course activities described focus on analysis and technical literacy rather than consequential choices."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "While the final project has multiple components, there is no evidence of iterative review/response processes or extended analytical commitment requiring revision based on feedback."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final project (175 points, 35% of course grade) constitutes a major deliverable with proposal, written report, and presentation components."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course does not include a portfolio or capstone-style artifact integrating work across the term. The final project appears to be a standalone assignment."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the final project includes a presentation, there is no evidence this is public-facing or involves applied outcomes requiring academic judgment beyond the classroom."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The grade distribution shows exams (40%), final project (35%), course reflections (10%), participation (12%), and quiz (3%). The majority of graded work appears to be exams and discrete assignments rather than sustained critical analysis or synthesis."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "COM 251 is a 200-level course explicitly described as 'an introduction to information and communication technologies' that 'discusses fundamental concepts of mediated communication,' indicating it is a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course aims to 'equip students with basic technical literacy skills' and covers 'fundamental concepts' across multiple technology types (social media, AI, extended reality), suggesting broad introductory coverage rather than deep analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes technical literacy components, it also addresses theoretical concepts, critical thinking about technologies, and societal implications, going beyond pure skills training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a final project worth 175 points (35% of grade) with multiple components, demonstrating a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course is a lower-division introductory course (COM 251) focused on fundamental concepts and broad coverage of communication technologies. It meets exclusion criteria for both lower_division_introductory and broad_introductory_coverage. Additionally, it does not meet any of the four pillars of the Honors curriculum, and while it satisfies some rigor criteria (sustained_inquiry, independent_work), it fails to meet student agency requirements and does not demonstrate sufficient evidence of advanced learning for Honors designation."
+      }
+    },
+    "_source_file": "COM25100_Fall2025_TCHUEV.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "COM 41500",
+      "course_title": "Discussion of Technical Problems",
+      "department": "COM",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The syllabus focuses on communication skills for technical problems but does not demonstrate integration of knowledge, methods, or frameworks from two or more distinct high-level knowledge domains. The course remains within the Communication domain."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While the course includes a Final Project with a 'Problem Solving Paper' and product development, there is no clear evidence that students engage in inquiry extending beyond established answers or produce original research findings. The emphasis is on practicing skills rather than generating new knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not mention engagement with communities, organizations, or global issues, nor does it include structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course explicitly addresses 'various styles of leadership and team structure' and develops students' capacity for 'decision-making' and 'task management' through group work and deliberations. Students practice leadership through team collaboration and are evaluated on group tasks and deliberations."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced content including 'facilitating and deliberating complex topics,' 'creativity in problem solving,' and professional presentations. The Final Project requires both a product and a problem-solving paper, demonstrating analytical depth."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through multiple group projects (Presentation 1, Presentation 2, Final Project with product and paper), blog posts across the term, and deliberations, all requiring problem-solving and analysis over time."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both significant collaborative work (group presentations, tasks, deliberations, final project) and independent work (individual blog posts, reflection paper, summaries), with these components constituting major portions of the grade."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While the course includes projects and group work, there is no clear evidence that students define their own projects or research questions. The syllabus does not specify student choice in project topics or directions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students engage in consequential decision-making through group deliberations (100 points), group tasks requiring collaboration decisions, and team structure choices. The course emphasizes 'decision-making' and 'problem solving in groups and the workplace.'"
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through the Final Project (product and problem-solving paper), multiple blog posts across the term, reflection paper, and nine group summaries, all requiring iterative development and analysis."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Project, consisting of both a Product (100 points) and a Problem Solving Paper (50 points), represents nearly 19% of the course grade and constitutes a major intellectual deliverable requiring sustained work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course does not include a portfolio or capstone-style artifact that integrates work across the entire term. While there are multiple assignments, they are not structured as a cumulative portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not specify that any outcomes are public-facing or presented to audiences beyond the classroom. Presentations appear to be for the class audience only."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and original contribution: reflection paper, blog posts (4), problem-solving paper, group deliberations, and group summaries (9), all demanding analytical thinking beyond memorization or simple application."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "COM 415 is a 400-level course, indicating upper-division status rather than lower-division introductory coursework."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on broad introductory coverage but rather on advanced application of communication skills in technical problem-solving contexts, including deliberation, creativity, and professional presentation."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course teaches presentation and collaboration skills, it includes substantial intellectual work through problem-solving papers, deliberations, reflections, and blog posts that require critical analysis beyond skill training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable: the Final Project consisting of both a Product (100 points) and a Problem Solving Paper (50 points), representing nearly 19% of the total grade."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the leadership development pillar through explicit focus on leadership styles, team structure, and decision-making. It satisfies all three rigor criteria (advanced content, sustained inquiry, independent/collaborative work), two student agency criteria (consequential decision-making, extended analytical commitment), and two demonstrable evidence criteria (major project, sustained assessment). No exclusions apply."
+      }
+    },
+    "_source_file": "COM41500_Spring2026_OOS8PN.pdf"
+  }
+]
