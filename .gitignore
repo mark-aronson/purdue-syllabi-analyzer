@@ -16,3 +16,6 @@ __pycache__/
 
 # Environment
 .env
+
+# Ignore enrollment directory 
+enrollment/ 

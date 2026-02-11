@@ -18,6 +18,7 @@ PROMPT_PATH = Path(__file__).parent / "prompt.txt"
 SYLLABI_DIR = Path(__file__).parents[2] / "syllabi"
 RESULTS_DIR = Path(__file__).parents[2] / "data" / "results"
 PROGRAMS_FILE = Path(__file__).parents[2] / "data" / "programs.json"
+EXCLUDED_COURSES_FILE = Path(__file__).parents[2] / "data" / "excluded_courses.json"
 
 
 def load_system_prompt() -> str:
@@ -190,6 +191,12 @@ def find_missing_syllabi(program_name: str) -> list[str] | None:
 
     courses = programs[program_name]
 
+    # Load excluded courses (unavailable from data source)
+    excluded: set[str] = set()
+    if EXCLUDED_COURSES_FILE.exists():
+        excluded = {c.replace(" ", "").upper()
+                    for c in json.loads(EXCLUDED_COURSES_FILE.read_text(encoding="utf-8"))}
+
     # Collect all course codes present in the syllabi directory
     syllabi_codes = {
         f.stem.split("_")[0].upper()
@@ -197,11 +204,15 @@ def find_missing_syllabi(program_name: str) -> list[str] | None:
         if f.suffix.lower() in SUPPORTED_EXTENSIONS
     }
 
-    missing = [c for c in courses if _normalize_course_code(c) not in syllabi_codes]
+    excluded_in_program = [c for c in courses if _normalize_course_code(c) in excluded]
+    missing = [c for c in courses
+               if _normalize_course_code(c) not in syllabi_codes
+               and _normalize_course_code(c) not in excluded]
     missing.sort()
 
+    found = len(courses) - len(missing) - len(excluded_in_program)
     print(f"Program '{program_name}': {len(courses)} courses, "
-          f"{len(courses) - len(missing)} found, {len(missing)} missing")
+          f"{found} found, {len(missing)} missing, {len(excluded_in_program)} excluded")
     if missing:
         for c in missing:
             print(f"  {c}")
@@ -214,9 +225,11 @@ def find_missing_syllabi(program_name: str) -> list[str] | None:
     output = {
         "program": program_name,
         "total_courses": len(courses),
-        "found": len(courses) - len(missing),
+        "found": found,
         "missing_count": len(missing),
         "missing_courses": missing,
+        "excluded_count": len(excluded_in_program),
+        "excluded_courses": sorted(excluded_in_program),
     }
     output_path.write_text(json.dumps(output, indent=2), encoding="utf-8")
     print(f"Results saved to {output_path}")
