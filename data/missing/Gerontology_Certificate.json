@@ -1,0 +1,30 @@
+{
+  "program": "Gerontology Certificate",
+  "total_courses": 23,
+  "found": 4,
+  "missing_count": 18,
+  "missing_courses": [
+    "ANTH 10000",
+    "ANTH 33600",
+    "COM 37800",
+    "HDFS 21000",
+    "HDFS 31200",
+    "HK 25300",
+    "HK 44400",
+    "HK 46900",
+    "NUR 22201",
+    "NUTR 30300",
+    "NUTR 31500",
+    "NUTR 36500",
+    "PSY 36700",
+    "SLHS 11500",
+    "SLHS 30200",
+    "SLHS 30300",
+    "SLHS 43000",
+    "SLHS 46000"
+  ],
+  "excluded_count": 1,
+  "excluded_courses": [
+    "SOC 46100"
+  ]
+}

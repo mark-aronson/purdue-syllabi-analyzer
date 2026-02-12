@@ -1,21 +1,14 @@
 {
   "program": "Public Policy Certificate",
   "total_courses": 32,
-  "found": 19,
-  "missing_count": 13,
+  "found": 28,
+  "missing_count": 4,
   "missing_courses": [
-    "AGEC 21700",
-    "AGEC 25000",
-    "AGEC 40600",
-    "AGEC 41000",
-    "AGEC 45000",
-    "AGEC 52500",
-    "ECON 36100",
-    "HDFS 59000",
-    "POL 32300",
     "POL 52300",
     "POL 52400",
     "POL 53100",
     "POL 53200"
-  ]
+  ],
+  "excluded_count": 0,
+  "excluded_courses": []
 }

@@ -1,9 +1,11 @@
 {
   "program": "Cornerstone Certificate",
   "total_courses": 105,
-  "found": 73,
-  "missing_count": 32,
-  "missing_courses": [
+  "found": 74,
+  "missing_count": 0,
+  "missing_courses": [],
+  "excluded_count": 31,
+  "excluded_courses": [
     "ANTH 20300",
     "ANTH 31000",
     "ANTH 32700",
@@ -27,7 +29,6 @@
     "PHIL 32200",
     "PHIL 35000",
     "PHIL 42100",
-    "POL 32300",
     "SCLA 20000",
     "SOC 32600",
     "SOC 33400",
