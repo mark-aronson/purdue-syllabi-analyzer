@@ -1120,5 +1120,107 @@
       }
     },
     "_source_file": "ANTH34600_Fall2025_56DX0U.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ANTH 37900",
+      "course_title": "Native American Cultures",
+      "department": "ANTH",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from Social Sciences (anthropology) with Humanities (through Robin Wall Kimmerer's 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants') and Natural Sciences (scientific knowledge of plants). The course explicitly combines indigenous wisdom, scientific knowledge, and cultural analysis in ways that shape the learning outcomes, particularly in assessing 'the role of Native American studies in the development of the discipline of Anthropology.'"
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course engages students in inquiry through Deep Dive Book Essays (4 essays worth 32% of grade) that require students to formulate questions and produce original analysis. The Packback platform requires students to post 'open-ended Questions' weekly and respond with analysis, creating ongoing inquiry and knowledge production beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course connects academic learning to real-world contexts through contemporary Native American issues (Learning Outcome 3) and the ongoing relationship between U.S. government and tribal entities (Learning Outcome 4). The course emphasizes 'how what we are studying relates to life and the real world' through Packback discussions, and structured reflection is built into weekly Q&A requiring students to connect course material to contemporary issues."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional leadership development, decision-making practice with responsibility for outcomes, or analysis of leadership frameworks. While students make intellectual decisions in their work, there is no structured focus on developing leadership capacity in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content in anthropology, including analysis of 'the role of Native American studies in the development of the discipline of Anthropology' (Learning Outcome 5) and the complex relationship between U.S. government and tribal entities. The required texts include scholarly works addressing indigenous epistemology and federal-tribal relations at an advanced level."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through weekly Packback Q&A discussions (12 weeks, 12% of grade), four Deep Dive Book Essays distributed across the semester (32% of grade), and ongoing film/podcast analysis. Students engage in continuous questioning, analysis, and response throughout the 14-week period."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through Deep Dive Book Essays (160 points, 32% of grade), weekly independent question formulation and responses on Packback (12% of grade), and film/podcast analysis. Students must independently read, evaluate, and produce original written analysis throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students define their own questions weekly through Packback, where they must post 'open-ended Questions' that they formulate themselves (worth 3 points each week). The platform explicitly encourages students to 'ask questions about how what we are studying relates to life and the real world,' giving students agency to shape their inquiry."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential intellectual decisions in formulating weekly questions and choosing which peer questions to respond to on Packback. The Deep Dive Book Essays (40 points each) require students to make analytical choices with significant grade consequences. The Curiosity Score requirement means students must make decisions about depth and quality of analysis."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through four Deep Dive Book Essays distributed across the semester, sustained weekly Q&A engagement over 12 weeks, and iterative feedback through Packback's moderation system. The syllabus notes that 'It takes 24 hours for the Packback team to moderate a post and send a coaching email' and students 'must edit and re-publish by the deadline,' creating an iterative review/response structure."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Deep Dive Book Essays collectively constitute 32% of the course grade (4 essays \u00d7 40 points each = 160 points of 500 total). These essays require sustained analytical work on course texts and represent major intellectual deliverables demonstrating student learning."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the syllabus mentions that 'Anthropology Majors' should 'keep electronic copies of your papers and projects for online submission of your anthropology portfolio during your final semester,' this portfolio is not part of this course's requirements or assessment structure."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The Packback platform creates public-facing outcomes where students post questions and responses visible to the entire class community. Students must respond to peers' questions, creating a shared intellectual space requiring academic judgment in public discourse."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and original contribution: Deep Dive Essays (32%), weekly Q&A requiring original questions and analytical responses (12%), and film/podcast analysis (16%). Combined, these analytical assessments constitute 60% of the grade, with sustained engagement throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is numbered 379, which is upper-division, but the catalog description states it is a 'General survey of Native American cultures' with 'no pre-requisites,' and the learning outcomes focus on foundational knowledge ('Differentiate Native American cultures,' 'Describe the arrival of the first people'). This is an introductory survey course despite its 300-level number."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The catalog description explicitly describes this as a 'General survey of Native American cultures' covering broad topics including 'history; languages; economic, social, and political organization; religion; aesthetics; culture contact and change; and contemporary Native American issues.' This is survey-style coverage rather than focused advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course. It focuses on cultural knowledge, historical context, and analytical understanding of Native American cultures, not on training in specific technical skills or tools."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major intellectual deliverables: four Deep Dive Book Essays (32% of grade) and sustained analytical work through Packback Q&A. These constitute significant academic work demonstrating learning."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets three pillars (interdisciplinary academics, undergraduate research, and community/global engagement) and satisfies rigor, student agency, and demonstrable evidence requirements, it triggers two critical exclusions: it is explicitly described as a 'General survey' course with 'no pre-requisites' (lower_division_introductory) and provides 'broad introductory coverage' across multiple topics rather than advanced analysis (broad_introductory_coverage). Despite being numbered at the 300-level, the course functions as an introductory survey, which disqualifies it from Honors credit approval."
+      }
+    },
+    "_source_file": "ANTH37900_Fall2025_CKOL4B.pdf"
   }
 ]

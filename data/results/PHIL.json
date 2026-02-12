@@ -920,5 +920,107 @@
       }
     },
     "_source_file": "PHIL42400_Fall2025_QGRAEH.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "PHIL 11400",
+      "course_title": "Global Moral Issues",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on ethical issues from a philosophical perspective without demonstrating integration of methods, theories, or epistemic frameworks from another high-level domain. While it addresses global issues (poverty, climate change, immigration, warfare), these are examined through philosophical analysis rather than genuine cross-domain integration with Social Sciences, Natural Sciences, or other domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The Flash Talks require students to apply philosophical theories to contemporary issues, but this is application of existing theories rather than formulation of original research questions, analysis of new evidence, or production of original findings that extend beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global issues (global poverty, climate change, immigration, warfare), there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions through direct engagement. The course examines these topics academically without community-based learning components."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course develops ethical reasoning skills but does not include intentional practice in decision-making, responsibility-taking, or influencing outcomes in academic, professional, or civic contexts. The Flash Talks involve presenting arguments but do not constitute leadership development through structured reflection and analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "As PHIL 114, this is a lower-division introductory course introducing 'various ethical issues' with units covering foundational topics. The syllabus does not indicate advanced theoretical, analytical, or methodological content beyond what is expected in an introductory ethics course."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The Flash Talks are brief 3-minute presentations applying philosophical content to contemporary issues, and weekly quizzes test recall of lecture material. There is no evidence of sustained inquiry, design, or problem-solving that develops across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The Flash Talks are individual 3-minute presentations worth 15% of the grade. This does not constitute 'significant' independent intellectual work given the brief duration and application-focused nature. Most assessment is through exams (50%) and quizzes (20%)."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The Flash Talks allow students to choose their own contemporary issue to analyze and select which philosophical theory to apply, provided it has not been covered in class. Students define the specific application and argument within the scope of course content."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students make choices about which issues to address in Flash Talks, these are brief presentations without evidence of decision-making with substantial intellectual or ethical consequences beyond standard academic work."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The Flash Talks are 3-minute presentations with a half-page outline. There is no evidence of iterative review/response or extended analytical commitment. The work appears to be single-submission without revision processes."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The largest single assignment is the Final Exam at 30% of the grade. The Flash Talks (15%) are brief 3-minute presentations with half-page outlines, which do not constitute a major paper, project, design, or performance by Honors standards."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no portfolio or capstone-style artifact that integrates work across the term. Assessments are discrete: exams, quizzes, and individual Flash Talks."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The Flash Talks are presented in recitation sections to classmates and TAs, which is standard classroom presentation rather than a public-facing outcome requiring academic judgment beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of exams (50%) and weekly quizzes (20%) testing recall and comprehension rather than critical analysis, synthesis, or original contribution. Recitation participation (10%) and Flash Talks (20% combined) do not constitute sustained critical assessment."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 114 is a lower-division course (100-level) explicitly described as introducing 'various ethical issues' with units covering foundational topics in applied ethics. The course is designed to introduce foundational concepts within the philosophy discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course covers five broad units (patriotism/global citizenship, duties to global poor, population/environment/climate, immigration/borders, and warfare ethics) in an introductory survey format, prioritizing breadth of coverage over advanced analysis or application."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on ethical reasoning and philosophical analysis rather than skills-only or tool-training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While the Flash Talks are brief, they do constitute an intellectual deliverable. The course includes exams and Flash Talks as substantive assessments."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication that the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "This course fails to meet Honors College requirements for multiple reasons. First, it triggers two exclusions: it is a lower-division introductory course (PHIL 114) designed to introduce foundational concepts in applied ethics, and it emphasizes broad introductory coverage across five units rather than advanced analysis. Second, it fails to meet any of the four pillars. Third, while it meets one student agency criterion (student-defined Flash Talk topics), it fails all rigor criteria (not advanced content, no sustained inquiry, no significant independent work) and all demonstrable evidence of learning criteria (no major project, no portfolio/capstone, no public-facing outcome, no sustained critical assessment). The course is appropriate for general education but does not meet the advanced academic expectations of Honors coursework."
+      }
+    },
+    "_source_file": "PHIL11400_Spring2026_AZOB1N.pdf"
   }
 ]

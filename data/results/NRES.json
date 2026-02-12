@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "AGRY 12500",
+      "course_title": "Environmental Conservation and Science",
+      "department": "AGRY",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Natural and Exact Sciences (ecology, environmental geology, climate science, conservation biology) with Social Sciences (environmental ethics, resource management, policy) and addresses 'costs and benefits for both individuals and societies' and 'ethical and effective manner' approaches to controversial topics, demonstrating cross-domain integration of scientific methods with social and ethical frameworks."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes learning about established environmental topics and forming opinions on controversial issues, but does not indicate that students engage in inquiry, investigation, or knowledge creation that extends beyond established answers or involves formulation of original research questions."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course discusses real-world environmental issues 'currently in the news,' there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions through actual community partnerships or field engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Although students are asked to 'form their own opinions' and explain approaches in an 'ethical and effective manner,' there is no evidence of intentional leadership practice, responsibility-taking, or analysis of leadership frameworks that would develop capacity to make decisions or influence outcomes."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is explicitly described as 'an introductory natural resource or environmental science elective' covering basic ecological principles and broad environmental topics, indicating foundational rather than advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The syllabus mentions 'topical assignments' and homework but provides no evidence of sustained inquiry, design, or problem-solving across the term. The assessment structure emphasizes exams and homework assignments rather than extended inquiry projects."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus does not describe significant independent or collaborative intellectual work. The 'topical assignments' are mentioned but not elaborated upon, and the grading is dominated by exams (400/700 points) and Connect homework assignments."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "There is no mention of student-defined or student-shaped projects or questions. All assignments appear to be instructor-defined, including exams, Connect homework, participation, and topical assignments."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students are expected to 'form their own opinions on controversial topics,' there is no evidence that this involves decision-making with intellectual or ethical consequences beyond standard opinion formation in an introductory course."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The syllabus does not describe work requiring extended analytical commitment and iterative review/response. The assessment structure is dominated by exams and homework assignments without evidence of iterative development or sustained analytical engagement."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a major paper, project, design, or performance. The topical assignments worth 100 points (14% of grade) are not described in sufficient detail to determine if they constitute a major project."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any public-facing or applied outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of exams (400/700 points, 57%) and Connect homework assignments (160/700 points, 23%), which typically test knowledge recall and comprehension rather than requiring critical analysis, synthesis, or original contribution throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is numbered 12500 (lower-division) and is explicitly described as 'an introductory natural resource or environmental science elective' designed to introduce foundational concepts in environmental science and conservation."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course covers a broad range of topics including 'ecological principles, history of conservation, natural resource management, human impacts on the environment, environmental geology, and environmental ethics' with the goal of describing 'a broad range of environmental and conservation topics,' indicating breadth of coverage rather than depth of analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not focused solely on skills or tool training; it includes substantive content on environmental science and conservation topics."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The syllabus does not describe a major intellectual deliverable such as a significant research paper, project, or capstone artifact. Grading is dominated by exams and routine homework assignments."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication that the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course meets one pillar (interdisciplinary academics) but fails to meet minimum requirements for rigor, student agency and responsibility, and demonstrable evidence of learning. Additionally, it triggers three exclusions: it is a lower-division introductory course (12500), has broad introductory coverage focused on breadth rather than depth, and lacks a major intellectual deliverable. The course is designed as a foundational survey course rather than an advanced Honors-level course requiring sustained inquiry and significant independent work."
+      }
+    },
+    "_source_file": "NRES12500_Spring2026_2PFTOA.pdf"
+  }
+]

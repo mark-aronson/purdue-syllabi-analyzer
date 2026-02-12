@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "BIOL 48300",
+      "course_title": "Environmental & Conservation Biology",
+      "department": "BIOL",
+      "college": "Science",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Natural Sciences (ecology, biology) with Social Sciences (understanding 'ecological and social challenges associated with their development and implementation' of conservation solutions, and 'the role of journalism in popular perceptions'). Learning Outcome 2 explicitly requires students to discuss conservation solutions while 'understanding ecological and social challenges,' demonstrating genuine cross-domain integration where both biological and social dimensions shape the analysis of conservation problems."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students conduct independent research projects using population viability analysis to 'investigate a real-world population of conservation concern to develop a conservation management strategy.' They formulate their own research questions ('students investigate a question developed by them based on their interests'), analyze data, and produce original findings presented at a poster mini-symposium, constituting genuine inquiry beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course connects to real-world global conservation challenges throughout, examining 'main threats to biodiversity on Earth' including climate change, habitat destruction, and whole-biosphere processes. Students engage with current conservation concerns through case studies and develop management strategies for real endangered species. The course explicitly discusses 'the problem of scientific literacy in communicating complex issues' and students present findings publicly, demonstrating structured engagement with global conservation issues and their social dimensions."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Students develop capacity to make consequential decisions through their independent conservation management project, where they must 'develop a conservation management strategy' for real-world populations. Learning Outcome 5 explicitly aims to develop 'independent scientific skills (data analysis, problem-solving), fostering science self-efficacy and identity, improving knowledge of conservation biology, and enhancing career readiness,' demonstrating intentional development of professional judgment and responsibility in conservation contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical content including population viability analysis, conservation genetics, extinction patterns, and complex ecological theory. It 'emphasizes the interplay of theoretical models, observation, and experimentation' and addresses 'complexities like interactions among processes at different levels of organization,' demonstrating sophisticated analytical frameworks typical of upper-division biology courses."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry throughout the term via their independent PVA project, with multiple lab sessions (Vortex Labs #1-3, PVA Questions Galore, PVA Pitch, four PVA independent work sessions, Poster Preview & Feedback, and final Poster Presentation) dedicated to iteratively developing, analyzing, and refining their conservation research question and management strategy."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through the semester-long PVA research project where students independently investigate conservation questions, conduct analyses, and develop management strategies. Additionally, students work in 'PVA groups' and complete multiple independent lab reports and research assignments throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The independent PVA project is explicitly student-shaped: 'students investigate a question developed by them based on their interests' regarding real-world conservation populations. Students choose their research focus, design their experiments, and develop their own conservation management strategies, demonstrating substantial student agency in defining project parameters."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make intellectually and ethically consequential decisions in developing conservation management strategies for real endangered or invasive species populations. The course explicitly addresses 'the complexity of conservation solutions understanding ecological and social challenges' and requires students to develop actionable management recommendations that have real-world conservation implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The semester-long PVA project requires extended analytical commitment with iterative review stages including PVA Pitch, multiple independent work sessions, Poster Preview & Feedback, and culminating in both a Poster Presentation (150 points) and Final Paper (100 points). Students must engage repeatedly with data analysis, interpretation, and refinement of their conservation strategies throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The independent conservation biology project culminates in both a Poster Presentation (150 points, 15% of grade) and Final Paper (100 points, 10% of grade), together constituting 25% of the total course grade and representing a substantial portion requiring original research, analysis, and synthesis of conservation principles."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The final poster presentation at the 'poster mini-symposium in the Department of Biological Sciences' serves as a capstone-style artifact integrating the semester's work on PVA methodology, conservation theory, data analysis skills, and application to real-world conservation problems, synthesizing learning across lecture and lab components."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students present their conservation research and management strategies at a public poster mini-symposium in the Department of Biological Sciences, requiring academic judgment in communicating complex conservation science to a broader audience, which aligns with the course's emphasis on scientific literacy and communication."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment requiring critical analysis throughout: weekly lab reports examining conservation issues (12+ reports totaling 490 points, 49% of grade), three quizzes, in-class participation involving discussions and short essays based on primary literature, plus the major research project components. The majority of graded work requires analysis, synthesis, or original contribution rather than rote recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "BIOL 48300 is an upper-division (400-level) course with prerequisites including multiple lower-division biology courses or graduate standing, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course introduces conservation biology, it focuses on advanced application through sustained research projects using specialized analytical tools (Vortex PVA software, R programming) and requires students to conduct original investigations and develop management strategies, going well beyond introductory coverage to advanced analysis and application."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "Although students learn technical tools (Vortex, R, data analysis), these are embedded within a comprehensive conceptual framework examining ecological theory, conservation principles, extinction patterns, and ethical dimensions. The tools serve the broader intellectual goals of understanding and addressing conservation challenges, not as ends in themselves."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major intellectual deliverables: an independent research project culminating in a poster presentation (150 points) and final paper (100 points), plus numerous lab reports requiring analysis of conservation issues. These collectively constitute substantial intellectual work requiring synthesis and original contribution."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four pillars through its integration of natural and social sciences in conservation, sustained undergraduate research via PVA projects, engagement with global conservation challenges, and development of professional judgment in conservation decision-making. It satisfies all rigor criteria (advanced content, sustained inquiry, independent work), all student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and all demonstrable evidence criteria (major project, capstone presentation, public outcome, sustained critical assessment). No exclusions apply. The course clearly meets Honors teaching and learning expectations through its emphasis on original research, complex problem-solving, and application of ecological science to real-world conservation challenges."
+      }
+    },
+    "_source_file": "BIOL48300_Spring2026_PWJCER.pdf"
+  }
+]

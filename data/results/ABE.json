@@ -1,0 +1,206 @@
+[
+  {
+    "course_information": {
+      "course_number": "ABE 32500",
+      "course_title": "Soil and Water Conservation Engineering",
+      "department": "ABE",
+      "college": "Engineering",
+      "review_date": "01/20/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Engineering (soil and water conservation engineering, design principles) with Social Sciences and Humanities (social and environmental impacts, community considerations in the 'Of Silt and Ancient Voices' case study). The syllabus explicitly states designs must consider 'social and environmental impacts' and includes a multi-day case study exploring 'how engineering design should be affected by the communities for which it is being constructed,' demonstrating cross-domain integration with shared questions about balancing technical and social constraints."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to 'collect, analyze and interpret data to assess the suitability of a field site or design practice' and complete a term project that applies concepts to 'address the concerns of a client,' indicating inquiry-based work that extends beyond reproducing established answers and involves analysis of evidence to produce applied findings."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes structured engagement with community considerations through the 'Of Silt and Ancient Voices' case study that explores 'how engineering design should be affected by the communities for which it is being constructed.' The term project requires students to work with a project 'client' and consider social impacts, demonstrating sustained engagement with real-world contexts and structured reflection on social and cultural dimensions."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Students must 'function as a team to develop a design solution' and make consequential decisions about balancing 'technical limitations, economics, and social and environmental impacts' in their designs. The term project involves communicating with a client and making design decisions with real implications, developing capacity to take responsibility and influence outcomes in professional engineering contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced engineering content including hydrologic processes, channel design, sediment control structures, and irrigation/drainage system design, with prerequisites of upper-level agronomy and mathematics courses (AGRY 25500, MA 26200 or MA 26500/26600), indicating advanced theoretical and analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through weekly homework and laboratory assignments throughout the semester, culminating in a term project worth 20% of the grade that requires students to 'make use of the concepts and skills developed in this class to address the concerns of a client,' representing sustained design and problem-solving across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires 'significant independent work through homework assignments (150 pts) and laboratory assignments (300 pts), as well as collaborative work through the term project (200 pts) which is explicitly 'based on group work' and requires team functioning to develop design solutions."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The term project requires students to 'address the concerns of a client' and involves 'communicate engineering designs effectively through creation of design documents and discussions with a project client,' suggesting students shape their design solutions in response to client needs rather than following a predetermined template."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must 'design channels, drainage networks, water and sediment storage, and irrigation systems to meet design criteria with consideration of technical limitations, economics, and social and environmental impacts,' requiring decision-making with intellectual and ethical consequences regarding environmental and social impacts of engineering designs."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course structure includes weekly homework and laboratory assignments throughout the semester, three exams testing comprehension, and a term project requiring application of concepts across the course, demonstrating extended analytical commitment with multiple opportunities for iterative development and review across 16 weeks."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The term project constitutes 200 out of 1000 points (20% of the course grade) and requires students to 'make use of the concepts and skills developed in this class to address the concerns of a client,' representing a major project that is a significant portion of the course grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While there is a term project, the syllabus does not describe it as a portfolio or capstone-style artifact that integrates work across the term in a compiled format."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The term project requires 'creation of design documents and discussions with a project client,' indicating a public-facing outcome where students must present their engineering designs to an external stakeholder, requiring academic judgment in client communication."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work includes homework assignments (150 pts), laboratory assignments (300 pts), and a term project (200 pts) totaling 650 out of 1000 points, all of which require application of engineering principles, analysis, and original design work rather than simple recall, with only exams (300 pts) potentially being more traditional assessments."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course with prerequisites including upper-level mathematics (MA 26200 or MA 26500/26600) and agronomy (AGRY 25500), indicating it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on advanced application and design of soil and water conservation engineering systems rather than broad introductory coverage, requiring students to complete design projects and balance multiple constraints in engineering solutions."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes use of GIS and CAD packages, these are tools integrated into broader engineering design principles and practices, with emphasis on 'planning, design, costing and management of soil and water resource systems' rather than just tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a term project worth 200 points (20% of grade) that requires students to create design documents and address client concerns, constituting a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "This course meets all four pillars (interdisciplinary academics through integration of engineering with social/community considerations, undergraduate research through applied design inquiry, community engagement through client-based projects and the 'Of Silt and Ancient Voices' case study, and leadership development through team-based consequential design decisions). It satisfies all rigor criteria (advanced engineering content, sustained inquiry through term-long assignments, and both independent and collaborative work). It meets all student agency criteria (student-shaped client-responsive projects, consequential decision-making regarding environmental and social impacts, and extended analytical commitment). It demonstrates clear evidence of learning through a major term project (20% of grade), public-facing client presentations, and sustained assessment with 65% of grades requiring analytical work. No exclusions apply."
+      }
+    },
+    "_source_file": "ABE32500_Fall2025_42D2TK.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "ABE 48600",
+      "course_title": "Agricultural Engineering Design",
+      "department": "ABE",
+      "college": "Engineering",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on agricultural engineering design and does not demonstrate cross-domain interdisciplinarity. While projects may address societal or environmental issues, the syllabus indicates work remains within the engineering domain (environmental systems, machinery, precision agriculture, robotics) with ABET outcomes focused on engineering problem-solving. No evidence of integration with distinct high-level domains like humanities, social sciences, or business."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course engages students in sustained inquiry through capstone design projects that require formulation of problems, testing and refinement of solutions, and production of original findings documented in comprehensive reports. Students 'implement, test, refine, present, and deliver' project solutions, collect test/simulation data, and 'formulate design-based decisions using engineering judgment' (Learning Objective 5)."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While Learning Objective 2 mentions evaluating 'global, economic, environmental, and societal impact,' the syllabus provides no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement. Sponsor interactions are mentioned but appear advisory rather than constituting community engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course explicitly develops leadership capacity through team-based work where students are evaluated on 'leadership' as one of five peer review categories, requiring decision-making with consequences for project outcomes. Learning Objective 3 addresses 'collaborative teams,' and the professional evaluation assesses 'leadership' alongside responsibility, communication, inclusivity, and collaboration in a manner analogous to 'industry managers providing annual performance reviews.'"
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "As a capstone course requiring prerequisite ABE 48400, the course involves advanced engineering design content. Students must 'effectively apply principles of engineering, science, and math to solve a complex engineering problem' (Learning Objective 6) and evaluate solutions considering 'technical, ethical, global, economic, environmental, and societal impact' (Learning Objective 2)."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained design inquiry across the full semester, with students implementing, testing, refining solutions from projects proposed in the prerequisite course. Multiple iterative deliverables include section reports (weeks 6 and 11), draft report (week 15), final report (week 16), poster iterations, and continuous design notebook documentation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative intellectual work through team-based projects with weekly team meetings, documented in design notebooks. Students maintain electronic design notebooks with individual contributions tracked, engage in peer evaluation, and complete team-level assessments for major deliverables (reports worth 250 points, presentations worth 250 points combined)."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "While projects are proposed in the prerequisite course (ABE 48400), students exercise significant agency in this course as they 'implement, test, refine' their solutions. The design notebook documents 'brainstorming, decision process, details of technical aspects of designs,' and students make 'design-based decisions using engineering judgment' (Learning Objective 5), indicating substantial student ownership of project direction."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make decisions with intellectual and ethical consequences throughout the project, as they must 'formulate design-based decisions using engineering judgment' (Learning Objective 5) and 'evaluate the engineering solution developed considering technical, ethical, global, economic, environmental, and societal impact' (Learning Objective 2). Design decisions affect project outcomes and are documented in notebooks for credentialing purposes including patent applications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through iterative work: design notebooks graded monthly, section reports at weeks 6 and 11, draft project report at week 15 with feedback applied to final report at week 16. The draft is 'graded using the same rubric provided for the final version' allowing students to 'use the feedback from the draft to improve the final report,' demonstrating iterative review and response."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final project report constitutes 250 points out of 1000 (25% of course grade), representing a major deliverable. Additionally, the poster and presentation on Capstone Day is worth 150 points (15%), and the draft report is also graded at 250 points with opportunity for improvement in the final version."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The electronic design notebook serves as a portfolio integrating work across the term, documenting 'project work, in detail, from its inception to completion' with sections for design content, team meetings, instructor meetings, sponsor interactions, and personal contributions. It is graded monthly and is worth 150 points total."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The course includes multiple public-facing outcomes: a poster and presentation to 'industry representatives, ABE faculty, graduate students, and classmates' at Capstone Day (150 points); and a five-minute project impact presentation video (100 points) addressing problem, rationale, solution, and impact for non-specialist audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and original contribution: design notebooks (150 pts), project reports and sections (375 pts combined), presentations and posters (275 pts combined) total 800 of 1000 points (80%). These all require synthesis, design judgment, and original engineering solutions rather than routine problem-solving."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "ABE 486 is a 400-level capstone course requiring prerequisite ABE 48400, clearly upper-division and not introductory."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "This is a capstone design course focused on application and synthesis rather than broad introductory coverage. Students complete advanced project work building on prior coursework."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only training; it requires comprehensive engineering design, analysis, evaluation of ethical and societal impacts, and synthesis of knowledge to solve complex problems."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: final project report (250 pts), draft report (250 pts), poster and presentation (150 pts), design notebook (150 pts), and impact presentation (100 pts)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "ABE 48600 meets Honors requirements by satisfying two pillars (undergraduate research, leadership development), all three rigor criteria (advanced content, sustained inquiry, collaborative work), all three student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and all four demonstrable evidence criteria (major project, portfolio/capstone, public-facing outcome, sustained assessment). No exclusions apply. This capstone course demonstrates the depth of inquiry, iterative development, and professional presentation expected of Honors-level work."
+      }
+    },
+    "_source_file": "ABE48600_Spring2026_YPJYU4.pdf"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "SFS30200",
+      "course_title": "Principles of Sustainability",
+      "department": "SFS",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates multiple high-level domains: Natural Sciences (climate change, biodiversity, energy systems), Social Sciences (politics, psychology, economics of sustainability), and Humanities (ethics, cultural perspectives including Native American knowledge). The course goals emphasize 'learning to think in systems' and the debates/content demonstrate integration across domains (e.g., climate policy combining physical science with economics and ethics, agricultural systems combining ecology with political economy). The reading list includes works spanning climate science (Flannery), economics (Jackson, Stiglitz), political theory (Klein), psychology (Kahneman, Haidt), and cultural history (Mann, Anderson), demonstrating genuine cross-domain integration rather than sequential coverage."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through multiple original research activities: selecting and analyzing three current articles five times throughout the term (requiring independent literature review and synthesis), creating self-contained posters on sustainability concepts requiring investigation beyond class material, and developing debate positions requiring evidence-based argumentation on unresolved sustainability questions. The syllabus states students must 'find cool/important things to share with your peers' and debates address open-ended questions without established answers (e.g., whether SRM geoengineering should be deployed, optimal CAFO size limits)."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course addresses real-world global issues throughout (climate change, biodiversity crisis, energy transition, food systems) with debates on specific policy questions affecting local and global communities (Purdue power plant, Indiana plastic bag ban, Snake River dams). The handwritten weekly reflections require students to process 'what you are thinking about sustainability' in relation to real-world challenges. The debate topics directly engage with consequential policy decisions affecting communities (e.g., CAFOs, electric vehicle mandates, agricultural subsidies), though the syllabus does not explicitly describe direct community partnerships or structured service-learning components."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership capacity through multiple mechanisms: students lead teaching sessions ('student-led sessions' and 'students will participate in teaching most classes'), make and defend consequential decisions in debates on sustainability policy, and reflect weekly on their evolving thinking about sustainability challenges. The debates require students to take positions, argue persuasively, and influence peer thinking on complex ethical and policy questions. The participation emphasis and student-led structure require students to take responsibility for class quality ('The quality of the class depends on your preparation')."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course addresses advanced sustainability concepts at an 'intermediate level' including reinforcing cycles and tipping points in climate systems, EROEI (Energy Return on Energy Invested) and efficiency trap theory, tragedy of the commons frameworks, and systems thinking. The extensive reading list includes advanced theoretical works (Ostrom's Governing the Commons, Moore's Capitalism in the Web of Life, Diamond's Collapse) and current scientific literature. Course goals emphasize learning to 'think critically about proposed approaches to sustainability' and 'think in systems.'"
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students conduct sustained inquiry across the entire term through five sets of three-article analyses (requiring ongoing literature review and synthesis), weekly handwritten reflections processing course content (13 reflections), preparation and execution of debate positions requiring extended research, and poster projects requiring investigation and synthesis of sustainability concepts. The cumulative structure requires students to build understanding progressively across four major sections."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires substantial independent work including five article review assignments, 13 individual reflections, and individual poster projects. Collaborative work includes team-based debates (two speakers per team working together to develop arguments and rebuttals) and small group discussions using article summaries and images. The debates explicitly require anticipating opponents' arguments, demonstrating collaborative intellectual engagement."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students exercise significant choice in defining their work: selecting three articles of their choice for each of five assignments ('The most important thing is to find cool/important things to share with your peers'), choosing poster topics ('a concept of your choice related to the subject of the week'), and determining the content and structure of their debate papers ('The format of the debate paper is not important, and I suggest you use a format...that you can also use as prompts during the debate')."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The debates require students to make and defend consequential positions on real policy and ethical questions (carbon emission reductions that might cause economic depression, geoengineering deployment, CAFO size limits, pesticide use to feed the world). Students must take responsibility for argument quality as 'the quality of the class depends on your preparation,' and debate outcomes are determined by peer voting, making argumentation genuinely consequential within the classroom community."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical work through weekly reflections (13 total) processing ongoing learning, five article analysis cycles requiring synthesis of current literature, debate preparation requiring anticipation of counterarguments and development of evidence-based positions, and poster development requiring self-contained explanation of complex concepts. The emphasis on attendance ('there is no textbook...no study guides...no powerpoints available for missed classes') indicates students must engage analytically throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "Multiple major deliverables constitute significant portions of the grade: debate presentations and papers (20% combined), poster projects and presentations (20% combined), and the five three-article analysis assignments (20% combined). Each requires substantial intellectual work demonstrating synthesis, analysis, and original contribution."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the course includes multiple substantial projects throughout the term, there is no portfolio or capstone-style artifact that integrates work across the course. Each assignment addresses specific topics within the four course sections rather than serving as a cumulative integration."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students produce public-facing outcomes through poster presentations explaining sustainability concepts to peers, debate presentations requiring persuasive public argumentation, and article summaries shared with classmates for small group teaching. Posters must be 'self-contained' and debates involve audience questions and voting, requiring students to communicate complex ideas publicly."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: five article analysis assignments (20%), debate papers and presentations (20%), posters and presentations (20%), and weekly reflections (24%) all require analytical engagement rather than recall. Only 16% is allocated to participation, with 84% requiring original intellectual work demonstrating critical thinking about sustainability challenges."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course (SFS 302), placing it in upper-division status. While titled 'Principles of Sustainability,' the syllabus describes 'intermediate level' analysis and assumes students can engage in advanced debates, independent research, and systems thinking."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers a broad range of sustainability topics, it emphasizes advanced analysis rather than foundational coverage. The syllabus states concepts will be 'analyzed at an intermediate level,' debates address unresolved policy questions requiring sophisticated argumentation, and course goals emphasize critical thinking and systems analysis rather than basic concept introduction."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training focused. It emphasizes conceptual understanding, critical analysis, systems thinking, and engagement with complex sustainability challenges rather than technical skill development."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major intellectual deliverables: debate papers and presentations (20%), poster projects (20%), and five three-article analysis assignments (20%). Each requires substantial original work demonstrating analysis and synthesis."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No information in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four pillars through genuine interdisciplinary integration across natural sciences, social sciences, and humanities; undergraduate research through article analysis and debate preparation; community and global engagement with real-world sustainability challenges; and leadership development through student-led teaching and consequential debate participation. It satisfies all three rigor criteria (advanced content at intermediate level, sustained inquiry across the term, and both independent and collaborative work). It meets all three student agency criteria (student-defined article and poster topics, consequential decision-making in debates, and extended analytical commitment through weekly reflections and cumulative assignments). It provides demonstrable evidence of learning through multiple major projects (debates, posters, articles totaling 60% of grade), public-facing outcomes (presentations and teaching), and sustained assessment emphasizing analysis (84% of grade). No exclusions apply: it is upper-division (300-level), emphasizes advanced analysis over broad coverage, is not skills-only training, includes multiple major deliverables, and shows no evidence of already being counted elsewhere."
+      }
+    },
+    "_source_file": "SFS30200_Spring2026_1XCPP4.docx"
+  }
+]

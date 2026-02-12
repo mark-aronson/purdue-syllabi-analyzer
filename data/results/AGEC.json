@@ -1,0 +1,308 @@
+[
+  {
+    "course_information": {
+      "course_number": "AGEC 25000",
+      "course_title": "Economic Geography of World Food & Resources",
+      "department": "AGEC",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates economics (Social Sciences) with geography (Natural and Exact Sciences/Social Sciences depending on approach) and environmental science in examining food and agricultural markets. The description states it 'uses economics to understand the roles of geography, the environment, and social institutions' and the course outline demonstrates sustained integration through topics like Von Thunen's spatial models, agricultural productivity analysis, and trade theory applied to geographical contexts."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course involves applying existing economic and geographic models to analyze issues, but does not describe students formulating original research questions, conducting primary investigations, or producing original findings beyond established knowledge. Group assignments appear to be application exercises rather than research projects."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global food issues and includes topics like palm oil production and U.S.-China trade, there is no evidence of sustained engagement with actual communities, organizations, or structured reflection on ethical/social dimensions through direct interaction. The engagement is analytical rather than experiential."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course includes group work that develops collaboration skills, but does not explicitly develop leadership capacity through intentional practice, reflection on leadership frameworks, or structured opportunities to make consequential decisions or influence outcomes in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced economic models (Ricardian trade theory, Von Thunen spatial models, supply-demand analysis in global contexts) and requires students to apply these theoretical frameworks to complex real-world agricultural and trade issues, demonstrating advanced analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained application of economic and geographic concepts across the 15-week term through multiple group assignments (30% of grade) that require applying models to issues like supply & demand, palm oil geography, and U.S.-China agricultural trade, combined with homework and exam-based analysis."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "Group assignments constitute 30% of the course grade and explicitly aim to 'provide students opportunity to apply economic and geographic concepts, practice collaborating in small groups, and develop skills for communicating ideas and analysis in a professional manner,' indicating significant collaborative intellectual work throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While multiple group assignments are listed, the syllabus indicates they 'may be problem sets or issue/policy briefs' determined by the instructor. There is no evidence that students define their own questions, topics, or project parameters."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course involves analytical work applying models to case studies, but does not describe situations where students make decisions with intellectual or ethical consequences that materially affect outcomes or require weighing competing values or approaches."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Group assignments worth 30% of the grade combined with three exams worth 50% require students to repeatedly apply economic and geographic analysis across the term to diverse contexts (demand, production, spatial distribution, trade), demonstrating extended analytical commitment with iterative application of concepts."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "While group assignments collectively comprise 30% of the grade, no single major paper, project, or deliverable is described. The assignments appear to be distributed problem sets or policy briefs rather than one substantial integrative project."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. Assessments are distributed across quizzes, homework, group assignments, and exams without an integrative final product."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "Group assignments may include policy briefs, but there is no indication these are public-facing or require presentation to external audiences. All work appears to be for instructor evaluation only."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure allocates 30% to group assignments requiring application of economic/geographic concepts, 50% to three exams assessing comprehension and analysis, and 10% to homework testing understanding\u2014the majority of graded work (90%) requires analysis, application, and synthesis rather than simple recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "AGEC 250 is a 200-level course that is explicitly part of the University Core Curriculum focused on Behavioral and Social Sciences Foundational Learning Outcomes, indicating it is designed as a lower-division course introducing foundational concepts in economic geography of food systems."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course outline covers foundational topics in economic geography of agriculture including supply and demand, Malthusian theory, demand and production fundamentals, spatial distribution models, and trade theory\u2014a broad survey structure characteristic of introductory courses rather than advanced specialized analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on conceptual understanding and application of economic and geographic theories to food and agriculture issues, not merely on technical skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While there is no single capstone project, the course includes multiple group assignments collectively constituting 30% of the grade plus three exams at 50%, providing substantial intellectual deliverables requiring analysis and synthesis."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics pillar and satisfies rigor, student agency, and demonstrable evidence requirements, it triggers two critical exclusions: it is a lower-division course (200-level) designed as a foundational Core Curriculum course, and it exhibits broad introductory coverage characteristic of survey courses rather than advanced specialized study. These exclusions disqualify it from Honors credit eligibility despite its interdisciplinary strengths."
+      }
+    },
+    "_source_file": "AGEC25000_Spring2026_HJSE4H.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AGEC 40600",
+      "course_title": "Natural Resource and Environmental Economics",
+      "department": "AGEC",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly prepares 'non-majors for working in interdisciplinary teams alongside economists on environmental issues,' indicating cross-domain integration between economics (Social Sciences) and environmental science/natural resources (Natural and Exact Sciences). The course applies economic models to environmental and natural resource management, demonstrating integration of methods and frameworks from both domains."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any research activities, original inquiry, or knowledge creation beyond established answers. Problem sets and exams appear to apply existing economic models rather than engage students in formulating new questions or producing original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of sustained engagement with communities, organizations, or global issues, nor any structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice, reflection, or analysis of leadership or ethical frameworks, nor does it develop students' capacity to make decisions or influence outcomes in leadership contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content as evidenced by prerequisites (AGEC 20300, AGEC 20400, or ECON courses) and learning outcomes that require students to 'apply basic cost-benefit analysis,' 'understand the process of and justification for valuing environmental amenities,' and 'discuss the role of discounting in efficient natural resource allocation'\u2014all advanced economic concepts."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "While the course includes multiple problem sets and exams throughout the semester, there is no evidence of a sustained inquiry, design, or problem-solving project that develops across the term. Assessments appear to be discrete rather than building toward an integrated investigation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The problem sets explicitly encourage collaboration ('You are encouraged to work together and collaborate with your classmates'), while also requiring that 'your submitted answers and your solutions must reflect your work exclusively,' indicating significant independent intellectual work alongside collaborative opportunities."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not mention any student-defined or student-shaped projects or questions. All assignments appear to be instructor-defined problem sets and exams."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students engage with decision-making concepts (cost-benefit analysis, environmental decision-making), the syllabus does not indicate that students make consequential decisions with intellectual or ethical stakes in their own work."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The syllabus describes problem sets with two attempts and exams similar in style to problem sets, but does not indicate iterative review/response or extended analytical commitment to developing work over time."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a major paper, project, design, or performance. The largest single assessment is Exam 3 at 30% of the grade, which is a closed-book exam rather than a project requiring extended intellectual work."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any public-facing or applied outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has a sustained assessment structure with problem sets throughout the semester (40% of grade) and three exams (60% of grade). The learning outcomes require critical analysis of economic concepts ('Define social efficiency,' 'Identify externalities,' 'Apply cost-benefit analysis'), indicating that assessments require analytical work rather than mere recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level course with economics prerequisites, indicating it is upper-division and builds on foundational knowledge rather than introducing it."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses specifically on economic models applied to environmental and natural resource issues, demonstrating focused application rather than broad introductory coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course teaches theoretical concepts and analytical frameworks (externalities, cost-benefit analysis, valuation methods, discounting) rather than being skills-only or tool-training focused."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While there is no single major project, the course has sustained assessment through problem sets (40%) and exams (60%), with the final exam constituting 30% of the grade."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets one pillar (interdisciplinary academics) and satisfies rigor requirements (advanced content and independent/collaborative work), it fails to meet the student agency and responsibility requirement (scoring 0 on all three criteria: no student-defined projects, no consequential decision-making, no extended analytical commitment). Additionally, while it has sustained assessment, the lack of a major project, portfolio, or public-facing outcome combined with limited student agency makes it insufficient for Honors credit."
+      }
+    },
+    "_source_file": "AGEC40600_Fall2025_KBOXNM.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AGEC 52500",
+      "course_title": "Environmental Policy Analysis",
+      "department": "AGEC",
+      "college": "Agriculture",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates economics (Social Sciences) with environmental science and policy (Natural Sciences), examining 'how the links between the economy and the environment operate.' The course combines economic theory, mathematical modeling, and environmental resource analysis, requiring students to analyze market failures and evaluate policy instruments through both economic efficiency frameworks and environmental outcomes. The final project requires students to identify environmental policy case studies and apply economic methods to environmental problems, demonstrating material integration across domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The final team project requires students to 'identify a case study of an environmental policy, and apply the methods and tools learned in the course,' including describing market failures, analyzing deadweight losses, and evaluating policies. This constitutes original inquiry as students must formulate research questions about specific environmental policies, analyze evidence using economic models, and produce applied findings in a 10-15 page paper."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses environmental policies and international environmental agreements, there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical, social, or cultural dimensions through direct engagement. The work is analytical and theoretical rather than community-connected."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include explicit development of leadership capacity, decision-making in civic contexts, or structured reflection on leadership frameworks. While students make analytical decisions in their projects, this does not constitute intentional leadership development as defined in the criterion."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course involves advanced economic theory including welfare economics, mechanism design, game theory (repeated games for international agreements), and calculus-based optimization. The syllabus states the course 'emphasizes the construction, solution, and interpretation of mathematical models with particular emphasis on calculus-based optimization' and covers advanced topics like Pareto efficiency, potential Pareto improvements, and relative slope rules."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry throughout the term, with students progressing from analyzing market failures in weeks 1-18 to evaluating policy instruments in weeks 19-29, culminating in a final team project that integrates concepts across the semester. The project requires extended analysis including market failure description, deadweight loss calculation, graphical and analytical modeling, and policy evaluation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both independent homework assignments (25% of grade, submitted individually though students may discuss ideas) and collaborative team projects (25% of grade, teams of 2-3 producing a 10-15 page analytical paper). The final project involves significant collaborative intellectual work applying course methods to real environmental policy cases."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The final team project allows students to 'identify a case study of an environmental policy' of their choosing, giving them agency in selecting their research topic. Individual project topic presentations (lectures 14-16) indicate students present their chosen topics, demonstrating student-shaped inquiry."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential analytical decisions in selecting which environmental policy to study, determining how to model market failures, choosing which policy instruments to evaluate, and deciding how to apply course methods to their case. These decisions have intellectual consequences for the quality and validity of their policy analysis and constitute 25% of their final grade."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The final project requires extended analytical commitment with multiple components: describing market failure sources, calculating deadweight losses, developing graphical and analytical models, and evaluating policies. The project spans lectures 9-33 (from group formation through presentations) and results in a 10-15 page paper, indicating sustained analytical work with iterative development."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final team project constitutes 25% of the course grade and requires a 10-15 page analytical paper applying economic methods to environmental policy case studies. This represents a major deliverable requiring synthesis of course concepts, original analysis, and substantial intellectual effort."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The final team project functions as a capstone that 'unifies some of the most important components of this course' and 'serves as your final exam.' It integrates work across the term by requiring students to apply multiple course concepts (market failures, deadweight loss analysis, graphical and analytical modeling, policy evaluation) to a single case study."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Team project presentations (lectures 30-33) represent a public-facing outcome where students present their environmental policy analysis to the class. This requires academic judgment in communicating complex economic analysis to an audience and defending analytical choices."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment throughout with homework assignments requiring analysis of market inefficiencies and policy alternatives (25%), two exams testing application of concepts (50% combined), and a final project requiring original analysis (25%). The majority of graded work requires critical analysis, synthesis of economic theory with environmental applications, and original contribution rather than rote memorization."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "AGEC 525 is a 500-level graduate course that builds on prerequisite knowledge (introductory microeconomics suggested) and involves advanced economic theory and mathematical modeling. It is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on advanced analysis and application of environmental economics rather than broad introductory coverage. It emphasizes 'construction, solution, and interpretation of mathematical models' and evaluation of policy alternatives, indicating depth over breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only training; it involves theoretical understanding of market failures, welfare economics, and policy analysis, combined with application of quantitative tools to substantive environmental policy questions. The emphasis is on conceptual understanding and analytical application."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major deliverable: a 10-15 page final team project worth 25% of the grade, plus individual homework assignments and two exams. There is substantial intellectual work required."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "AGEC 525 meets multiple pillars (interdisciplinary academics combining economics and environmental science; undergraduate research through the case study project), satisfies all rigor criteria (advanced content in economic theory and mathematical modeling, sustained inquiry across the term, independent and collaborative work), meets all student agency criteria (student-defined project topics, consequential analytical decision-making, extended analytical commitment), and demonstrates learning through multiple mechanisms (major project, capstone integration, public presentations, sustained assessment). No exclusions apply. The course clearly meets Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "AGEC52500_Fall2025_QS16XM.pdf"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "course_information": {
+      "course_number": "AGRY 12500",
+      "course_title": "Environmental Conservation and Science",
+      "department": "AGRY",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates multiple high-level domains: Natural Sciences (ecology, environmental geology, climate science, conservation biology), Social Sciences (resource management, environmental policy, societal costs and benefits), and Humanities (environmental ethics). Learning outcome 2 requires students to form opinions on controversial topics 'in an ethical and effective manner,' and outcome 3 explicitly addresses these disciplines' 'context and influence in modern societies,' demonstrating integration across Natural Sciences, Social Sciences, and Humanities rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes topical assignments and participation activities but provides no evidence that students engage in inquiry beyond established answers, formulate original research questions, analyze primary evidence, or produce original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course discusses real-world environmental issues like climate change and endangered species protection, there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical/social dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Although students form opinions on controversial topics and consider ethical approaches (outcome 2), there is no evidence of intentional leadership practice, decision-making with responsibility for outcomes, or analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is explicitly described as 'an introductory natural resource or environmental science elective' covering foundational topics across six disciplines. The learning outcomes focus on describing and understanding broad concepts rather than advanced theoretical or analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course includes topical assignments and homework, but there is no evidence of sustained inquiry, design, or problem-solving projects that extend across the term. The assessment structure emphasizes exams and discrete assignments."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any significant independent or collaborative intellectual work. The grading structure emphasizes exams (400/700 points), homework (160 points), and participation (40 points) without evidence of substantial independent projects."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "There is no evidence of student-defined or student-shaped projects or research questions. The 'topical assignments' are not described in sufficient detail to demonstrate student agency in defining their scope or direction."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students form opinions on controversial topics (outcome 2), there is no evidence that these decisions have intellectual or ethical consequences beyond the classroom or require students to take responsibility for outcomes."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The syllabus does not describe work requiring extended analytical commitment with iterative review and response. The topical assignments worth 100 points are not described in sufficient detail to confirm iterative development."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "There is no evidence of a major paper, project, design, or performance. The largest single assessment components are individual exams worth 100 points each, which do not constitute integrative projects."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of exams (400/700 points = 57%) and homework assignments (160/700 points). While the topical assignments (100 points) might require critical analysis, their nature is not described, and they constitute only 14% of the grade. The sustained assessment structure does not clearly show that a majority requires critical analysis, synthesis, or original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is numbered 12500 (1000-level) and is explicitly described as 'an introductory natural resource or environmental science elective' designed to introduce foundational concepts across multiple environmental science disciplines."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course explicitly covers broad introductory content across six disciplines (ecology, environmental science, resource management, environmental geology, climate science, and conservation biology) with learning outcomes focused on describing and understanding broad concepts rather than advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course; it covers substantive environmental science content and concepts."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a major intellectual deliverable. The assessment structure is dominated by exams (400/700 points) and homework (160 points), with topical assignments (100 points) not described in sufficient detail to constitute a major integrative intellectual project."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course meets one pillar (interdisciplinary academics) but triggers three exclusions: it is a lower-division introductory course (12500), focused on broad introductory coverage across six disciplines, and lacks a major intellectual deliverable. Additionally, it fails to meet the rigor requirements (no advanced content, sustained inquiry, or significant independent work), student agency requirements (no student-defined projects, consequential decision-making, or extended analytical commitment), and demonstrable evidence of learning requirements (no major project, portfolio, public-facing outcome, or sustained assessment requiring critical analysis). The course is appropriately designed as an introductory general education course but does not meet Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "AGRY12500_Spring2026_SOTQLF.pdf"
+  },
+  {
+    "_source_file": "AGRY28500_Spring2026_8GOKSO.docx",
+    "_error": "Package not found at 'C:\\Users\\aronsonm\\Documents\\GitHub\\purdue-syllabi-analyzer\\syllabi\\AGRY28500_Spring2026_8GOKSO.docx'"
+  }
+]

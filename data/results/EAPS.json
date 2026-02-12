@@ -1,0 +1,614 @@
+[
+  {
+    "course_information": {
+      "course_number": "EAPS 10000",
+      "course_title": "Planet Earth",
+      "department": "EAPS",
+      "college": "Science",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "While the course covers multiple geoscience topics (geology, hydrology, oceanography, atmospheric science), these all fall within a single high-level domain (Natural and Exact Sciences). There is no evidence of integration with other high-level domains such as Social Sciences, Humanities, Engineering, or Business."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course focuses on developing basic understanding of geoscience processes and concepts rather than engaging students in original inquiry, investigation, or knowledge creation. Assessments consist of homework, exams, and short quizzes with no mention of research activities or original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The 'Real World Connections' activities involve viewing media content and completing quizzes about how geoscience relates to daily life, but this does not constitute sustained engagement with communities, organizations, or global issues, nor does it include structured reflection on ethical, social, or cultural dimensions."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus contains no evidence of developing students' capacity to make decisions, take responsibility, or influence outcomes through intentional practice, reflection, or analysis of leadership or ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is described as a 'brief introduction' that 'emphasizes developing a basic understanding' rather than memorization, indicating foundational rather than advanced content. Learning outcomes focus on identifying basic characteristics and recognizing relevance, not advanced theoretical or analytical work."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course structure consists of weekly homework, learning activities (iClicker polls and Real World Connection quizzes), and exams. There is no evidence of sustained inquiry, design, or problem-solving projects that extend across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "Assessment is based on multiple-choice homework, short quizzes, and exams. There is no mention of significant independent or collaborative intellectual work such as papers, projects, or extended analyses."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments appear to be instructor-defined, including homework questions, iClicker polls, Real World Connection quizzes, and exams. There is no evidence of student-defined or student-shaped projects or questions."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course structure is based on predetermined homework and exam questions with limited opportunities for students to make decisions with intellectual or ethical consequences. Real World Connection quizzes require correct answers but do not involve consequential decision-making."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "Assessments consist primarily of multiple-choice homework and exams with two attempts allowed. There is no evidence of work requiring extended analytical commitment or iterative review and response processes."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. The final exam constitutes only 10% of the grade, and other assessments are primarily multiple-choice homework and short quizzes."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no mention of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The course does not include any public-facing or applied outcomes. All assessments are internal course activities (homework, quizzes, exams)."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of multiple-choice homework (42%) and short learning activity quizzes (30%). While homework is ongoing, the questions are described as multiple-choice representative of exam questions rather than requiring critical analysis, synthesis, or original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "EAPS 100 is a lower-division course (100-level) explicitly described as providing 'a brief introduction to our planet Earth' and emphasizing 'developing a basic understanding of geoscience processes and concepts,' making it a foundational introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course covers broad introductory topics across geology, hydrology, oceanography, and atmospheric science with learning outcomes focused on identifying basic characteristics and recognizing relevance, indicating coverage rather than advanced analysis or application."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes visual analysis techniques, it is not a skills-only or tool-training course. It covers conceptual understanding of geoscience processes."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a major intellectual deliverable. Assessment consists of homework (42%), learning activities (30%), midterm exams (18%), and final exam (10%), with no major project, paper, or capstone requirement."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course fails to meet Honors eligibility requirements. It meets no pillars of the Honors experience and triggers three exclusion criteria: it is a lower-division introductory course (100-level), focused on broad introductory coverage rather than advanced analysis, and lacks a major intellectual deliverable. Additionally, it fails to meet any rigor criteria, any student agency criteria, and any demonstrable evidence of learning criteria."
+      }
+    },
+    "_source_file": "EAPS10000_Spring2026_M7CCPP.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "AGRY 12500",
+      "course_title": "Environmental Conservation and Science",
+      "department": "AGRY",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates multiple high-level domains: Natural Sciences (ecology, environmental geology, climate science, conservation biology) and Social Sciences (environmental ethics, policy, societal costs and benefits). Learning outcome 1 addresses 'costs and benefits for both individuals and societies,' outcome 2 requires ethical reasoning, and outcome 3 describes scientific disciplines 'and their context and influence in modern societies,' demonstrating integration across domains rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe opportunities for students to engage in original inquiry, investigation, or knowledge creation. The course appears focused on learning established concepts through exams, homework, and topical assignments rather than formulating research questions or producing original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course discusses global issues like climate change and environmental policy, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions through direct engagement beyond classroom discussion."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Although learning outcome 2 asks students to form opinions on how 'we should approach' topics in an ethical manner, there is no evidence of intentional practice in decision-making, taking responsibility, or influencing outcomes through structured leadership activities or frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "The course is described as 'introductory' and covers foundational concepts across multiple environmental science topics. There is no evidence of advanced theoretical, analytical, or methodological content that would characterize upper-division work."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The assessment structure consists of exams, homework assignments, participation points, and topical assignments, but there is no evidence of sustained inquiry, design, or problem-solving that develops across the term. The work appears episodic rather than cumulative."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus does not describe significant independent or collaborative intellectual work. The listed assignments (exams, Connect homework, iClicker participation, topical assignments) do not indicate substantial independent research, analysis, or collaborative projects."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "There is no evidence that students define or shape their own projects or questions. The 'topical assignments' are mentioned but not described in detail, and nothing suggests student choice in defining intellectual direction."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students are asked to form opinions on controversial topics (learning outcome 2), there is no evidence of decision-making with intellectual or ethical consequences that affects course outcomes or real-world contexts."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The assessment structure emphasizes exams and homework assignments rather than extended analytical work requiring iterative review and response. There is no mention of drafts, revisions, or sustained analytical engagement with a single problem or question."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The grading breakdown shows exams (400 points), Connect homework (160 points), participation (40 points), and topical assignments (100 points). No single major paper, project, design, or performance is described that would constitute a significant intellectual deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term. The comprehensive final exam does not constitute a capstone in the sense of an integrative intellectual product."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no mention of public-facing or applied outcomes. All assessments appear to be standard academic exercises (exams, homework, participation) without external audiences or applied contexts."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The assessment structure is dominated by exams (400/700 points) and homework assignments (160/700 points) which typically assess knowledge recall and application rather than sustained critical analysis, synthesis, or original contribution throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "The course is explicitly described as 'an introductory natural resource or environmental science elective' and is numbered 12500, indicating a lower-division course designed to introduce foundational concepts. It is part of the Undergraduate Core Curriculum addressing a Foundational Learning Outcome."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course description emphasizes broad coverage of topics including 'ecological principles, history of conservation, natural resource management, human impacts on the environment, environmental geology, and environmental ethics,' along with numerous current issues. This breadth is characteristic of introductory survey courses rather than advanced analytical work."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on environmental science concepts and their societal implications rather than purely skills or tool training. While it uses tools like iClicker and Connect, these are delivery mechanisms rather than the course's primary focus."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course assessment consists of multiple exams, homework assignments, participation points, and unspecified 'topical assignments,' but no single major intellectual deliverable (major paper, project, or portfolio) is described that would demonstrate sustained advanced work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course is not eligible for Honors credit due to multiple exclusions: it is explicitly described as a lower-division introductory course (12500 level), focuses on broad introductory coverage across multiple environmental topics, and lacks a major intellectual deliverable. Additionally, while it meets the interdisciplinary academics pillar, it fails to meet any of the rigor criteria (no advanced content, sustained inquiry, or significant independent/collaborative work), any of the student agency criteria (no student-defined projects, consequential decision-making, or extended analytical commitment), and any of the demonstrable evidence of learning criteria (no major project, portfolio, public-facing outcome, or sustained assessment structure requiring critical analysis)."
+      }
+    },
+    "_source_file": "EAPS12500_Spring2026_MP6MC2.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "EAPS 32700",
+      "course_title": "Climate, Science and Society",
+      "department": "EAPS",
+      "college": "Science",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly examines 'the relationship between science, politics, and society' and addresses environmental, economic, and social impacts of climate change, demonstrating integration across Natural Sciences, Social Sciences, and policy/governance domains. Learning outcomes include both scientific foundations and policy/governance analysis, which cannot be adequately addressed from a single domain."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While the course includes data explorations and a semester project, the syllabus does not provide evidence that students engage in original inquiry, formulate research questions, or produce findings that extend beyond established answers. The assignments appear to be analytical rather than research-oriented."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "Although the course addresses global climate issues and mentions 'specific geographic regions and communities,' there is no evidence of sustained engagement with actual communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While the course includes teamwork outcomes (functioning in different capacities, discussing ideas, integrating perspectives), there is no evidence of intentional leadership development, decision-making responsibility, or analysis of leadership or ethical frameworks beyond basic collaboration."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course requires Junior or Senior standing and addresses advanced topics including climate feedback mechanisms, climate models, policy analysis, and evaluation of mitigation/adaptation strategies, indicating upper-division theoretical and analytical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The semester project involves multiple check-ins (3 at 5% each), a draft for peer review, peer review process, final submission (20%), and reflection (3%), demonstrating sustained inquiry and problem-solving across the term totaling 48% of the grade."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through the group semester project (53% of grade including check-ins, draft, and final submission) and independent work through individual data explorations (24%), concept reviews (24%), and reflection (3%)."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence that students define their own project topics or research questions. While there is a semester project, the extent of student choice in shaping the project is not specified."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students engage in consequential decision-making through evaluating mitigation strategies, analyzing policy roles, and conducting peer review (5% of grade), which requires intellectual judgment that affects both their learning and their peers' work."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The project structure requires extended analytical commitment with iterative development through check-ins, draft submission, peer review feedback, and final revision, demonstrating a review/response cycle spanning the semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The semester project constitutes 48% of the course grade (including 15% check-ins, 5% draft, 5% peer review, 20% final submission, 3% reflection), representing a major deliverable that demonstrates learning across multiple dimensions."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the course includes a major project, there is no evidence of a portfolio integrating work across the term or a capstone-style artifact that synthesizes multiple assignments."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate that the semester project or any other work is public-facing or applied to external audiences beyond the classroom."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (72%: 24% data explorations + 24% concept reviews + 15% project check-ins + 5% peer review + 3% reflection + 20% final project - excluding introductory assignments) requires critical analysis, evaluation of strategies, and synthesis of scientific and societal dimensions."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is numbered 32700 (300-level), requires Junior or Senior standing, and is not designed as a foundational introduction within the discipline."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple aspects of climate change, it emphasizes analysis and evaluation ('evaluate strategies,' 'analyze roles of policy') rather than broad introductory coverage, and requires upper-division standing."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on conceptual understanding, analysis, and evaluation of climate science and policy, not solely on skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a substantial semester project worth 48% of the grade with multiple components demonstrating sustained intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar by integrating natural sciences, social sciences, and policy analysis. It satisfies rigor requirements through advanced content, sustained inquiry, and significant independent/collaborative work. Student agency is demonstrated through consequential decision-making and extended analytical commitment. Demonstrable evidence of learning is shown through both a major project (48% of grade) and sustained assessment structure. No exclusions apply."
+      }
+    },
+    "_source_file": "EAPS32700_Spring2026_GUJ4JJ.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "EAPS36000",
+      "course_title": "Science and Society",
+      "department": "EAPS",
+      "college": "Science",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates Natural Sciences (climate physics, Earth systems) with Social Sciences (societal impacts, policy implications) as evidenced by the course description stating it 'incorporates both societal and scientific perspectives' and learning objectives that include both 'basic physical processes in the climate system' and 'impacts of a rapidly changing climate on societies,' addressing climate mitigation and adaptation which require policy analysis."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in original inquiry through a team research project where they 'choose a topic, do research on the topic, and analyze the team's findings' on Climate Change Mitigation or Adaptation, producing a ~10-page analytical term paper requiring them to 'identify reliable sources,' 'critically analyze information,' and demonstrate 'well-analyzed, critical' work."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global climate change issues, there is no evidence of sustained engagement with external communities or organizations, nor structured reflection on ethical dimensions of community engagement beyond academic analysis."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership capacity through team-based work where students must 'work collaboratively,' share decision-making on topic selection, coordinate research efforts, take responsibility for team outcomes as assessed through peer evaluation of 'participation, cooperation, contribution, problem-solving, communication,' and the presentation is graded 'as a whole' requiring collective accountability."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced content as evidenced by learning objectives requiring students to 'quantitatively evaluate emerging issues,' 'compare anthropogenic activities to natural variability,' 'recognize relative roles of land-biosphere, oceans, and atmosphere over different time scales,' and 'evaluate latest relevant Climate Change news based on scientific knowledge gained,' indicating analysis beyond introductory concepts."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The term project requires sustained inquiry throughout the semester, involving topic selection, collaborative research, regular team meetings, progress reporting to instructor, analysis of findings, production of a ~10-page individual term paper, and an oral presentation, demonstrating extended investigation across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through team research projects with regular meetings and shared responsibilities, combined with independent work as each student must 'write individually' their ~10-page term paper despite working in teams, demonstrating both collaborative and independent intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students exercise agency by working 'with a team created by the instructor to choose a topic' for their research project on Climate Change Mitigation or Adaptation, with the topic 'selected collectively by the team members,' allowing student-shaped inquiry within the broader climate change framework."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions in team coordination, topic selection, and division of labor, with peer evaluation assessing 'participation, cooperation, contribution, problem-solving, communication' worth 5 points, and the presentation graded 'as a whole' requiring collective responsibility for intellectual outcomes."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The ~10-page term paper graded on the 'Purdue College of Science Technical Writing rubric' requires extended analytical commitment involving research, critical analysis of sources, synthesis of team findings, and individual writing, with regular progress reporting indicating iterative development throughout the semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The term paper (20 points, 20% of grade) and oral presentation (10 points, 10% of grade) together constitute the 35-point term project representing 35% of the course grade, serving as a major deliverable requiring research, analysis, and synthesis."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The course explicitly describes the term project as a 'capstone teamwork project related to climate change' in the course overview, integrating knowledge and skills developed throughout the semester into a comprehensive research project with written and oral components."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The oral presentation component requires teams to present their research findings to the class, creating a public-facing outcome that requires academic judgment and communication skills, with equal sharing of presentation responsibilities among team members."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes five assignments requiring analysis (40 points), two cumulative open-book exams (20 points), a research-based term paper evaluated on technical writing standards (20 points), and an oral presentation (10 points), with the majority of graded work requiring critical analysis beyond recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "As a 300-level course (EAPS 36000) requiring quantitative evaluation, critical analysis, and advanced synthesis through a capstone project, this is an upper-division course, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers climate change fundamentals, it emphasizes advanced application through 'quantitatively evaluate emerging issues,' sustained research projects, critical analysis of latest news, and a capstone project requiring original research rather than broad coverage alone."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course requires substantive intellectual work including research, critical analysis, synthesis of complex climate science and societal issues, and production of major deliverables (term paper and presentation), far exceeding skills-only training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: a ~10-page individual term paper worth 20 points evaluated on College of Science technical writing standards, and a team oral presentation worth 10 points, together comprising 30% of the grade."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism; it is described as a 'Great Issues course in College of Science' but not as already receiving Honors credit."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets three of four pillars (interdisciplinary academics through integration of natural and social sciences, undergraduate research through team research projects, and leadership development through collaborative work with peer accountability). It satisfies all rigor criteria (advanced content on climate systems and quantitative analysis, sustained inquiry through semester-long research, and both independent and collaborative work). It meets all student agency criteria (student-defined topics, consequential team decisions, extended analytical commitment). It demonstrates learning through multiple mechanisms (major term paper and presentation totaling 30% of grade, capstone project structure, public-facing presentation, and sustained assessment requiring critical analysis). No exclusions apply as this is an upper-division course with substantive intellectual requirements and major deliverables."
+      }
+    },
+    "_source_file": "EAPS36000_Spring2026_RQ29Q1.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "EAPS 37500",
+      "course_title": "Great Issues - Fossil Fuels, Energy and Society",
+      "department": "EAPS",
+      "college": "Science",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Natural Sciences (geology/earth sciences) with Social Sciences (economics, geopolitics, political process) and potentially Humanities (ethics). The syllabus states the course will 'review the structure, economics, history, and geopolitical issues faced by fossil fuel industries' and explicitly addresses 'how does science interact with society,' 'can/should/how science influence public policy,' and 'science and the political process.' This demonstrates genuine integration across domains where the research questions require multiple frameworks."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through a semester paper (13% of grade) and weekly discussion assignments requiring analysis of evidence. The course emphasizes that 'our opinions must be based in evidence and data' and requires students to 'form reasonable opinions based on the evidence and data,' indicating investigation and analysis beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly connects to global issues, stating 'we need to understand the issues of energy and participate in the political process' and emphasizes preparing a 'well-informed society that will be able to influence political leaders.' The focus on environmental impacts, the IPCC 'Code Red' document, and 'one of the most serious and challenging periods on Earth' demonstrates sustained engagement with real-world global issues with ethical and social dimensions."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to influence civic outcomes through participation in political processes. The syllabus states 'all of us need to understand the issues of energy and participate in the political process that will promote the reasonable use of energy' and emphasizes developing 'a well-informed society that will be able to influence political leaders,' demonstrating intentional development of civic leadership capacity."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced analytical content integrating scientific, economic, historical, and geopolitical frameworks. Topics include 'the structure, economics, history, and geopolitical issues faced by fossil fuel industries,' 'environmental effects,' and 'mitigation strategies,' requiring synthesis across multiple complex domains."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course requires sustained inquiry through weekly discussion assignments (12 WDAs across the semester), daily lecture discussions (27 DLDs), and a semester paper due near the end of term. The cumulative nature of these assignments demonstrates sustained engagement with course questions throughout the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work (daily individual lecture discussions, 18% of grade) and collaborative work (weekly group discussion assignments, 16% of grade, and a group semester paper, 13% of grade). Both forms of intellectual work are substantial components of the course."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus mentions a semester paper but does not provide details about whether topics are student-defined. It states 'Details about the paper will be published in BS separately,' so the level of student agency in defining projects cannot be determined from this syllabus."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential decisions about forming evidence-based opinions on contentious energy policy issues. The syllabus states 'It is your task to understand the content and form reasonable opinions based on the evidence and data' and emphasizes that 'This could be a contentious time' requiring informed participation in political processes with real-world implications."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through 27 daily lecture discussions, 12 weekly discussion assignments requiring group deliberation, and a semester paper. The weekly assignments explicitly require summarizing, commenting on relevance, and interpreting meaning, demonstrating iterative analytical engagement throughout the term."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The semester paper constitutes 13% of the course grade and is described as a major group deliverable due near the end of the term. Combined with quizzes at 53%, this represents a significant intellectual deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While there are multiple assignments throughout the term, there is no evidence of a portfolio or capstone-style artifact that explicitly integrates work across the semester."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus of public-facing outcomes. All deliverables appear to be submitted for instructor evaluation rather than for public or external audiences."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: 27 daily discussion posts (18%), 12 weekly analytical discussion assignments (16%), and a semester paper (13%) totaling 47% of the grade. Combined with quizzes testing understanding and application (53%), the assessment structure emphasizes ongoing analytical engagement rather than simple recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "EAPS 375 is a 300-level course, which is upper-division. While it is a 'Great Issues' course addressing broad topics, the course number indicates it is not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers broad topics related to fossil fuels and energy, it requires advanced analysis including 'forming reasonable opinions based on evidence and data,' engagement with complex geopolitical and economic issues, and sustained inquiry through discussion and writing. This goes beyond introductory coverage to require application and synthesis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It focuses on understanding complex societal issues, forming evidence-based opinions, and engaging in civil debate about contentious topics."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a semester paper (13% of grade), sustained discussion assignments (34% combined), and quizzes (53%), providing multiple intellectual deliverables including a major paper."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four pillars (interdisciplinary academics, undergraduate research, community and global engagement, and leadership development). It satisfies all three rigor criteria (advanced content, sustained inquiry, and independent/collaborative work). It meets student agency requirements through consequential decision-making and extended analytical commitment. It demonstrates learning through a major project and sustained assessment structure. No exclusions apply. The course strongly aligns with Honors expectations for integrative, inquiry-based learning addressing significant societal challenges."
+      }
+    },
+    "_source_file": "EAPS37500_Fall2025_D3UIWU.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "EAPS 58400",
+      "course_title": "Hydrogeology",
+      "department": "EAPS",
+      "college": "Science",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Natural Sciences (hydrogeology, groundwater flow processes, geochemistry) and Engineering (well hydraulics, groundwater development, engineering aspects of groundwater systems). The syllabus states the course discusses 'Geologic and engineering aspects of ground water systems' and is 'designed primarily for science and engineering majors,' demonstrating cross-domain integration between Natural Sciences and Engineering."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course includes a term project worth 100 points that requires students to solve 'a real-world problem in hydrogeology' with field work. Learning outcome 5 explicitly states students will 'Develop a simple field sampling plan, collect field and lab data, interpret field and lab data, and make conclusions and inferences,' demonstrating inquiry and investigation that extends beyond established answers through original data collection and analysis."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the syllabus mentions 'the influence of humans on this resource' and discusses how groundwater interacts with various systems including humans and agriculture, there is no evidence of sustained engagement with external communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of that engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include evidence of intentional development of students' capacity to make decisions, take responsibility, or influence outcomes through leadership frameworks. While decision-making is involved in the term project, there is no explicit focus on leadership development or ethical frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical and analytical content including well hydraulics, groundwater flow processes, geochemistry of groundwater, and isotope applications. The course is designed for 'junior and senior undergraduate students and graduate students' with a prerequisite of MA 26100, indicating advanced mathematical content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry through six lab/homework assignments throughout the semester, a term project with field work, and learning outcomes emphasizing 'Formulate and critique conceptual models' and development of field sampling plans, data collection, and interpretation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent work through six lab/homework assignments (50 points each, 300 points total), a term project worth 100 points requiring field work and solving real-world problems, demonstrating substantial independent intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While the syllabus mentions a term project, there is no explicit evidence that students define or shape the project questions or scope. The project is described as solving 'a real-world problem in hydrogeology' but the level of student autonomy in defining the problem is not specified."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Learning outcome 4 explicitly requires students to 'Formulate and critique conceptual models on how groundwater responds to perturbations and how it impacts other systems,' and outcome 5 requires students to 'make conclusions and inferences' from field and lab data, demonstrating decision-making with intellectual consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through six lab assignments distributed across the semester (300 points total), a term project worth 100 points involving field work and data interpretation, and problem sets. Lab reports are 'typically due in 1 or 2 weeks,' suggesting iterative work."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The term project is worth 100 points out of 700 total points (14% of grade), requiring practical experience solving a real-world problem in hydrogeology with field work, constituting a significant portion of the course grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The syllabus does not describe a portfolio or capstone-style artifact that integrates work across the term. The term project is a single project rather than an integrative portfolio."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus of public-facing or applied outcomes that would be presented to external audiences. The term project is described but not as having a public-facing component."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis: six lab/homework assignments (300 points), a term project involving data collection and interpretation (100 points), totaling 400 out of 700 points (57%) requiring analytical work beyond exams."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is an upper-division course (500-level) designed for junior and senior undergraduate students and graduate students, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course provides an 'introduction to Hydrogeology,' it emphasizes advanced analysis through well hydraulics, geochemistry, and isotope applications, with learning outcomes focused on problem-solving, critiquing conceptual models, and field data interpretation rather than broad coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It emphasizes 'understanding of fundamental hydrogeological processes, concepts, and problems' and is 'designed to promote active learning, to promote creativity and innovative thought, and to build critical thinking skills.'"
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a term project worth 100 points (14% of grade) requiring field work and solving real-world problems, constituting a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets multiple pillars (interdisciplinary_academics: integration of Natural Sciences and Engineering; undergraduate_research: term project with field work and original data collection). It satisfies all rigor criteria (advanced content, sustained inquiry, independent work). It meets student agency requirements (consequential decision-making, extended analytical commitment). It demonstrates learning through a major project and sustained assessment. No exclusions apply. The course clearly meets Honors teaching and learning expectations."
+      }
+    },
+    "_source_file": "EAPS58400_Fall2025_6TBNL5.pdf"
+  }
+]

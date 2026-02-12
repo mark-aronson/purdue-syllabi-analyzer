@@ -304,5 +304,9 @@
       }
     },
     "_source_file": "COM41500_Spring2026_OOS8PN.pdf"
+  },
+  {
+    "_source_file": "COM49100_Fall2025_2S8A3D.docx",
+    "_error": "1 validation error for SyllabusReview\ncourse_analysis.review_decision.rationale\n  Field required [type=missing, input_value={'decision': 'not_approve...assessed deliverables.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
   }
 ]

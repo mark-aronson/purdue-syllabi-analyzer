@@ -712,5 +712,107 @@
       }
     },
     "_source_file": "ENGL43900_Spring2026_O34OOI.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "ENGL39300",
+      "course_title": "Interdisciplinary Approaches To Environmental And Sustainability Studies",
+      "department": "ENGL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates three distinct high-level domains: Human Dimensions (Social Sciences/Humanities), Engineering (Engineering and Technology), and Environmental Sciences (Natural Sciences). The course description states it will 'integrate the following three academic approaches' and learning outcomes require students to 'distinguish, paraphrase, and translate different disciplinary perspectives,' 'combine different disciplinary approaches by synthesizing,' and 'communicate across disciplines.' The readings span environmental ethics, policy science, literature, engineering systems, and natural sciences."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "While the course involves analysis and synthesis of existing knowledge, there is no evidence in the syllabus of students formulating original research questions, conducting investigations, or producing original findings that extend beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "Although the course addresses global environmental challenges, there is no evidence of sustained engagement with external communities, organizations, or structured reflection on ethical and social dimensions of such engagement. The work appears classroom-based without community partnerships."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence of intentional leadership development through decision-making practice, taking responsibility for outcomes, or explicit analysis of leadership frameworks, though ethical dimensions are implicit in environmental ethics readings."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content including systems theory (Meadows), policy science theory (Rittel and Webber's 'wicked problems'), intersectionality frameworks, and complex environmental ethics debates (Hardin, Ostrom). The 39300-level designation and integration of multiple disciplinary frameworks indicate advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Learning outcomes require students to 'combine different disciplinary approaches by synthesizing, reorganizing, and reformulating diverse viewpoints' and 'push the boundaries of different disciplinary approaches,' suggesting sustained inquiry across the term. The progression from reflections through group presentation to final paper indicates sustained engagement."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both collaborative work (group presentation) and independent work (final paper, reflections on readings), demonstrating significant intellectual work in both modes throughout the term."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not provide evidence that students define their own projects or research questions. Assignments are listed generically without indication of student choice in topics or approaches."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students analyze environmental ethics and policy decisions made by others, there is no clear evidence that students make consequential decisions with intellectual or ethical stakes in their own work."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The final paper and requirement to 'synthesize, reorganize, and reformulate diverse viewpoints' across three disciplinary approaches indicates extended analytical commitment. The progression from reflections to midterm to final paper suggests iterative development of analytical skills."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes a final paper as a major deliverable, which likely constitutes a significant portion of the course grade given it is one of only four assessment types listed."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While there is a group presentation, there is no evidence it is public-facing or applied beyond the classroom context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes multiple graded components (reflections on readings, group presentation, midterm, final paper) that require critical analysis and synthesis across different disciplinary perspectives on environmental challenges, constituting sustained assessment throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 39300-level course (upper division) and serves as 'the lynchpin of the undergraduate Certificate,' indicating it is not a foundational introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course covers multiple disciplines, it focuses on integration and synthesis rather than broad introductory coverage. Learning outcomes emphasize combining and translating disciplinary perspectives, not merely surveying them."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on conceptual integration, analysis, and synthesis of interdisciplinary perspectives on environmental challenges, not skills or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a final paper as a major intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through explicit integration of Human Dimensions (Social Sciences/Humanities), Engineering, and Environmental Sciences. It satisfies all rigor criteria (advanced content, sustained inquiry, and independent/collaborative work). It meets student agency requirements through extended analytical commitment. It provides demonstrable evidence of learning through both a major project (final paper) and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "ENGL39300_Fall2025_PXQ29J.pdf"
   }
 ]

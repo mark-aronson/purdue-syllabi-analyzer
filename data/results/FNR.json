@@ -1,0 +1,410 @@
+[
+  {
+    "course_information": {
+      "course_number": "AGRY 12500",
+      "course_title": "Environmental Conservation and Science",
+      "department": "AGRY",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates six distinct scientific disciplines (ecology, environmental science, resource management, environmental geology, climate science, and conservation biology) spanning Natural Sciences and Social Sciences domains. The learning outcomes state students will 'describe the work done in six scientific disciplines...and their context and influence in modern societies,' and topics include environmental ethics, policy, and societal impacts alongside natural science content, demonstrating cross-domain integration between Natural Sciences and Social Sciences."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any activities involving student formulation of research questions, analysis of original evidence, or production of original findings. Assignments appear to be primarily exams, homework, and topical assignments without evidence of inquiry-based research."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global issues like climate change and discusses 'controversial topics in the news,' there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "Although students form opinions on controversial topics and consider ethical approaches, there is no evidence of intentional leadership development, practice in decision-making contexts, or analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 0,
+          "rationale": "This is an introductory course (12500 level) explicitly described as 'an introductory natural resource or environmental science elective' focused on describing issues, facts, and concepts across environmental topics. The content is foundational rather than advanced."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course structure emphasizes exams, homework assignments, and participation rather than sustained inquiry, design, or problem-solving work across the term. No evidence of extended investigative projects is present."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "The syllabus describes exams, Connect homework, iClicker participation, and topical assignments but provides no evidence that any of these require significant independent or collaborative intellectual work beyond standard coursework."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "No evidence of student-defined or student-shaped projects or questions is present in the syllabus. All assignments appear to be instructor-defined."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While students form opinions on controversial topics, there is no evidence that this involves decision-making with intellectual or ethical consequences beyond standard academic coursework."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The assessment structure consists of exams, homework, participation, and topical assignments without evidence of extended analytical work or iterative review and response processes."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The course does not include a major paper, project, design, or performance. The assessment consists of exams (worth 400/700 points total), homework (160 points), participation (40 points), and topical assignments (100 points) without evidence of a major integrative deliverable."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "No portfolio or capstone-style artifact integrating work across the term is described in the syllabus."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "No public-facing or applied outcome requiring academic judgment is evident in the syllabus."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of exams (400/700 points) and homework assignments (160/700 points), which do not clearly require critical analysis, synthesis, or original contribution at an advanced level appropriate for Honors credit."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "This is explicitly described as 'an introductory natural resource or environmental science elective' at the 12500 level, designed to introduce foundational concepts in environmental science and conservation."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course covers a broad range of introductory topics including 'ecological principles, history of conservation, natural resource management, human impacts on the environment, environmental geology, and environmental ethics' with learning outcomes focused on describing issues, facts, and concepts rather than advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is content-focused on environmental science topics, not skills-only or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 1,
+          "rationale": "The course lacks a major intellectual deliverable; assessment consists primarily of multiple exams, homework, participation, and topical assignments without evidence of a substantial integrative project, paper, or performance."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence that the course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the interdisciplinary academics pillar through integration of natural sciences and social sciences perspectives, it fails to meet minimum requirements in multiple critical areas: (1) it triggers three exclusions (lower_division_introductory, broad_introductory_coverage, lacks_major_deliverable); (2) it does not meet any rigor criteria; (3) it does not meet any student agency and responsibility criteria; (4) it does not meet any demonstrable evidence of learning criteria. The course is an introductory survey course focused on foundational coverage rather than the advanced analysis, sustained inquiry, and major intellectual deliverables required for Honors credit."
+      }
+    },
+    "_source_file": "FNR12500_Spring2026_SCZR6E.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "FNR 35700",
+      "course_title": "Fundamental Remote Sensing",
+      "department": "FNR",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses on remote sensing applications within agriculture, forestry, natural resources, and urban areas, but remains within a single high-level domain (Natural and Exact Sciences/Technology). No evidence of integration with additional high-level domains such as Social Sciences, Humanities, Business, or Education."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course includes three independent projects requiring students to apply remote sensing skills to solve problems in agriculture, forestry, natural resources, and urban areas. Students engage in problem-solving exercises and use local remote sensing data, demonstrating inquiry and knowledge application that extends beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course uses local area remote sensing data, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe activities that develop students' capacity to make decisions, take responsibility, or influence outcomes through intentional practice, reflection, or analysis of leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers remote sensing fundamentals at the 300-level, including advanced technical content involving satellite imagery analysis, Erdas Imagine software, and applications in multiple domains (agriculture, forestry, natural resources, urban areas)."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through three independent projects, six lab assignments, and problem-solving homework exercises that require students to apply remote sensing techniques to real-world problems."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The syllabus explicitly states that 'there are three projects, which are performed independently by individual students,' demonstrating significant independent intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "While students complete independent projects, there is no evidence that students define their own project topics or research questions. Projects appear to be instructor-defined."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions in applying remote sensing techniques to solve problems in agriculture, forestry, and natural resources, where analytical choices affect project outcomes and interpretations."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "Three independent projects spanning the term, along with six lab assignments and problem-solving homework, require extended analytical commitment and application of remote sensing methods across multiple contexts."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The course includes three substantial projects (Project 1: 125 points, Project 2: 75 points, Project 3: 100 points) that together constitute 50% of the total course grade (300 out of 600 points)."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "No evidence of a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While the syllabus mentions sharing homework answers and project reports among students, there is no evidence of public-facing outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The grading structure shows sustained assessment throughout the term with three major projects (300 points), six lab assignments (180 points), and five quizzes/reflections/homework (100 points), with the majority requiring analytical application of remote sensing techniques."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "FNR 35700 is a 300-level course, which is upper-division, not lower-division."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While titled 'Fundamental,' the course goes beyond broad coverage to include sustained application through three independent projects and lab work requiring technical skill development and problem-solving."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "Although the course involves learning Erdas Imagine software, it emphasizes application to real-world problems and problem-solving exercises, not just tool training. Three independent projects require analytical application."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes three substantial independent projects that constitute 50% of the course grade."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the undergraduate research pillar through three independent projects applying remote sensing to real-world problems. It satisfies rigor requirements with advanced content, sustained inquiry, and independent work. Student agency is demonstrated through consequential decision-making and extended analytical commitment. Demonstrable evidence of learning is shown through major projects (50% of grade) and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "FNR35700_Fall2025_O6LZIH.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "FNR 37500",
+      "course_title": "Human Dimensions of Natural Resource Management",
+      "department": "FNR",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates social science concepts and natural resource management across two high-level domains (Social Sciences and Natural/Environmental Sciences). The course description states it will 'train students to think critically in an interdisciplinary way, with a focus on incorporating social science thinking into natural resource problem-solving,' and learning objectives require students to identify 'social, economic, political, and cultural factors' influencing natural resource behaviors, demonstrating genuine cross-domain integration."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The 'Development of Research Questions' assignment requires students to engage in inquiry extending beyond established answers. Students must read peer-reviewed literature, identify gaps, and develop three original research questions related to human dimensions of a natural resource issue, then connect these questions to course concepts in a 400-word explanation. This involves formulation of questions and analysis consistent with undergraduate research."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses real-world natural resource issues and sustainability, there is no evidence of sustained engagement with communities, organizations, or structured reflection on ethical/social dimensions of direct engagement. The work is classroom-based analysis rather than community-connected practice."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not describe opportunities for students to develop leadership capacity through decision-making, taking responsibility, or influencing outcomes in academic, professional, or civic contexts. While students analyze strategies for 'influencing human behaviors,' there is no evidence of intentional leadership practice or reflection on leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content, as evidenced by learning objectives requiring familiarity with 'key concepts and theories related to the human dimensions of natural resource management' and 'key methods for collecting and analyzing human-dimensions data.' The research question assignment requires engagement with peer-reviewed literature and theoretical frameworks."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through multiple components: four think-and-write assignments requiring applied problem-solving using course concepts, a multi-step research question development project requiring literature review and conceptual integration, and in-class activities. These assignments build progressively throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through four think-and-write assignments and individual components of the research question development project (Steps 2 and 3 must be completed individually). Students may also choose collaborative work for Step 1 of the research questions assignment, with clear individual accountability requirements."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The 'Development of Research Questions' assignment allows students to 'select a current natural resource issue of interest to you,' develop their own research questions, and choose whether to work individually or in groups. The reflection essay also asks students to explore how course content applies to their own future career paths, providing student choice and self-direction."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Learning objective 5 requires students to 'critically examine current natural resource management and conservation approaches/programs from a human-dimensions perspective and suggest well-informed alternatives/changes/additions,' which involves consequential intellectual decision-making. The think-and-write assignments explicitly ask students to 'practice applied problem-solving' and critically analyze environmental issues."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through four think-and-write assignments across the semester, a multi-step research question development project requiring literature synthesis and conceptual explanation (minimum 400 words for Step 3), and three exams requiring short-essay responses. Students must arrive having 'read and processed the assigned readings' for discussion built upon them."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The 'Development of Research Questions' assignment constitutes a major project worth 50 points (approximately 10% of the grade), requiring literature review, question formulation, and a 400-word conceptual explanation. Combined with the four think-and-write assignments (120 points total, 23% of grade), major projects represent a significant portion of the course grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While there is a reflection essay connecting course content to career goals, there is no evidence of a portfolio or capstone-style artifact that integrates work across the term in a cumulative fashion."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any public-facing or applied outcomes. All assignments appear to be submitted for instructor evaluation rather than external audiences or real-world application contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis, synthesis, or original contribution: four think-and-write assignments requiring applied problem-solving and critical analysis (120 points), research question development requiring synthesis and conceptual connection (50 points), exams including short-essay questions (200 points), and in-class activities (70 points). Combined, these analytical assessments constitute the bulk of the 520 total points."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "FNR 37500 is a 300-level course, not a lower-division course. The course number indicates upper-division status."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course 'introduces social science concepts,' it goes beyond coverage to require application, critical analysis, and research question development. Learning objective 5 requires students to 'critically examine' and 'suggest well-informed alternatives,' indicating advanced analysis rather than broad survey."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course focuses on theoretical concepts, critical thinking, and applied problem-solving in natural resource management, not merely skills or tool training. CITI training is a minor component (30 of 520 points) supporting research ethics awareness."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes major intellectual deliverables: the research question development project (50 points), four think-and-write assignments (120 points total), and a reflection essay (50 points), all requiring substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (interdisciplinary academics and undergraduate research), satisfies all three rigor criteria (advanced content, sustained inquiry, and independent/collaborative work), meets all three student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), demonstrates evidence of learning through major projects and sustained assessment, and triggers no exclusions. The course integrates social science and natural resource management in a genuinely interdisciplinary way, engages students in research question development, and requires substantial analytical work throughout the term."
+      }
+    },
+    "_source_file": "FNR37500_Spring2026_J5BB46.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "FNR 40910",
+      "course_title": "Forest Economics",
+      "department": "FNR",
+      "college": "Agriculture",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from Natural Sciences (forest ecology, biodiversity, ecosystem integrity) with Social Sciences (economics, behavioral science, psychology). The syllabus explicitly mentions 'Forest management, psychology, and behavioral science' as a topic and states the course addresses 'ecological, social, and economic objectives,' demonstrating cross-domain integration that shapes management decisions."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The capstone project (30% of grade) requires students to develop and present a 'tangible final product' applying forest management skills. Students must formulate their own project topics by Feb. 27, conduct sustained inquiry across weeks 12-15, and present findings, indicating original applied work beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes engagement with practicing professionals through 'roundtables/guest lectures' and a field trip to the IHLA Convention (Week 4). The course description situates forest management within 'balancing economic development, environmental sustainability, and social well-being,' and students learn from real-world practitioners, connecting academic learning to professional contexts."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Students develop decision-making capacity through the capstone project requiring groups to make management decisions about forest resources. The course focuses on 'analytical tools of forest decision making' and requires a 'project pitch talk,' where students must present and defend their management approaches, demonstrating influence over outcomes through structured decision-making frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is numbered 40910 (400-level), indicating upper-division status. Topics include advanced analytical methods such as 'Strategic Planning,' 'Tactical Planning,' 'Operational Planning,' 'Adaptive Management,' 'Forest Carbon Offset' projects, and 'Forest Operation Logistics,' all requiring sophisticated theoretical and methodological understanding."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The capstone project spans multiple weeks (topic selection by Week 7, pitch talk in Week 11, dedicated project time Weeks 12-15, final presentation Week 16), requiring sustained inquiry and problem-solving across approximately 9 weeks of the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both individual work (4 lab reports worth 20 points) and significant collaborative work (capstone project, presentation, and pitch talk totaling 50 points, or 50% of the grade). The capstone project explicitly requires group formation and collaborative development of a final product."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students must 'finalize the topic' for their capstone project by Feb. 27, indicating student-defined project questions. The syllabus states groups must form and select their own topics, with detailed expectations to be provided separately, demonstrating significant student agency in project definition."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The capstone project requires students to make forest management decisions with real-world implications. The course focuses on 'analytical tools of forest decision making' and requires application of management skills to create a 'tangible final product,' indicating decisions with intellectual and potentially practical consequences."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The capstone project involves multiple stages of review and iteration: initial topic selection (Week 7), pitch talk for feedback (Week 11), extended project development (Weeks 12-15), and final presentation (Week 16), demonstrating iterative analytical work with multiple review points."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The capstone project constitutes 50% of the course grade (30 points for project, 10 for presentation, 10 for pitch talk), representing a major intellectual deliverable requiring application of course concepts to create a tangible final product."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The course explicitly includes a 'capstone project' that integrates work across the term, with students applying forest management approaches and tools learned throughout the semester to develop a comprehensive final product presented in Week 16."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The capstone presentation and pitch talk (Week 11 and Week 16) are public-facing outcomes where students must present their forest management projects to an audience, requiring academic judgment in communicating findings and defending decisions."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course includes sustained assessment through 4 lab reports requiring analysis of management scenarios (20%), pop quizzes testing understanding (10%), an open-book exam requiring application (20%), and a multi-stage capstone project (50%), with the majority of work requiring critical analysis and synthesis."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "The course is numbered FNR 40910, a 400-level upper-division course. It builds on prior knowledge and includes advanced topics such as carbon offset projects and adaptive management, indicating it is not a foundational introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "Rather than broad coverage, the course focuses on application through labs, a capstone project, and specific management tools. The course requires sustained analytical work and original project development, not just coverage of topics."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes Excel-based labs, these are integrated with conceptual learning about management approaches. The capstone project requires synthesis and application of knowledge beyond tool use, and learning outcomes emphasize understanding management approaches and contemporary issues."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major capstone project worth 50% of the grade, requiring sustained intellectual work, presentation, and defense. This constitutes a significant intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets all four pillars (interdisciplinary academics through integration of ecology, economics, and behavioral science; undergraduate research through the capstone project; community engagement through practitioner interactions; leadership through decision-making frameworks). It satisfies all rigor criteria (advanced 400-level content, sustained inquiry through multi-week capstone, collaborative and independent work). All three student agency criteria are met (student-defined projects, consequential decision-making, extended analytical commitment). All four demonstrable evidence criteria are met (major project worth 50%, capstone structure, public presentations, sustained assessment). No exclusions apply."
+      }
+    },
+    "_source_file": "FNR40910_Spring2026_EHKQOA.pdf"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "IE 59000",
+      "course_title": "Advanced Project Management: Agile Methods",
+      "department": "IE",
+      "college": "Engineering",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses solely on Agile project management methodologies within Industrial Engineering. While it mentions technology and engineering contexts, there is no evidence of integrating knowledge, methods, or frameworks from distinct high-level domains such as Social Sciences, Humanities, Business, or Natural Sciences."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus describes learning Agile frameworks and methodologies through lectures, practical exercises, and case discussions, but provides no evidence that students engage in original inquiry, investigation, or knowledge creation beyond established Agile practices."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course includes industry speakers, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course explicitly addresses leadership capacity through learning team roles including Product Owner and Scrum Master, facilitating Scrum events, and navigating stakeholder engagement\u2014all of which involve decision-making and responsibility in professional contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course is designated as IE590 for seniors and graduate students, covers advanced Agile methodologies including Scrum, Kanban, XP, scaling and hybrid approaches, and involves managing complex project frameworks\u2014indicating advanced content."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The syllabus mentions practical exercises and case discussions but provides no evidence of sustained inquiry, design, or problem-solving across the term. Assessment relies on exams, homework, and participation rather than extended investigation."
+        },
+        "independent_or_collaborative_work": {
+          "score": 0,
+          "rationale": "While the course mentions the possibility of a final project (30% of grade), this is conditional on enrollment size and may be replaced by a final exam. No other significant independent or collaborative intellectual work is specified."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence that students define or shape their own projects or questions. The final project, if offered, is described as conditional on enrollment with no details about student agency in project definition."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "While the course teaches decision-making frameworks for Agile project management, there is no evidence that students make consequential decisions with intellectual or ethical consequences within the course structure."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "The assessment structure of homework (15%), participation (15%), and three exams (70% total or 20%+20%+30%) does not demonstrate extended analytical commitment or iterative review/response processes."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The final project constitutes 30% of the grade but is conditional on class enrollment size and may be replaced by a final exam. No details are provided about the nature, scope, or requirements of this project."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "There is no evidence of a portfolio or capstone-style artifact that integrates work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The syllabus provides no evidence of public-facing or applied outcomes requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The grading structure emphasizes exams (60-70% of grade) and participation/homework (30%), with no clear evidence that a majority of graded work requires critical analysis, synthesis, or original contribution beyond exam performance."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "IE590 is a 500-level graduate course for seniors and graduate students, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course description states it 'provides a basic understanding of Agile frameworks' and learning outcomes emphasize learning 'basic principles' and being 'introduced to' methodologies, suggesting broad introductory coverage rather than advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course includes practical application of Agile tools, it also covers principles, mindset, and theoretical frameworks, indicating it is not purely skills-based training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course may include a final project worth 30% of the grade, though this is conditional on enrollment size."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course meets one pillar (leadership_development) and demonstrates advanced_content rigor, but fails to meet requirements for student agency and responsibility (no criteria scored 1) and demonstrable evidence of learning (no criteria scored 1). Additionally, the broad_introductory_coverage exclusion is triggered based on the course's emphasis on providing 'basic understanding' and 'basic principles.' These deficiencies prevent approval."
+      }
+    },
+    "_source_file": "IE59000_Spring2026_SHSAFZ.pdf"
+  }
+]

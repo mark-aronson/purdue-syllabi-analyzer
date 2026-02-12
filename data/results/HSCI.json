@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "HSCI 20200",
+      "course_title": "Essentials of Environmental, Occupational, and Radiological Health Sciences",
+      "department": "HSCI",
+      "college": null,
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates multiple high-level domains: Natural and Exact Sciences (biology, chemistry, physics through radiation dosimetry and radioactivity), Engineering and Technology (engineering principles for radiation safety, occupational safety controls), and Social Sciences (public health, health prevention, environmental impacts on human health). The learning outcomes explicitly state understanding 'the application of physical, biological, and engineering principles for the safe use of radiation' and addressing environmental and occupational health concerns that inherently combine scientific, engineering, and social dimensions."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The syllabus does not describe student engagement in inquiry, investigation, or knowledge creation beyond established answers. The course consists of lectures, quizzes, exams, and homework assignments on a required reading. There is no evidence of students formulating research questions, conducting original analysis, or producing novel findings."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global environmental issues through the Silent Spring reading and discusses contemporary occupational and environmental health issues, there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of such engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The syllabus does not include intentional practice, reflection, or analysis of leadership or ethical frameworks. Students are not asked to make decisions, take responsibility, or influence outcomes in ways that develop leadership capacity."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced theoretical and methodological content including radiation dosimetry, interactions of radiation with matter, environmental toxicology, and human health effects of ionizing radiation exposure. Prerequisites (BIOL 110 and CHM 111) indicate building on foundational knowledge to address complex, specialized topics."
+        },
+        "sustained_inquiry": {
+          "score": 0,
+          "rationale": "The course does not involve sustained inquiry, design, or problem-solving across the term. Assessment is primarily through frequent quizzes and multiple-choice exams testing comprehension of lecture material, rather than sustained investigation of a problem or question."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The four homework assignments (100 points total, each 25 points) centered on Silent Spring require independent analytical work. These assignments are posted at least 2 weeks before due dates, suggesting they require substantial engagement with the text and application of course concepts."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "All assignments, including homework on Silent Spring, are instructor-defined. Students do not have opportunities to define their own projects or shape research questions."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "The course does not involve decision-making with intellectual or ethical consequences. Students respond to predetermined questions on quizzes, exams, and homework assignments rather than making consequential analytical or ethical decisions."
+        },
+        "extended_analytical_commitment": {
+          "score": 0,
+          "rationale": "While there are four homework assignments across the semester, there is no evidence of iterative review/response or extended analytical commitment. The homework appears to be discrete assignments rather than a sustained, iterative analytical process."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 0,
+          "rationale": "The four homework assignments total 100 points out of 690 (14.5%), which does not constitute a significant portion of the course grade. No single major paper, project, design, or performance is described."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course does not include a portfolio or capstone-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes. All work is submitted via Brightspace for instructor assessment only."
+        },
+        "sustained_assessment": {
+          "score": 0,
+          "rationale": "The majority of graded work consists of multiple-choice quizzes and exams (460 of 690 points, 67%) that test recall and comprehension rather than requiring critical analysis, synthesis, or original contribution."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "HSCI 20200 is a 200-level course explicitly described as 'designed to introduce the essential concepts' of three fields. The course title includes 'Essentials,' indicating an introductory, foundational treatment appropriate for lower-division students."
+        },
+        "broad_introductory_coverage": {
+          "score": 1,
+          "rationale": "The course provides broad introductory coverage across three distinct fields (environmental, occupational, and radiological health sciences), covering 11 different topic areas from environmental toxicology to radiation dosimetry. The focus is on defining basic concepts and understanding components rather than advanced analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training; it covers conceptual knowledge about health sciences, environmental impacts, and radiation safety."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "While no single major deliverable constitutes a significant portion of the grade, the course does have graded homework assignments and a comprehensive assessment structure."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "The course meets the interdisciplinary academics pillar and demonstrates rigor through advanced content and independent work. However, it triggers two critical exclusions: it is a lower-division introductory course (200-level) explicitly designed to 'introduce essential concepts,' and it provides broad introductory coverage across multiple fields rather than advanced analysis. Additionally, it fails to meet the demonstrable evidence of learning requirement, as the majority of assessment (67%) consists of multiple-choice quizzes and exams testing comprehension rather than requiring critical analysis, synthesis, or original contribution. No major project, portfolio, or public-facing outcome is present."
+      }
+    },
+    "_source_file": "HSCI20200_Fall2025_CZPZ2C.pdf"
+  }
+]

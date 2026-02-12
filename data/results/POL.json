@@ -5204,5 +5204,311 @@
       }
     },
     "_source_file": "POL46000_Fall2025_40Y3KF.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL32300",
+      "course_title": "Renewable Energy Politics around the World",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from Natural Sciences (energy technology, grid systems, renewable energy science from Goldemberg chapters 1-13), Social Sciences (political science, comparative politics, policy analysis), and Engineering/Technology (smart meters, microgrids, storage systems, photovoltaics). The integration is substantive: the core question examines how institutional patterns and technologies jointly shape renewable energy politics, requiring combined methods (technical analysis of energy systems + political/institutional analysis) and mixed evidence (technical feasibility + policy outcomes)."
+        },
+        "undergraduate_research": {
+          "score": 0,
+          "rationale": "The course requires students to write short essays and take exams on renewable energy politics, but there is no evidence of inquiry that extends beyond established answers, formulation of original research questions, or production of original findings. Students analyze existing literature rather than conducting research."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course examines global issues (renewable energy politics in Japan, China, U.S., Germany, Denmark), there is no evidence of sustained engagement with communities or organizations, nor structured reflection on ethical, social, or cultural dimensions of real-world engagement."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "The course does not include intentional practice in decision-making, taking responsibility, or influencing outcomes. There is no evidence of structured reflection on leadership frameworks or ethical decision-making in academic, professional, or civic contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced analytical content in comparative politics, examining institutional patterns, vested interests, policy convergence, and regulatory frameworks across multiple countries. It analyzes complex concepts including gridlock, monopoly/monopsony, federal systems, and authoritarian policymaking."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the term through multiple essays (three essays due Feb 7, Mar 7, and May 1) that build understanding of renewable energy politics, complemented by three exams. Students engage with comparative political analysis throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant independent intellectual work through three short essays (120, 150, and 180 points respectively, totaling 450 of 1000 points) that require students to analyze renewable energy politics topics independently."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 0,
+          "rationale": "The syllabus does not indicate that students define their own projects or shape research questions. Essays appear to be on assigned topics related to course content."
+        },
+        "consequential_decision_making": {
+          "score": 0,
+          "rationale": "There is no evidence that students engage in decision-making with intellectual or ethical consequences. The work appears to be analytical responses to course material rather than consequential decisions."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The course requires extended analytical commitment through three essays across the semester (due Feb 7, Mar 7, May 1) worth progressively more points (120, 150, 180), suggesting increasing depth. Students must prepare for Socratic method discussions requiring deep engagement with readings and the ability to think critically on their feet."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final essay due May 1 is worth 180 points out of 1000 (18% of grade), constituting a significant portion of the course grade. Combined with other essays (120 and 150 points), written work comprises 45% of the grade."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course does not include a portfolio or capstone-style artifact that integrates work across the term. Essays and exams are discrete assessments rather than cumulative integration."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "There is no evidence of public-facing or applied outcomes. Essays and exams appear to be submitted to the instructor rather than presented publicly or applied to real-world contexts."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The course has sustained assessment with multiple essays (450 points total), three exams (450 points total), and in-class participation (100 points). The majority of graded work requires critical analysis of renewable energy politics across different national contexts and synthesis of technical and political dimensions."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 300-level course (POL 323), which is upper-division, not lower-division. It is not designed as an introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on advanced analysis of renewable energy politics through comparative political frameworks rather than broad introductory coverage. It examines specific cases in depth (Japan, China, U.S., Germany, Denmark) with sophisticated analytical tools."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not skills-only or tool-training. It requires substantive analysis of political, institutional, and technological dimensions of renewable energy policy across countries."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: three essays totaling 450 points (45% of grade) and three exams totaling 450 points (45% of grade)."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets the interdisciplinary academics pillar through substantive integration of Natural Sciences/Engineering (energy technology, grid systems) and Social Sciences (political science, comparative politics). It satisfies rigor requirements through advanced content, sustained inquiry, and independent work. It meets student agency through extended analytical commitment across multiple essays. It demonstrates learning through major essays and sustained assessment. No exclusions apply."
+      }
+    },
+    "_source_file": "POL32300_Spring2019_WEGQQD.docx"
+  },
+  {
+    "course_information": {
+      "course_number": "POL 42900",
+      "course_title": "Governing Commons & Infrastructure for Sustainability",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates political science, economics, and environmental/infrastructure management to analyze governance of shared resources. The course description states students will 'use interdisciplinary approaches from political science, economics, and environmental and infrastructure management to analyze real-world governance challenges.' This represents integration across Social Sciences (political science, economics), Engineering and Technology (infrastructure management), and Natural Sciences (environmental systems), with a shared analytical framework (IAD framework) that synthesizes constructs from multiple domains."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The Individual Project requires students to conduct original institutional analysis of a real-world case they select. Students formulate their own research questions, collect and synthesize sources, conduct rules inventory and ADICO coding, evaluate governance performance, and propose improvements. The project involves 'apply[ing] course concepts to a real-world shared resource or infrastructure system that interests you' through systematic investigation culminating in a 6-10 page analytical report with original findings."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses real-world governance challenges, with Week 15 covering 'Think Globally, Act Locally & Challenges Ahead.' Students apply institutional analysis to actual cases of shared resources and infrastructure systems, analyze their performance using evaluation criteria, and propose improvements with real-world implications. The Final Institutional Analysis Report requires students to 'assess whether the institutional arrangements appear successful' and 'propose possible improvements,' demonstrating structured engagement with societal issues and reflection on governance effectiveness."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops students' capacity to evaluate and propose governance arrangements that shape collective action and resource management. Students learn to 'diagnose the conditions that support cooperation, resilience, and sustainable outcomes' and make consequential judgments about institutional design. The Final Report requires students to 'assess whether the institutional arrangements appear successful' and 'propose possible improvements,' demonstrating decision-making about governance structures and analysis through frameworks like Ostrom's design principles for institutional sustainability."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course engages advanced theoretical frameworks including the Institutional Analysis & Development (IAD) framework, Institutional Grammar (ADICO syntax), design principles for sustainable commons, resilience and robustness theory, and laboratory experimental methods. Reading from Ostrom's foundational work and advanced texts on institutional analysis demonstrates upper-level theoretical engagement. Topics include sophisticated analysis of institutional arrangements, social dilemmas, and systems perspectives on governance."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The Individual Project is structured as sustained inquiry across the entire semester through five progressive milestones building toward a comprehensive Final Institutional Analysis Report. Students develop their analysis iteratively: selecting a topic (Milestone 1), synthesizing sources (Milestone 2), conducting rules inventory (Milestone 3), identifying evaluation criteria (Milestone 4), applying ADICO coding (Milestone 5), culminating in a 6-10 page integrated analysis. Two project briefings further demonstrate ongoing development of the inquiry."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The Individual Project requires significant independent intellectual work. Students independently choose their topic and case, conduct literature reviews, identify and analyze institutional arrangements, apply theoretical frameworks (IAD, ADICO), evaluate performance, and propose improvements. The project accounts for 60% of the course grade (360/600 points) and requires sustained independent analysis across five milestone memos, two presentations, and a substantial final report."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have substantial agency in defining their Individual Project. The syllabus states: 'You will choose your own topic and case, and you are encouraged to stay with one topic throughout the semester.' Students select a 'real-world shared resource or infrastructure system that interests you' and shape the specific research question, case selection, and analysis approach within the institutional analysis framework."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The Final Institutional Analysis Report requires students to 'assess whether the institutional arrangements appear successful (and by what criteria), and propose possible improvements.' Students must make consequential analytical judgments about governance effectiveness, select appropriate evaluative criteria, and propose actionable improvements to real-world governance systems. These decisions have intellectual consequences for the validity of their analysis and applied implications for the governance cases studied."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The Individual Project requires extended analytical commitment through five milestone memos submitted across the semester, each building on previous work and receiving written feedback from the instructor. The syllabus states: 'Throughout the semester, I will provide written feedback to help you develop your project, strengthen your writing, and sharpen your critical thinking.' This iterative process of submission, feedback, and revision demonstrates sustained analytical engagement over the full semester."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Institutional Analysis Report (6-10 pages) constitutes a major deliverable worth 200 points out of 600 total (33.3% of course grade). Combined with the related milestone memos (90 points, 15%) and presentations (70 points, 11.6%), the entire Individual Project accounts for 360 points (60% of final grade), demonstrating it is a substantial, integrated intellectual product requiring application of course concepts to original analysis."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The Final Institutional Analysis Report functions as a capstone artifact that 'integrates your work across the milestones into an in-depth institutional analysis.' It synthesizes five milestone memos developed throughout the semester into a comprehensive analysis demonstrating mastery of institutional analysis frameworks, methods, and their application to a sustained case study."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students deliver two 10-minute in-class project briefings presenting their institutional analysis to peers. Project Briefing 2 'is based on your Final Institutional Analysis Report' and 'should present your full analysis, evaluation, and proposed improvements,' creating a public-facing presentation of their research that requires clear communication of complex academic analysis to an audience."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis. Six quizzes (40%) test conceptual understanding through short answers. The Individual Project (60%) involves five analytical milestone memos, two presentations, and a final report requiring 'clarity and logic of your argument and the quality of evidence you use.' All major assignments demand application of theoretical frameworks, evidence synthesis, and original analytical contributions rather than simple recall or reproduction."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "POL 429 is a 400-level course, indicating upper-division status. The advanced theoretical content (IAD framework, Institutional Grammar, Ostrom's design principles), sophisticated analytical methods, and requirement for original research project demonstrate this is not an introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on broad coverage but on deep application of institutional analysis frameworks. Students engage in sustained inquiry applying specialized analytical tools (IAD framework, ADICO coding, design principles) to cases they study in depth throughout the semester, rather than surveying a broad range of topics."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While the course teaches analytical tools (IAD framework, ADICO syntax, institutional analysis methods), these are integrated into substantive theoretical inquiry about governance, cooperation, and sustainability. The Individual Project requires application of these tools to generate original analysis and insights about real-world governance challenges, not merely skill demonstration."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The Final Institutional Analysis Report (6-10 pages, 33.3% of grade) is a substantial major deliverable. When combined with the related milestone memos and presentations comprising the Individual Project (60% total grade), the course clearly includes significant intellectual deliverables."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No information in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "POL 42900 meets all required criteria for Honors designation. It satisfies all four pillars through interdisciplinary integration of political science, economics, and engineering/environmental management (interdisciplinary_academics); original institutional analysis research (undergraduate_research); application to real-world governance challenges with reflection on effectiveness (community_and_global_engagement); and development of capacity to evaluate and propose governance arrangements (leadership_development). The course demonstrates rigor through advanced theoretical frameworks, sustained semester-long inquiry, and significant independent work. Student agency is evident in self-selected projects, consequential evaluation decisions, and iterative development with feedback. Demonstrable learning is shown through a major capstone report (33.3% of grade), integrated project portfolio (60% total), public presentations, and sustained analytical assessment. No exclusions apply. The course clearly exceeds Honors standards."
+      }
+    },
+    "_source_file": "POL42900_Spring2026_LWRZ2J.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "POL49500",
+      "course_title": "Legislative Internship, Capstone",
+      "department": "POL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course focuses exclusively on legislative behavior within political science, using case study methodology and quantitative analysis from within the social sciences domain. No evidence of integration with another high-level domain is present."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students formulate their own research questions, conduct systematic empirical investigation of legislative behavior using a case study approach, perform original quantitative analysis, and produce an original 2500-3000 word research paper with thesis, literature review, and statistical findings."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course is embedded in a legislative internship with the Indiana General Assembly, providing sustained engagement with a governmental institution. Students study real legislative processes (HB1032 redistricting legislation) and analyze actual legislator behavior, constituency pressures, and policy outcomes, though structured reflection on ethical/social dimensions is not explicitly detailed."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While students work in a legislative setting, the syllabus focuses on research and analysis of legislative behavior rather than developing students' own leadership capacity, decision-making skills, or reflection on leadership frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course requires advanced research methods including case study methodology, literature review of legislative behavior scholarship, and quantitative statistical analysis using tools like Stata, all within a capstone-level political science framework."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry throughout the term, from formulating research questions and completing a Research Article Worksheet (RAW) in February to producing a substantial case study by April, with iterative development of their analytical work."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The capstone project requires significant independent intellectual work, including self-directed choice of research focus ('the choice of the substantive hook or point to your paper is yours'), literature review, data analysis, and production of an original scholarly manuscript."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have substantial agency in defining their research approach: 'Perhaps your paper concerns the effects of attributes...Or perhaps your case study explores the effects of constituency pressures...The choice of the substantive hook or point to your paper is yours.'"
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential methodological and analytical decisions throughout the research process, including choosing their research angle, selecting appropriate literature, designing quantitative analysis, and developing and defending a thesis statement."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The project requires extended analytical commitment spanning multiple months (RAW due in February, final paper in April), with iterative development including formulation of thesis, literature review, statistical analysis, and synthesis into a coherent scholarly argument."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The capstone research paper (2500-3000 words) constitutes a major scholarly project requiring thesis development, literature review, original quantitative analysis, proper academic formatting and citation, and represents the fulfillment of the political science major capstone requirement."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "This is explicitly a capstone course ('POL495 Legislative Internship, Capstone') that integrates students' disciplinary knowledge with their internship experience to produce a culminating research project demonstrating synthesis of political science methods and real-world legislative observation."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The case study is submitted through Brightspace for academic evaluation. No evidence of public presentation, publication, or applied outcome beyond the academic context is indicated."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes the RAW submission, the major research paper with thesis, literature review, quantitative analysis, and proper scholarly apparatus, all requiring critical analysis and original contribution throughout the term."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "This is a 400-level capstone course (POL49500) that fulfills the political science major capstone requirement, not a lower-division introductory course."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course requires focused, advanced research on legislative behavior rather than broad introductory coverage, with students producing original scholarship using case study methodology and quantitative analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "While students learn case study methods and quantitative analysis, the primary focus is on conducting original research, developing a thesis-driven argument, and producing scholarly work, not merely acquiring technical skills."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course centers on a major intellectual deliverable: a 2500-3000 word capstone research paper with thesis, literature review, quantitative analysis, and scholarly documentation."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets two pillars (undergraduate research and community/global engagement), satisfies all three rigor criteria (advanced content, sustained inquiry, independent work), meets all three student agency criteria (student-defined projects, consequential decision-making, extended analytical commitment), and demonstrates learning through multiple mechanisms (major project, capstone artifact, sustained assessment). No exclusions apply. This is a well-structured capstone experience that integrates experiential learning with rigorous academic research."
+      }
+    },
+    "_source_file": "POL49500_Spring2026_AFLFRG.pdf"
   }
 ]

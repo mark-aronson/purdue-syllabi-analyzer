@@ -1,0 +1,206 @@
+[
+  {
+    "course_information": {
+      "course_number": "CE 49700",
+      "course_title": "3D Printing for Infrastructure Applications",
+      "department": "CE",
+      "college": "Engineering",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates knowledge from multiple high-level domains: Engineering and Technology (civil engineering, robotics, 3D printing technology), Natural and Exact Sciences (materials science, rheology, chemistry of polymers/metals/concrete), and demonstrates cross-domain integration through design activities that require knowledge of civil engineering, materials science, and mechanical engineering working together to solve infrastructure challenges."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through hands-on 3D printing activities, experiments, and data analysis. The course requires students to formulate questions through reading assignments, conduct experiments with concrete mixture design to meet specific requirements, and produce original findings through lab reports analyzing observations and conclusions from their experimental work."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course includes structured engagement with industry, national labs, and government labs through interactive discussions with guest speakers who provide real-world insights into engineering design challenges. The course explicitly aims to bridge the gap between engineering challenges and cutting-edge solutions in infrastructure development, connecting academic learning to real-world infrastructure applications."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "Students work in teams of 5-6 persons on collaborative projects requiring collective decision-making and responsibility. The course develops capacity to influence outcomes through team-based work on design projects, requires students to navigate constraints and make trade-offs in the design process (balancing aesthetics with structural integrity, cost-effectiveness with sustainability), and involves consequential decisions in mixture design and structural component creation."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical and analytical content on rheology, architected and bioinspired materials, robotics integration, and concrete mixture design. Students must understand complex relationships between printing parameters and quality, internal architecture effects on load response, and advanced CAD modeling for customized infrastructure solutions."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The course involves sustained inquiry across the entire term through iterative reading assignments (two major reading assignments spanning August through October), ongoing laboratory experiments requiring scheduled appointments with TAs, continuous data analysis, and culminating in a final presentation that demonstrates comprehensive understanding developed over the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative intellectual work through team-based projects, lab reports, and homework assignments completed in groups of 5-6 students. Additionally, individual work is required as each student finds and reads research papers, prepares individual sub-topics for final presentations, and contributes intellectually to team reports."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "After Reading Assignment #1, each group proposes their own second topic related to the first assignment, demonstrating student-shaped inquiry. Students also design their own 3D printed models tailored to precise needs and constraints, and the course emphasizes innovation and creativity, challenging students to come up with their own innovative solutions for infrastructure using 3D printing technology."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make decisions with intellectual consequences throughout the design process, including selecting printing parameters, designing concrete mixtures to meet rheology requirements, making trade-offs between design aesthetics and structural integrity, and ensuring quality assurance through evaluation of structural integrity and material properties of their printed models."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The work requires extended analytical commitment through iterative laboratory reports due one week after labs are performed, two sequential reading assignments with reports spanning multiple months, continuous data analysis from experiments, and cumulative knowledge integration demonstrated in the final presentation where students must demonstrate comprehensive understanding of the entire team's collective knowledge."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The final report and presentation constitutes 40% of the course grade, representing a major capstone deliverable. Additionally, lab reports and homework assignments constitute another 40% of the grade, demonstrating sustained major intellectual work throughout the term."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The final presentation requires knowledge homogenization where students demonstrate comprehensive understanding of their team's collective findings across both reading assignments and all laboratory work. Each student must prepare to present a sub-topic, demonstrating integration of work across the entire term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "Students create physical 3D printed models and structural components that constitute tangible, applied outcomes requiring academic judgment. The final presentation format and guest speaker interactions suggest a public-facing component where students present their work to external audiences from industry and national labs."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis, synthesis, and original contribution: lab reports analyzing experimental observations and conclusions (40%), reading assignments requiring synthesis of research literature into collective reports and presentations (part of 20% participation), and a final report/presentation integrating comprehensive knowledge (40%)."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "CE 497 is a 400-level course, indicating upper-division status. The course content focuses on advanced applications and cutting-edge innovations in 3D printing rather than foundational concepts."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course explores 3D printing for infrastructure, it emphasizes deep investigation through hands-on activities, experiments, data analysis, and advanced topics like rheology, architected materials, and bioinspired design, rather than broad survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course goes beyond tool training to include theoretical understanding of rheology and material science, design principles, analysis of experimental data, synthesis of research literature, and problem-solving for real engineering challenges."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: final report and presentation (40% of grade), lab reports throughout the term (40% of grade), and reading assignment reports with presentations."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus indicates this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "This course meets all four Honors pillars (interdisciplinary academics through integration of engineering, materials science, and infrastructure applications; undergraduate research through experiments and data analysis; community engagement through industry/lab guest speakers; leadership development through team-based decision-making). It satisfies all three rigor criteria (advanced content in rheology and materials, sustained inquiry across the term, significant collaborative work). It meets all three student agency criteria (student-defined second reading topic, consequential design decisions, extended analytical commitment). It provides demonstrable evidence of learning through major projects (80% of grade from reports/presentations), portfolio integration in final presentation, public-facing outcomes, and sustained assessment requiring analysis and synthesis. No exclusions apply."
+      }
+    },
+    "_source_file": "CE49700_Fall2025_EOZESR.pdf"
+  },
+  {
+    "course_information": {
+      "course_number": "CE 59700",
+      "course_title": "Innovation Science and Socio-technical Change",
+      "department": "CE",
+      "college": "Engineering",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates Engineering, Social Sciences, and Business domains. The description states solutions must 'span technical, economic, social, and cultural domains' and emphasizes 'perspectives spanning engineering, business, and society.' Learning outcomes include understanding cross-sector partnerships, stakeholder education, cultural adoption, and governance alongside technical obstacles, demonstrating genuine integration across high-level domains rather than mere coexistence."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Students engage in sustained inquiry through team projects applying innovation science concepts to 'contemporary real-world challenges' (45% of grade). Learning outcomes 4-6 require students to develop original analysis including 'robust assessments of assumptions underlying new ideas,' 'rigorous ideation methods,' and 'influence paths to drive adoption,' indicating knowledge creation extending beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses 'major challenges' and 'real-world challenges,' there is no evidence of sustained engagement with actual communities or organizations. The work appears to be analytical and classroom-based without direct community partnerships or structured reflection on engagement experiences."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course explicitly develops leadership capacity through 'analysis/working exercise leadership' (graded at 10%) and aims to 'prepare Purdue engineers for leadership roles in the 21st century.' Students make consequential decisions about innovation strategies, stakeholder influence, and cross-sector partnerships (learning outcomes 6-7), demonstrating intentional leadership practice within ethical and professional frameworks."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced theoretical content from systems science, complexity theory, and innovation science. Topics include First Principle Capability Analysis, Ecosystem Dynamics, Comprehensive Success Factor Analysis, and Innovation Motifs, representing graduate-level analytical frameworks applied to complex socio-technical problems."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The term-project constitutes 45% of the grade and involves 'weekly working exercises that culminate in a final presentation and/or perspective paper.' The syllabus describes 'periodic report-outs of interim project analyses' and engagement in 'collaborative problem solving,' demonstrating sustained inquiry across the entire term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires significant collaborative work through team projects (45% of grade) and individual work through homework assignments (20%) and case studies (25%). Both individual homework assignments that 'guide students through exploration of course concepts' and team-based application to real-world challenges demonstrate substantial intellectual work."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Teams apply innovation science concepts to 'their team's focal challenge for the course,' suggesting students have agency in defining or selecting their problem focus. The description of 'collaborative problem framing' and application to 'contemporary real-world challenges' indicates student-shaped project directions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students make consequential decisions about innovation strategies, including 'means to address technical obstacles,' stakeholder engagement approaches, 'influence paths to drive adoption,' and 'cross-sector partnerships to realize solutions and mitigate risks' (learning outcomes 3, 6, 7). These decisions have intellectual consequences for solution viability."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The term project involves 'weekly working exercises' with 'periodic report-outs of interim project analyses' and 'peer-to-peer feedback,' demonstrating iterative development. The 45% weight and final deliverable (presentation/paper) indicate extended analytical commitment with review and response cycles."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The term project constitutes 45% of the course grade and culminates in 'a final presentation and/or perspective paper,' representing a major deliverable that integrates innovation science concepts applied to real-world challenges across the term."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "While the final project is substantial, there is no evidence of a portfolio integrating multiple discrete works or a capstone-style artifact that synthesizes learning across different course components beyond the single term project."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "The final presentation appears to be classroom-based without evidence that it is public-facing or delivered to external stakeholders. There is no mention of public dissemination, community presentation, or applied outcomes beyond the academic context."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The assessment structure includes case studies (25%) requiring analysis of 'key concepts, theories, and language,' homework (20%) guiding 'exploration of course concepts,' weekly team exercises (45%), and engagement assessments (10%). The majority of graded work requires critical analysis, synthesis, or original application of innovation science frameworks."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "CE 59700 is a 500-level graduate course, not a lower-division course. It is designed for advanced study of innovation science and socio-technical change with no field-specific prerequisites, suggesting it serves graduate students."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course focuses on advanced application of innovation science methods to complex problems rather than broad introductory coverage. The emphasis on 'rigorous methods,' specialized analytical frameworks (e.g., First Principle Capability Analysis, Ecosystem Dynamics), and sustained project work indicates depth over breadth."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course integrates theoretical frameworks, analytical methods, and conceptual understanding with practical application. It is not limited to tool training but rather develops holistic analytical capacity through systems science, innovation theory, and complex problem-solving."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes a major term project worth 45% of the grade, culminating in a final presentation and/or perspective paper, constituting a substantial intellectual deliverable."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no indication in the syllabus that this course is already counted through another Honors credit mechanism. It may be incorporated into the Minor in Innovation and Transformational Change or Graduate Concentration, but this does not constitute prior Honors counting."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "The course meets multiple pillars (interdisciplinary academics, undergraduate research, and leadership development), satisfies all rigor criteria (advanced content, sustained inquiry, and collaborative work), meets all student agency criteria (student-defined projects, consequential decision-making, and extended analytical commitment), provides demonstrable evidence of learning through a major project and sustained assessment, and triggers no exclusions. It clearly meets Honors College standards for advanced interdisciplinary work integrating engineering, social sciences, and business perspectives."
+      }
+    },
+    "_source_file": "CE59700_Spring2026_K6GECN.pdf"
+  }
+]

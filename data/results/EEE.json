@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "CE EEE 35500",
+      "course_title": "Engineering Environmental Sustainability",
+      "department": "CE EEE",
+      "college": "Engineering",
+      "review_date": "01/15/2025"
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course explicitly integrates Engineering/Technology with Social Sciences (political, economic contexts), Natural Sciences (ecosystem impacts, climate), and Humanities (ethics). Learning objectives reference 'environmental, social, political, and economic dimensions' (2.1), 'ethical frameworks' (2.1e), and 'intercultural dimensions' (3.1a). The 'Two Cities Sustainability Plan' requires analyzing food, water, energy, and urbanization through multiple lenses, demonstrating integrated cross-domain work beyond simple sequencing."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The course requires students to formulate sustainability questions, collect and analyze data, and develop 'original and innovative management strategies for real-world sustainability problems' (1.1). The 'Two Cities' project involves investigation of water balance, energy systems, and food footprints for specific cities, producing applied findings. Students 'synthesize interdisciplinary knowledge to envision a sustainable future' (1.1c), extending beyond established answers."
+        },
+        "community_and_global_engagement": {
+          "score": 1,
+          "rationale": "The course explicitly addresses global issues (10 billion population by 2050, global resource utilization, climate change, wealth inequality). Learning objectives include 'gaining knowledge of diverse international and cultural perspectives' (3.1), 'civic engagement in solving sustainability issues' (3.1c), and 'engaging others of different cultural experiences' (3.1a). The 'Two Cities' project connects academic learning to real-world contexts in specific urban areas, with structured reflections throughout (9 reflection assignments)."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course develops leadership through team projects requiring 'social responsibility and leadership in managing sustainability issues' (3.1) and extensive teamwork with team constitutions. Students must 'constructively evaluate their own and others' performances' (3.2), make decisions with ethical consequences (comparing 'alternative ethical frameworks' 2.1e), and develop 'original proposals for sustainability' (1.1d). Peer evaluations are required throughout, fostering reflection on leadership and responsibility."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course addresses advanced content including systems thinking ('discrete systems interact within larger natural and engineered interdependent systems' 2.1c), quantitative sustainability analysis, resource modeling (water balance, energy systems, food footprints), climate science (IPCC and NOAA reports), and ethical frameworks. The learning objectives require synthesizing interdisciplinary knowledge at an advanced level."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The 'Two Cities' project is a sustained inquiry across the entire semester, with components for food (Unit B), water (Unit C), energy (Unit D), and a final sustainability plan (Unit E). Students develop proposals, collect data, analyze systems, and produce a comprehensive sustainability plan through iterative work over 15+ weeks."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The course requires both significant team-based collaborative work (405 points, 40.5% of grade) on the 'Two Cities' project and other team assignments, plus substantial individual work (595 points) including reflections, analysis assignments, and an individual sustainability assignment. The team constitution and peer evaluations structure collaborative intellectual responsibility."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "The 'Two Cities' project allows teams to select their cities for analysis and develop their own sustainability plans. Students 'develop original and innovative management strategies' (1.1) and create team constitutions defining their working processes. The course emphasizes student-centered learning where students 'actively engage in the curriculum' to address sustainability challenges."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make decisions with ethical and intellectual consequences, including 'comparing consequences of alternative ethical frameworks' (2.1e), evaluating 'strategic opportunities for change' (2.2c), and developing sustainability proposals that could influence real urban systems. The team constitution requires teams to establish 'conditions and procedures for allocating points,' with peer evaluations affecting individual grades."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The 'Two Cities' project requires extended analytical commitment from proposal (Week 4) through final plan (Week 15), with intermediate deliverables, data tables, and Project Information Exchange (PIE) days for iterative feedback. Multiple peer reviews (3 throughout semester) and 9 unit reflections provide structured iterative review and response opportunities."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The 'Two Cities Sustainability Plan' is a major capstone project worth a substantial portion of the grade (team assignments total 405/1000 points, with the final plan due April 28). It integrates work across food, water, energy, and urbanization units, requiring comprehensive analysis and original proposals."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The 'Two Cities Sustainability Plan' serves as a capstone integrating learning across all five units (Food, Water, Energy, Urbanization). The 'Synthesis Reflection' assignment explicitly requires students to reflect on and integrate learning from previous projects across the term. The final 'Ah-ha Moments' activity synthesizes course-long learning."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The course includes a 'Public Meeting' (April 10) and Project Information Exchange (PIE) days where students present their work. The 'Two Cities Sustainability Plan' applies academic judgment to real urban contexts, producing actionable sustainability recommendations. Learning objectives emphasize communicating 'to increase knowledge and understanding of the audience' (1.2)."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work requires critical analysis and synthesis: 9 unit reflections, multiple analytical assignments (water balance, energy analysis, food footprint), movie assignments requiring critical viewing, peer reviews, and the iterative 'Two Cities' project components. Pre- and post-assessments for each unit track analytical development. Only 595 of 1000 points are individual, but most require substantive analysis rather than recall."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 0,
+          "rationale": "While the course number (355) is technically lower-division in some systems, it has sophomore standing as prerequisite and operates at advanced level with systems thinking, interdisciplinary integration, and capstone-like project work. The course description states 'Sustainable Engineering could become the great new discipline of this millennium,' indicating advanced application rather than foundational introduction."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not focused on coverage but on advanced analysis and application through the sustained 'Two Cities' project. Students develop original sustainability plans rather than surveying topics. Learning objectives emphasize synthesis, evaluation, and creation of novel approaches rather than introductory understanding."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course develops critical and creative thinking, systems analysis, and ethical reasoning\u2014not just technical skills. While quantitative analysis is included, it serves broader objectives of developing 'original and innovative management strategies' and understanding 'interconnectivity between environmental, social, political, and economic issues.'"
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The 'Two Cities Sustainability Plan' is a major capstone deliverable integrating semester-long work across multiple units, requiring original analysis, synthesis, and actionable recommendations."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "No evidence in the syllabus suggests this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "approved",
+        "rationale": "This course meets all four pillars (interdisciplinary academics, undergraduate research, community and global engagement, leadership development) with clear evidence. It satisfies rigor requirements through advanced content, sustained inquiry, and collaborative work. Student agency is demonstrated through student-defined projects, consequential decision-making, and extended analytical commitment. Learning is evidenced through a major capstone project, portfolio-style integration, public-facing outcomes, and sustained assessment. No exclusions apply. The course strongly exemplifies Honors teaching and learning across all criteria."
+      }
+    },
+    "_source_file": "EEE35500_Spring2026_7EWXQP.pdf"
+  }
+]
