@@ -1,8 +1,8 @@
 {
   "program": "Semiconductor & Microelectronics Certificate",
   "total_courses": 58,
-  "found": 6,
-  "missing_count": 51,
+  "found": 7,
+  "missing_count": 49,
   "missing_courses": [
     "CHE 42000",
     "CHE 45600",
@@ -23,7 +23,6 @@
     "ECE 55900",
     "ECE 56800",
     "ECE 59500",
-    "ENGR 10301",
     "IE 37000",
     "IE 38300",
     "IE 38600",
@@ -34,7 +33,6 @@
     "IE 53200",
     "IE 53300",
     "IE 55800",
-    "IE 56600",
     "IE 57000",
     "IE 57900",
     "IE 58200",
@@ -56,8 +54,9 @@
     "NUCL 55300",
     "PHYS 52600"
   ],
-  "excluded_count": 1,
+  "excluded_count": 2,
   "excluded_courses": [
+    "IE 56600",
     "MGMT 47900"
   ]
 }

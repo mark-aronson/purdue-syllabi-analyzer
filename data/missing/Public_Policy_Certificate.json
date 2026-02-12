@@ -2,13 +2,13 @@
   "program": "Public Policy Certificate",
   "total_courses": 32,
   "found": 28,
-  "missing_count": 4,
-  "missing_courses": [
+  "missing_count": 0,
+  "missing_courses": [],
+  "excluded_count": 4,
+  "excluded_courses": [
     "POL 52300",
     "POL 52400",
     "POL 53100",
     "POL 53200"
-  ],
-  "excluded_count": 0,
-  "excluded_courses": []
+  ]
 }

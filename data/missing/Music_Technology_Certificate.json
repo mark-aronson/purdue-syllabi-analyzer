@@ -1,21 +1,9 @@
 {
   "program": "Music Technology Certificate",
   "total_courses": 11,
-  "found": 0,
-  "missing_count": 11,
-  "missing_courses": [
-    "ECET 17700",
-    "ECET 17900",
-    "ECET 22400",
-    "MUS 13200",
-    "MUS 16100",
-    "MUS 16200",
-    "MUS 25000",
-    "MUS 27000",
-    "MUS 37600",
-    "MUS 37800",
-    "MUS 38300"
-  ],
+  "found": 11,
+  "missing_count": 0,
+  "missing_courses": [],
   "excluded_count": 0,
   "excluded_courses": []
 }

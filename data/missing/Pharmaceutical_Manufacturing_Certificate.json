@@ -1,8 +1,8 @@
 {
   "program": "Pharmaceutical Manufacturing Certificate",
   "total_courses": 101,
-  "found": 27,
-  "missing_count": 70,
+  "found": 29,
+  "missing_count": 65,
   "missing_courses": [
     "ABE 30300",
     "ABE 30800",
@@ -10,9 +10,7 @@
     "ABE 50501",
     "ABE 50502",
     "ABE 51100",
-    "ABE 51200",
     "ABE 51300",
-    "ABE 55800",
     "BIOL 41500",
     "BIOL 41600",
     "BIOL 51099",
@@ -25,7 +23,6 @@
     "BME 50100",
     "BME 55600",
     "BME 56100",
-    "BME 56200",
     "BME 56300",
     "BME 56400",
     "CHE 55100",
@@ -40,7 +37,6 @@
     "CHM 43300",
     "CHM 43800",
     "EEE 59500",
-    "ENGR 10301",
     "HSOP 50100",
     "IE 37000",
     "IE 48100",
@@ -50,7 +46,6 @@
     "IE 53500",
     "IE 53600",
     "IE 55800",
-    "IE 56600",
     "IE 57400",
     "IE 57900",
     "IE 58000",
@@ -75,9 +70,12 @@
     "PHRM 82900",
     "PHRM 83600"
   ],
-  "excluded_count": 4,
+  "excluded_count": 7,
   "excluded_courses": [
+    "ABE 51200",
+    "ABE 55800",
     "IE 33600",
+    "IE 56600",
     "MGMT 47900",
     "MGMT 54400",
     "STAT 35500"
