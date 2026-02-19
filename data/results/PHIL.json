@@ -1,7 +1,105 @@
 [
   {
-    "_source_file": "PHIL20700_Spring2026_8759NC.pdf",
-    "_error": "1 validation error for SyllabusReview\ncourse_analysis.review_decision.rationale\n  Field required [type=missing, input_value={'decision': 'approved', .... No exclusions apply.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
+    "course_information": {
+      "course_number": "PHIL 20700",
+      "course_title": "Ethics for Technology, Engineering and Design",
+      "department": "PHIL",
+      "college": "Liberal Arts",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 1,
+          "rationale": "The course integrates Philosophy/Humanities (professional ethics frameworks, ethical principles, codes of ethics) with Engineering and Technology (obligations of engineers and designers, global engineering practice, safety responsibilities). The required textbook is 'Global Engineering Ethics' and the course explicitly addresses how engineers must apply ethical reasoning to technical professional decisions, creating genuine integration where neither domain alone suffices to analyze the case studies."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "Each case study requires students to independently identify 'some actual, concrete event, researching the facts involved' using at least three credible sources beyond class materials, then produce an original ethical analysis. This constitutes original inquiry—students formulate their own ethical judgments about real-world engineering cases rather than applying established answers to predetermined examples."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "While the course addresses global engineering ethics contexts and uses real-world cases, there is no evidence of sustained engagement with actual communities or organizations, nor structured reflection on the ethical/social dimensions of direct engagement experiences. The case study analysis is conducted within the classroom context."
+        },
+        "leadership_development": {
+          "score": 1,
+          "rationale": "The course explicitly develops students' capacity to make ethical decisions in professional engineering contexts. Topics include 'role responsibilities,' 'conflicting duties,' 'faithful agency,' 'whistleblowing,' and professional codes of ethics—frameworks for ethical decision-making with real professional consequences that develop leadership capacity for engineers in organizational contexts."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course covers advanced content in professional ethics including derivation of engineering ethical principles, safety and risk responsibilities, global business ethics, conflicts of interest, and whistleblowing obligations—topics requiring sophisticated ethical reasoning applied to complex professional situations using an advanced theoretical framework."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "Students complete three case studies across the term (two short practice essays and one final essay/presentation worth 50% of the grade), each requiring independent research and original ethical analysis, demonstrating sustained intellectual engagement throughout the semester."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The final essay or presentation (50% of grade) plus two practice case studies (40% combined) require substantial independent intellectual work, including original research from multiple credible sources and development of value-based ethical arguments about real-world engineering cases."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "For each case study, students independently identify and select 'some actual, concrete event' to analyze, giving them agency in defining the specific subject of their ethical inquiry. The final case study additionally offers student choice between essay and slide presentation format."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "Students must make consequential ethical judgments about what engineers should have done in real cases, applying the course framework to determine right and wrong professional conduct. The final case study (50% of grade) requires producing and defending a value-based ethical position on an actual engineering situation with intellectual stakes."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The two short case studies serve as iterative practice for the final case study, building analytical skills across the term. The peer review component of Short Case Study 1 provides structured feedback and response, and the final case study (1,600-2,400 words or 10-minute presentation) requires extended analytical development and research."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The Final Essay or Presentation constitutes 50% of the course grade—a major intellectual deliverable requiring research, ethical analysis, and argumentation about a real engineering case, with the option of a 10-minute public presentation."
+        },
+        "portfolio_or_capstone": {
+          "score": 0,
+          "rationale": "The course does not include a portfolio or capstone-style artifact integrating work across the term; the three case studies are related in format but are discrete assignments building progressively toward the final."
+        },
+        "public_facing_outcome": {
+          "score": 0,
+          "rationale": "While some final presentations may be given in class, the syllabus indicates others will be submitted as videos on Brightspace; there is no evidence of a genuinely public-facing outcome requiring academic judgment beyond the classroom audience."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "90% of graded work (Short Case Study 1: 15%, Short Case Study 2: 25%, Final: 50%) requires original ethical analysis of real engineering cases with independent research. With no exams or quizzes, virtually all assessment demands critical reasoning and analytical ethical judgment."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "PHIL 207 is a 200-level course, placing it in the lower-division category. The course introduces a foundational conceptual framework for engineering ethics (covering what ethics is, professional codes, basic ethical principles for global engineering) before applying it to case studies, indicating introductory-level foundational content in the discipline of professional ethics."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "The course is not broadly introductory in coverage; it focuses specifically on professional ethics for engineers and designers using a unified ethical framework (from Luegenbiehl and Clancy) applied consistently to real case studies, representing depth of applied analysis rather than broad survey coverage."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is clearly conceptual and analytical, centered on ethical reasoning, professional responsibility frameworks, and original analysis of real-world cases rather than technical skill or tool training."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The Final Essay or Presentation (50% of grade) constitutes a major intellectual deliverable, and the two practice case studies (40% combined) also represent substantial analytical work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "Although the course meets three pillars (interdisciplinary academics, undergraduate research, and leadership development), satisfies all rigor criteria, all student agency criteria, and multiple demonstrable evidence criteria, it triggers the lower_division_introductory exclusion. PHIL 207 is a 200-level course that introduces a foundational ethical framework for engineering practice, making it ineligible for Honors credit despite its otherwise strong analytical requirements and case study structure."
+      }
+    },
+    "_source_file": "PHIL20700_Spring2026_8759NC.pdf"
   },
   {
     "course_information": {

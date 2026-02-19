@@ -2346,10 +2346,6 @@
     "_source_file": "POL\\POL36000_Spring2026_TKGLIW.pdf"
   },
   {
-    "_source_file": "POL\\POL37200_Spring2026_ZKCGSR.pdf",
-    "_error": "1 validation error for SyllabusReview\ncourse_analysis.review_decision.rationale\n  Field required [type=missing, input_value={'decision': 'approved', .... No exclusions apply.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
-  },
-  {
     "course_information": {
       "course_number": "POL 403",
       "course_title": "Internship Experience",

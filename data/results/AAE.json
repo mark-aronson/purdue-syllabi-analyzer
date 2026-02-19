@@ -1,0 +1,104 @@
+[
+  {
+    "course_information": {
+      "course_number": "AAE 25100",
+      "course_title": "Introduction to Aerospace Design",
+      "department": "AAE",
+      "college": "Engineering",
+      "review_date": null
+    },
+    "course_analysis": {
+      "pillars": {
+        "interdisciplinary_academics": {
+          "score": 0,
+          "rationale": "The course is focused entirely within aerospace engineering, covering topics such as aerodynamics, orbital mechanics, rocket propulsion, and aircraft design. While it addresses multiple aerospace engineering subdisciplines, there is no evidence of integration with knowledge domains outside of Engineering and Technology (e.g., Social Sciences, Humanities, Business)."
+        },
+        "undergraduate_research": {
+          "score": 1,
+          "rationale": "The semester-long team design project requires students to 'develop either a space system or an aircraft design' with structured milestones and peer reviews. This involves formulating design questions, analyzing evidence through technical calculations, and producing original conceptual designs that go beyond reproducing established knowledge."
+        },
+        "community_and_global_engagement": {
+          "score": 0,
+          "rationale": "The syllabus does not describe any sustained engagement with communities, organizations, or global issues outside the classroom. The bonus assignment to attend engineering talks is optional and does not involve structured reflection on ethical, social, or cultural dimensions."
+        },
+        "leadership_development": {
+          "score": 0,
+          "rationale": "While students work in teams and are expected to 'contribute actively' and 'pull your weight,' there is no explicit development of leadership capacity through intentional practice, reflection on leadership frameworks, or analysis of decision-making in civic or professional contexts. Team collaboration is present but leadership development is not structured."
+        }
+      },
+      "rigor": {
+        "advanced_content": {
+          "score": 1,
+          "rationale": "The course includes advanced aerospace engineering content such as deriving equations for fluid flow (Bernoulli's principle, continuity, momentum equations), orbital mechanics (Kepler's laws, vis-viva equation, Hohmann transfers), rocket propulsion (thrust equation, ideal rocket equation, multi-stage optimization), and aircraft performance (equations of motion, Breguet range equation). These topics involve theoretical derivation and analytical methods beyond introductory level."
+        },
+        "sustained_inquiry": {
+          "score": 1,
+          "rationale": "The semester-long team design project involves sustained inquiry and problem-solving. Students 'progress via a series of structured milestone assignments and peer reviews' culminating in a final project report and presentation video, demonstrating sustained design work across the term."
+        },
+        "independent_or_collaborative_work": {
+          "score": 1,
+          "rationale": "The team design project (35% of grade) requires 'significant independent or collaborative intellectual work' over the semester. Students must develop mission statements, requirements, stakeholder analysis, and technical designs. Individual Self Assessments (30% of grade) also require independent synthesis of course material."
+        }
+      },
+      "student_agency_and_responsibility": {
+        "student_defined_projects": {
+          "score": 1,
+          "rationale": "Students have agency in defining aspects of their design projects. The course states students 'will work in teams over the semester to develop either a space system or an aircraft design,' indicating choice in system type and likely design parameters within project constraints. The project involves creating mission, needs, and requirements statements, suggesting student-shaped questions."
+        },
+        "consequential_decision_making": {
+          "score": 1,
+          "rationale": "The design project requires students to make consequential technical decisions (e.g., propellant selection, staging configuration, orbit selection) with intellectual consequences for design feasibility and performance. Learning outcomes include 'Determine and motivate the appropriate propellant(s)' and 'Discuss the trade-offs involved in orbit selection,' indicating decision-making with intellectual weight."
+        },
+        "extended_analytical_commitment": {
+          "score": 1,
+          "rationale": "The semester-long design project with milestone assignments and peer reviews requires 'extended analytical commitment and iterative review/response.' Individual Self Assessments (30% of grade) require students to compile 'a comprehensive summary of all the material we covered,' demonstrating sustained analytical work."
+        }
+      },
+      "demonstrable_evidence_of_learning": {
+        "major_project": {
+          "score": 1,
+          "rationale": "The team design project constitutes 35% of the course grade and includes 'a project report and a presentation video,' representing a major deliverable that integrates technical analysis and design work across the semester."
+        },
+        "portfolio_or_capstone": {
+          "score": 1,
+          "rationale": "The Individual Self Assessments (30% of grade) require students to 'compile a self-assessment of your learning' with 'a comprehensive summary of all the material we covered,' functioning as a portfolio-style artifact integrating work across the term."
+        },
+        "public_facing_outcome": {
+          "score": 1,
+          "rationale": "The Vehicle of the Week (VOTW) assignment (10% of grade) requires teams to research an aerospace system and prepare 'a presentation and report about it' for other teams to watch and learn from, constituting a public-facing outcome requiring academic judgment."
+        },
+        "sustained_assessment": {
+          "score": 1,
+          "rationale": "The majority of graded work (Individual Self Assessments 30%, Team Project 35%, VOTW 10%, Book Report 5%) requires critical analysis, synthesis, or original contribution, totaling 80% of the grade. This demonstrates sustained assessment requiring higher-order thinking."
+        }
+      },
+      "exclusions": {
+        "lower_division_introductory": {
+          "score": 1,
+          "rationale": "AAE 251 is a 200-level course titled 'Introduction to Aerospace Design,' clearly positioned as a lower-division introductory course within the aerospace engineering curriculum designed to introduce foundational aerospace concepts to students early in their program."
+        },
+        "broad_introductory_coverage": {
+          "score": 0,
+          "rationale": "While the course is introductory, it is not focused solely on broad coverage. It involves significant design work with advanced technical content (deriving equations, applying theoretical frameworks) and sustained inquiry through the semester-long design project, moving beyond simple coverage to application and analysis."
+        },
+        "skills_only_or_tool_training": {
+          "score": 0,
+          "rationale": "The course is not a skills-only or tool-training course. While MATLAB coding is mentioned (LO 6.9), it is integrated into solving rocket staging problems, not the primary focus. The course emphasizes conceptual understanding, equation derivation, and design application."
+        },
+        "lacks_major_deliverable": {
+          "score": 0,
+          "rationale": "The course includes multiple major deliverables: the team design project (35% of grade) with report and presentation, Individual Self Assessments (30%), and VOTW presentation and report (10%). These represent substantial intellectual work."
+        },
+        "already_counted": {
+          "score": 0,
+          "rationale": "There is no evidence in the syllabus that this course credit is already counted through another Honors credit mechanism."
+        }
+      },
+      "review_decision": {
+        "decision": "not_approved",
+        "rationale": "While the course meets the undergraduate research pillar and satisfies all rigor, student agency, and demonstrable evidence requirements, it triggers a critical exclusion: it is a lower-division introductory course (AAE 251, 200-level, 'Introduction to Aerospace Design') designed to introduce foundational aerospace concepts. This exclusion disqualifies the course from Honors College eligibility despite its otherwise strong pedagogical features including a substantial design project, advanced technical content, and sustained inquiry."
+      }
+    },
+    "_source_file": "AAE25100_Spring2026_Q69UWG.pdf"
+  }
+]

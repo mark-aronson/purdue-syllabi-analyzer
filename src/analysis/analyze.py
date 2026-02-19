@@ -237,6 +237,80 @@ def find_missing_syllabi(program_name: str) -> list[str] | None:
     return missing
 
 
+def find_unanalyzed_courses(program_name: str) -> list[str] | None:
+    """Find courses in a program that have syllabi but have not yet been analyzed.
+
+    Scans data/results/*.json to determine which courses have already been analyzed,
+    then returns the courses in the program that are neither analyzed nor excluded.
+    Results are saved to data/unanalyzed/{Program_Name}.json.
+
+    Returns a sorted list of unanalyzed course codes, or None if the program is not found.
+    """
+    if not PROGRAMS_FILE.exists():
+        print(f"Programs file not found: {PROGRAMS_FILE}")
+        return None
+
+    programs = json.loads(PROGRAMS_FILE.read_text(encoding="utf-8"))
+    if program_name not in programs:
+        print(f"Program not found: {program_name}")
+        print(f"Available programs: {', '.join(programs.keys())}")
+        return None
+
+    courses = programs[program_name]
+
+    # Load excluded courses
+    excluded: set[str] = set()
+    if EXCLUDED_COURSES_FILE.exists():
+        excluded = {c.replace(" ", "").upper()
+                    for c in json.loads(EXCLUDED_COURSES_FILE.read_text(encoding="utf-8"))}
+
+    # Collect all analyzed course codes from results files
+    analyzed_codes: set[str] = set()
+    if RESULTS_DIR.exists():
+        for result_file in RESULTS_DIR.glob("*.json"):
+            try:
+                entries = json.loads(result_file.read_text(encoding="utf-8"))
+                for entry in entries:
+                    source = entry.get("_source_file", "")
+                    code = source.split("_")[0].upper()
+                    if code:
+                        analyzed_codes.add(code)
+            except (json.JSONDecodeError, AttributeError):
+                continue
+
+    excluded_in_program = [c for c in courses if _normalize_course_code(c) in excluded]
+    unanalyzed = [c for c in courses
+                  if _normalize_course_code(c) not in analyzed_codes
+                  and _normalize_course_code(c) not in excluded]
+    unanalyzed.sort()
+
+    analyzed_count = len(courses) - len(unanalyzed) - len(excluded_in_program)
+    print(f"Program '{program_name}': {len(courses)} courses, "
+          f"{analyzed_count} analyzed, {len(unanalyzed)} unanalyzed, "
+          f"{len(excluded_in_program)} excluded")
+    if unanalyzed:
+        for c in unanalyzed:
+            print(f"  {c}")
+
+    unanalyzed_dir = Path(__file__).parents[2] / "data" / "unanalyzed"
+    unanalyzed_dir.mkdir(parents=True, exist_ok=True)
+    slug = program_name.replace(" ", "_")
+    output_path = unanalyzed_dir / f"{slug}.json"
+    output = {
+        "program": program_name,
+        "total_courses": len(courses),
+        "analyzed": analyzed_count,
+        "unanalyzed_count": len(unanalyzed),
+        "unanalyzed_courses": unanalyzed,
+        "excluded_count": len(excluded_in_program),
+        "excluded_courses": sorted(excluded_in_program),
+    }
+    output_path.write_text(json.dumps(output, indent=2), encoding="utf-8")
+    print(f"Results saved to {output_path}")
+
+    return unanalyzed
+
+
 def analyze_program(program_name: str):
     """Analyze all syllabi for courses in a program defined in programs.json.
 
